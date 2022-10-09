@@ -5,7 +5,7 @@ const Home = () => {
     return (
         <div className="w3-panel w3-padding-32">
             <div className="w3-row-padding">
-                <div className="w3-col m4 l3 w3-border">
+                <div className="w3-col m4 l4 w3-border">
                     <h3>Tentang Aplikasi</h3>
                     <p>
                         Aplikasi ini sendiri dibangun menggunakan jasa ReactJS, yang berarti kita akan menggunakan 
@@ -21,7 +21,7 @@ const Home = () => {
                         di tempat lain dengan hanya menulis sedikit kode.
                     </p>
                 </div>
-                <div className="w3-col m8 l9">
+                <div className="w3-col m8 l8">
                     <h1>Home</h1>
                     <p>Testing ambil gambar dari static.</p>
                 </div>

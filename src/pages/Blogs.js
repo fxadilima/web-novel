@@ -1,12 +1,21 @@
 import React from 'react';
 import Peristiwa from '../cards/Ancients';
+//import {Outlet, Link} from 'react-router-dom';
 
 const AplikasiTahap1 = () => {
     return (
         <div className="w3-container" id="aplikasiTahap1">
             <h2>Aplikasi Tahap 1</h2>
             <p>
-                Ceritakan detil mengenai aplikasi ini dalam tahap awal pengembangannya.
+                Pada tahap ini kita masih menjelajahi kemungkinan-kemungkinan baru yang unik untuk mengembangkan
+                aplikasi, tetapi kita tentunya memerlukan sebuah topik. Sejarah dipilih karena pembahasannya lumayan mudah,
+                saya sendiri adalah penggemar cerita sejarah, karenanya mengisi konten akan relatif mudah untuk saya.
+            </p>
+            <p>
+                Target akhir adalah memuatnya ke suatu host yang seharusnya banyak diakses orang karena sudah populer, misalnya
+                Firebase, atau host bagi aplikasi ini sendiri, yaitu <a href="https://www.netlify.com/" target="_blank">Netlify</a>.
+                Untuk sebuah aplikasi yang pada dasarnya terdiri dari <em>static pages</em>, meskipun dibuat dengan JavaScript, perbedaan 
+                antar host sebenarnya kurang signifikan.
             </p>
         </div>
     );
