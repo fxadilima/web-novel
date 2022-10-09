@@ -26,6 +26,7 @@ const AplikasiTahap1 = () => {
             <p>
                 Sebuah tautan yang merujuk ke <em>virtual DOM</em> seperti <Link to="/people">Link ke People</Link> tidak sama dengan tautan yang merujuk ke tempat lain di luar route dari React. 
             </p>
+            <Outlet />
         </div>
     );
 }
