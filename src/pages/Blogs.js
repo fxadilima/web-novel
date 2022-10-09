@@ -1,6 +1,6 @@
 import React from 'react';
 import Peristiwa from '../cards/Ancients';
-//import {Outlet, Link} from 'react-router-dom';
+import {Outlet, Link} from 'react-router-dom';
 
 const AplikasiTahap1 = () => {
     return (
@@ -12,10 +12,19 @@ const AplikasiTahap1 = () => {
                 saya sendiri adalah penggemar cerita sejarah, karenanya mengisi konten akan relatif mudah untuk saya.
             </p>
             <p>
-                Target akhir adalah memuatnya ke suatu host yang seharusnya banyak diakses orang karena sudah populer, misalnya
-                Firebase, atau host bagi aplikasi ini sendiri, yaitu <a href="https://www.netlify.com/" target="_blank">Netlify</a>.
+                Target akhir adalah memuatnya ke suatu host yang seharusnya banyak diakses orang karena sudah populer, misalnya Firebase atau Netlify.
                 Untuk sebuah aplikasi yang pada dasarnya terdiri dari <em>static pages</em>, meskipun dibuat dengan JavaScript, perbedaan 
-                antar host sebenarnya kurang signifikan.
+                antar host sebenarnya kurang signifikan, tetapi sebaiknya kita memilih host yang memungkinkan kita menggunakan JavaScript di sisi 
+                server, karena nantinya akan sangat berguna.
+            </p>
+            <p>
+                Cara menuliskan beberapa elemen HTML agak berubah kalau menggunakan React, misalnya sebuah <em>anchor</em>, yang berisi link ke salah satu 
+                tempat, harus kita tulis sebagai <pre>&lt;<code>Link</code>&gt;</pre> dan bukannya <pre>&lt;<code>a</code>&gt;</pre>. Juga 
+                dalam penulisan atribut untuk sebuah <code>tag</code>, kita harus lebih hati-hati, karena beberapa istilah sebetulnya konflik dengan 
+                natur dari React, terutama sekali "class", untuk ini istilah yang dipakai adalah "className".
+            </p>
+            <p>
+                Sebuah tautan yang merujuk ke <em>virtual DOM</em> seperti <Link to="/people">Link ke People</Link> tidak sama dengan tautan yang merujuk ke tempat lain di luar route dari React. 
             </p>
         </div>
     );
@@ -35,7 +44,7 @@ const Blogs = () => {
                 <div className="w3-col m3 l3">
                     <Peristiwa id="1" />
                 </div>
-                <div className="w3-col m9 l9">
+                <div className="w3-col m9 l9" id="adegan_ritual">                    
                     <h2>Dinasti Shang</h2>
                     <p>
                         Ritual Dinasti Shang yang diilustrasikan oleh drama <strong>Investiture of The Gods (2019)</strong>,
