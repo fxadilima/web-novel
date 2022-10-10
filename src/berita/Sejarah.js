@@ -16,6 +16,7 @@ const Sejarah = () => {
                     <Link className="w3-bar-item w3-btn" to="/people">People</Link>
                 </div>
             </p>
+            <Outlet />
         </div>
     );
 }
