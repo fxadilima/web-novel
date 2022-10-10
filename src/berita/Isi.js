@@ -13,7 +13,7 @@ const Isi = () => {
                 kita sudah berpindah tempat, asalkan masih tetap berada di scope /berita/*.
             </p>
             <p>
-                Referensi link berikut hanya "sejarah", yang diletakkan di bawah Route bernama "berita".
+                Referensi link berikut hanya "sejarah", yang diletakkan di bawah Route bernama "berita".<br/>
                 <Link to="sejarah">Sejarah</Link>
             </p>
             <Outlet />
