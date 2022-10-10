@@ -1,29 +1,25 @@
 import React from 'react';
 import Step1 from '../cards/Step1';
+import KerangkaDasar from '../berita/KerangkaDasar';
 
 const Home = () => {
     return (
         <div className="w3-panel w3-padding-32">
             <div className="w3-row-padding">
-                <div className="w3-col m4 l4 w3-border">
-                    <h3>Tentang Aplikasi</h3>
-                    <p>
-                        Aplikasi ini sendiri dibangun menggunakan jasa ReactJS, yang berarti kita akan menggunakan 
-                        <em>single page</em>, tanpa beranjak dari halaman ini sendiri, kecuali kalau membuat link keluar
-                        dengan sengaja. Gambar berikut adalah tampilan menu aplikasi dalam tahap 1.
-                    </p>
+                <div className="w3-col m4 l4">
                     <div className="w3-container w3-center">
                         <Step1 />
                     </div>
-                    <p>
-                        Yang kita lakukan saat ini hanyalah berusaha membuat komponen-komponen yang <em>reusable</em>,
-                        seperti contohnya gambar di atas berikut tombolnya. Card tersebut dengan mudah bisa dipakai ulang 
-                        di tempat lain dengan hanya menulis sedikit kode.
-                    </p>
+                    <KerangkaDasar />
                 </div>
                 <div className="w3-col m8 l8">
-                    <h1>Home</h1>
-                    <p>Testing ambil gambar dari static.</p>
+                    <h1>About</h1>
+                    <p>
+                        Aplikasi ini sendiri adalah sebuah website pribadi yang ditulis menggunakan sebuah framework
+                        bernama ReactJS (terkait dengan Facebook). Kontennya mengandung artikel mengenai sejarah dan juga 
+                        beberapa ulasan atau <em>review</em> mengenai drama yang berlatar belakang sejarah. Ini karena saya memerlukan 
+                        topik untuk ditulis, dan cerita sejarah lebih mudah ditulis ketimbang lainnya. Setidaknya bagi saya begitu.
+                    </p>
                 </div>
             </div>
         </div>
