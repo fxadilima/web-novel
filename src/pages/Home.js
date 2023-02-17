@@ -20,6 +20,9 @@ const Home = () => {
                         beberapa ulasan atau <em>review</em> mengenai drama yang berlatar belakang sejarah. Ini karena saya memerlukan 
                         topik untuk ditulis, dan cerita sejarah lebih mudah ditulis ketimbang lainnya. Setidaknya bagi saya begitu.
                     </p>
+                    <p>
+                        <strong>Note: </strong>Ini baru ditulis dan update melalui GitHub.
+                    </p>
                 </div>
             </div>
         </div>
