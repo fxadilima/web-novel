@@ -1,23 +1,11 @@
-import React from 'https://esm.sh/react'
-import { renderToReadableStream } from 'https://esm.sh/react-dom/server'
-import type { Config, Context } from 'https://edge.netlify.com/'
+import * as React from 'react';
+import * as Server from 'react-dom/server';
 
-export default async function handler(req: Request, context: Context) {
-  const stream = await renderToReadableStream(
-    <html>
-      <title>Hello</title>
-      <body>
-        <h1>Hello {context.geo.country?.name}</h1>
-      </body>
-    </html>,
-  )
+const Greet = () => <h1>Hello, world!</h1>;
+export default () => new Response(Server.renderToString(<Greet/>));
 
-  return new Response(stream, {
-    status: 200,
-    headers: { 'Content-Type': 'text/html' },
-  })
-}
+export const config = { 
+    path: "/hello-edge" 
+};
 
-export const config: Config = {
-  path: "/hello-edge"
-}
+
