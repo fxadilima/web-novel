@@ -7,5 +7,3 @@ export default () => new Response(Server.renderToString(<Greet/>));
 export const config = { 
     path: "/hello-edge" 
 };
-
-
