@@ -29,3 +29,6 @@ locals/
 server.js 
 
 
+
+# Local Netlify folder
+.netlify
