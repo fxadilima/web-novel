@@ -1,0 +1,35 @@
+# About
+
+Aplikasi ini sendiri adalah sebuah website pribadi yang ditulis menggunakan sebuah framework
+bernama ReactJS (terkait dengan Facebook). Kontennya mengandung artikel mengenai sejarah dan juga 
+beberapa ulasan atau _review_ mengenai drama yang berlatar belakang sejarah. Ini karena saya memerlukan 
+topik untuk ditulis, dan cerita sejarah lebih mudah ditulis ketimbang lainnya. Setidaknya bagi saya begitu.
+
+Ini adalah _module_ MDX saya yang pertama sukses menggunakan CRA (Create React App),
+yang sebetulnya agak sulit dipakai untuk keperluan ini.
+
+Setelah ini kita akan banyak memakai cara ini untuk _update_ situs ini, hanya dengan cara 
+mengganti isi dokumen dari dalam [GitHub](https://github.com/fxadilima/web-novel). Cara ini 
+cukup menarik digunakan karena kita tidak perlu lagi melakukan _build_ yang memakan waktu sangat
+lama.
+
+<div className="w3-panel">
+    <div id="myShow" className="w3-container w3-card-4">
+        <p>
+            Hanya untuk show, klik tombol di bawah untuk menghilangkan bagian ini.
+        </p>
+    </div>
+    <p></p>
+    <button className="w3-btn w3-hover-red w3-black" type="button" onClick={
+        () => {
+            let elm = document.getElementById('myShow');
+            if (elm.style.display !== 'none') {
+                elm.style.display = 'none';
+            }
+            else {
+                elm.style.display = 'block';
+            }
+        }
+    }>Toggle</button>
+</div>
+

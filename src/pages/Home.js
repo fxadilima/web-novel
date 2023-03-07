@@ -1,8 +1,31 @@
-import React from 'react';
+import React, {useState, useEffect} from 'react';
+import * as runtime from 'react/jsx-runtime';
+import {compile, run} from '@mdx-js/mdx';
 import Step1 from '../cards/Step1';
 import KerangkaDasar from '../berita/KerangkaDasar';
 
 const Home = () => {
+    let [home, setHome] = useState(null);
+
+    const getData = async () => {
+        let str1 = await fetch("/mdx/intro.mdx").then(x => x.text()).then(async (y) => {
+            let code = await compile(y, {outputFormat: 'function-body'});
+            const {default: Content} = await run(code, runtime);
+            setHome(Content());
+            return Content();
+        });
+
+        return str1;
+    };
+
+    useEffect(() => {
+        getData();
+    }, []);
+
+    if (!home) {
+        return null;
+    }
+
     return (
         <div className="w3-panel w3-padding-32">
             <div className="w3-row-padding">
@@ -13,16 +36,7 @@ const Home = () => {
                     <KerangkaDasar />
                 </div>
                 <div className="w3-col m8 l8">
-                    <h1>About</h1>
-                    <p>
-                        Aplikasi ini sendiri adalah sebuah website pribadi yang ditulis menggunakan sebuah framework
-                        bernama ReactJS (terkait dengan Facebook). Kontennya mengandung artikel mengenai sejarah dan juga 
-                        beberapa ulasan atau <em>review</em> mengenai drama yang berlatar belakang sejarah. Ini karena saya memerlukan 
-                        topik untuk ditulis, dan cerita sejarah lebih mudah ditulis ketimbang lainnya. Setidaknya bagi saya begitu.
-                    </p>
-                    <p>
-                        <strong>Note: </strong>Ini baru ditulis dan update melalui GitHub.
-                    </p>
+                    {home}
                 </div>
             </div>
         </div>
