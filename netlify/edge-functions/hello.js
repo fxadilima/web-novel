@@ -1,16 +1,11 @@
-import * as fs from "https://deno.land/std@0.178.0/fs/mod.ts";
-import {compile}  from 'https://www.npmjs.com/package/@mdx-js/mdx/lib/compile.js';
-import * as React from './react';
-import * as Server from './react-dom/server';
 
 export default async (request, context) => {
     let strSearch = "<strong>Null</strong>";
-    let url = new URL(request.url);
     let tmp = url.searchParams.get('mdx');
     if (tmp !== null) {
-        //strSearch = tmp.toString();
-        const compiled = await compile(await fs.readFile('/mdx/EdgeFunction.mdx'));
-        strSearch = Server.renderToString(String(compiled));
+        strSearch = tmp.toString();
+        //const compiled = await compile(await fs.readFile('/mdx/EdgeFunction.mdx'));
+        //strSearch = Server.renderToString(String(compiled));
     }
     const html = `
     <html lang="en">
