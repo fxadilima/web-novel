@@ -1,6 +1,7 @@
 
 export default async (request, context) => {
     let strSearch = "<strong>Null</strong>";
+    let url = new URL(request.url);
     let tmp = url.searchParams.get('mdx');
     if (tmp !== null) {
         strSearch = tmp.toString();
