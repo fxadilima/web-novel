@@ -1,6 +1,6 @@
 import fs from 'node:fs/promises';
-import {compile} from '@mdx-js/mdx';
-import * as React from 'react';
+import {compile} from './@mdx-js/mdx';
+import * as React from './react';
 import * as Server from './react-dom/server';
 
 export default async (request, context) => {
