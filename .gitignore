@@ -28,7 +28,5 @@ yarn-error.log*
 locals/
 server.js 
 
-
-
 # Local Netlify folder
-.netlify
+# .netlify

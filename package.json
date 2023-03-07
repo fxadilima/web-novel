@@ -36,6 +36,8 @@
     ]
   },
   "devDependencies": {
+    "@mdx-js/mdx": "^2.3.0",
+    "@mdx-js/node-loader": "^2.3.0",
     "react-router-dom": "^6.4.1"
   }
 }
