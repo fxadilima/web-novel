@@ -13,18 +13,18 @@ export default async (request, context) => {
             <meta charset="utf-8" />
             <meta name="viewport" content="width=device-width, initial-scale=1" />
             <title>Sejarah | Help</title>
-            <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+            <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
             <link rel="icon" href="/favicon.ico">
-            <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+            <script src="https://kit.fontawesome.com/acda0af544.js" crossorigin="anonymous"></script>
         </head>
         <body>
-            <main class="container-fluid" id="main">
-                <div class="container pt-5" id="content">
+            <main class="w3-main w3-padding" id="main">
+                <div class="w3-container" id="content">
                     <h1>Hello Edge Function</h1>
                     <p>This page is the <strong>Response</strong>.</p>
                     <p>Searching: ${strSearch}</p>
                     <p><a href="/">Back</a></p>
-                    <div class="container" id="maybe"></div>
+                    <div class="w3-content" id="maybe"></div>
                 </div>
             </main>
             <script src="/help/modules/main.js"></script>
@@ -66,6 +66,9 @@ export const config: Config = {
 }
 
 We do not use this
-<script src="https://kit.fontawesome.com/acda0af544.js" crossorigin="anonymous"></script>
+
+Bootstrap crashed on Deno
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
 
 */
