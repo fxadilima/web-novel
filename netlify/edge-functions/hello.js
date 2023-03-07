@@ -1,4 +1,4 @@
-import fs from 'fs';
+import fs from './fs';
 import {compile} from './@mdx-js/mdx';
 import * as React from './react';
 import * as Server from './react-dom/server';
