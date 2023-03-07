@@ -11,8 +11,8 @@ export default (request, context) => {
             <script src="https://kit.fontawesome.com/acda0af544.js" crossorigin="anonymous"></script>
         </head>
         <body>
-            <main class="w3-main w3-container">
-                <div class="w3-content w3-card-4">
+            <main class="w3-main w3-row-padding">
+                <div class="w3-container w3-card-4">
                     <h1>Hello Edge Function</h1>
                     <p>This page is the <strong>Response</strong>.</p>
                     <p><a href="/">Back</a></p>
