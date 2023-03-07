@@ -1,6 +1,6 @@
 
 export default (request, context) => {
-    const strSearch = "<strong>Null</strong>";
+    let strSearch = "<strong>Null</strong>";
     let url = new URL(request.url);
     let tmp = url.searchParams.get('mdx');
     if (tmp !== null) {
