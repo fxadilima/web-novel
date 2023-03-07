@@ -1,4 +1,4 @@
-import fs from 'node:fs';
+import fs from 'fs';
 import {compile} from './@mdx-js/mdx';
 import * as React from './react';
 import * as Server from './react-dom/server';
@@ -9,7 +9,7 @@ export default async (request, context) => {
     let tmp = url.searchParams.get('mdx');
     if (tmp !== null) {
         //strSearch = tmp.toString();
-        const compiled = await compile(await fs.readFile('/mdx/EdgeFunction.mdx'));
+        const compiled = await compile(fs.readFile('/mdx/EdgeFunction.mdx'));
         strSearch = Server.renderToString(String(compiled));
     }
     const html = `
