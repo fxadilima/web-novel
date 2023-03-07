@@ -3,7 +3,7 @@ export default (request, context) => {
     const strSearch = "<strong>Null</strong>";
     let url = new URL(request.url);
     let tmp = url.searchParams.get('mdx');
-    if (tmp) {
+    if (tmp !== null) {
         strSearch = tmp.toString();
     }
     const html = `
