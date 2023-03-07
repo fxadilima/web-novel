@@ -29,13 +29,13 @@ const Home = () => {
     return (
         <div className="w3-panel w3-padding-32">
             <div className="w3-row-padding">
-                <div className="w3-col m4 l4">
+                <div className="w3-col m5 l2">
                     <div className="w3-container w3-center">
                         <Step1 />
                     </div>
                     <KerangkaDasar />
                 </div>
-                <div className="w3-col m8 l8">
+                <div className="w3-col m7 l10">
                     {home}
                 </div>
             </div>

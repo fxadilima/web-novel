@@ -13,6 +13,18 @@ mengganti isi dokumen dari dalam [GitHub](https://github.com/fxadilima/web-novel
 cukup menarik digunakan karena kita tidak perlu lagi melakukan _build_ yang memakan waktu sangat
 lama.
 
+<button className="w3-btn w3-hover-red w3-black" type="button" onClick={
+    () => {
+        let elm = document.getElementById('myShow');
+        if (elm.style.display !== 'none') {
+            elm.style.display = 'none';
+        }
+        else {
+            elm.style.display = 'block';
+        }
+    }
+}>Toggle</button>
+
 <div className="w3-panel">
     <div id="myShow" className="w3-container w3-card-4">
         <p>
@@ -20,16 +32,5 @@ lama.
         </p>
     </div>
     <p></p>
-    <button className="w3-btn w3-hover-red w3-black" type="button" onClick={
-        () => {
-            let elm = document.getElementById('myShow');
-            if (elm.style.display !== 'none') {
-                elm.style.display = 'none';
-            }
-            else {
-                elm.style.display = 'block';
-            }
-        }
-    }>Toggle</button>
 </div>
 
