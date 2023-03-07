@@ -11,9 +11,11 @@ export default (request, context) => {
             <script src="https://kit.fontawesome.com/acda0af544.js" crossorigin="anonymous"></script>
         </head>
         <body>
-            <h1>Hello Edge Function</h1>
-            <p>This page is the <strong>Response</strong>.</p>
-            <p><a href="/">Back</a></p>
+            <div class="w3-container w3-card-4">
+                <h1>Hello Edge Function</h1>
+                <p>This page is the <strong>Response</strong>.</p>
+                <p><a href="/">Back</a></p>
+            </div>
         </body>
     </html>`;
     return new Response(html, {
