@@ -4,7 +4,7 @@ export default (request, context) => {
     let url = new URL(request.url);
     let tmp = url.searchParams.get('mdx');
     if (tmp) {
-        strSearch = tmp;
+        strSearch = tmp.toString();
     }
     const html = `
     <html lang="en">
