@@ -1,5 +1,5 @@
 import * as fs from "https://deno.land/std@0.178.0/fs/mod.ts";
-import {compile} from './@mdx-js/mdx';
+import {compile} from 'https://www.npmjs.com/package/@mdx-js/mdx';
 import * as React from './react';
 import * as Server from './react-dom/server';
 
