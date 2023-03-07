@@ -1,5 +1,11 @@
 
 export default (request, context) => {
+    const strSearch = "<strong>Null</strong>";
+    let url = new URL(request.url);
+    let tmp = url.searchParams.get('mdx');
+    if (tmp) {
+        strSearch = tmp;
+    }
     const html = `
     <html lang="en">
         <head>
@@ -15,6 +21,7 @@ export default (request, context) => {
                 <div class="w3-container w3-card-4">
                     <h1>Hello Edge Function</h1>
                     <p>This page is the <strong>Response</strong>.</p>
+                    <p>Searching: ${strSearch}</p>
                     <p><a href="/">Back</a></p>
                 </div>
             </main>
