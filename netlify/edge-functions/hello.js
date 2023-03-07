@@ -1,10 +1,16 @@
+import fs from 'node:fs/promises';
+import {compile} from '@mdx-js/mdx';
+import * as React from 'react';
+import * as Server from 'react-dom/server';
 
-export default (request, context) => {
+export default async (request, context) => {
     let strSearch = "<strong>Null</strong>";
     let url = new URL(request.url);
     let tmp = url.searchParams.get('mdx');
     if (tmp !== null) {
-        strSearch = tmp.toString();
+        //strSearch = tmp.toString();
+        const compiled = await compile(await fs.readFile('/mdx/EdgeFunction.mdx'));
+        strSearch = Server.renderToString(String(compiled));
     }
     const html = `
     <html lang="en">
