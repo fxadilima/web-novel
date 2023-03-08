@@ -1,15 +1,11 @@
 //import React from 'https://esm.sh/react';
 //import { renderToString } from 'https://esm.sh/react-dom/server';
 
-getIntro = async () => {
-  let mdxSrc = await fetch("/help/alt/deno.mdx")
-  .then(x => x.text())
-  .then((y) => { return y;});
-  return mdxSrc;
-}
 
 let elm = document.getElementById("maybe");
-let mdxSrc = getIntro();
+let mdxSrc = fetch("/help/alt/deno.mdx")
+.then(x => x.text())
+.then((y) => { return y;});
 
 elm.innerHTML = `
 <div class="w3-container w3-card-4">
