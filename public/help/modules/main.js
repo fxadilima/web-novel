@@ -1,6 +1,5 @@
-import React from 'https://esm.sh/react';
-import * as runtime from 'https://esm.sh/react/jsx-runtime';
-import {compile, run} from './@mdx-js/mdx';
+import { Fragment, h, renderToString } from "https://deno.land/x/jsx/mod.ts";
+import {compile} from './@mdx-js/mdx';
 
 showIntro = async () => {
   let elm = document.getElementById("maybe");
@@ -22,8 +21,9 @@ showIntro = async () => {
   `;
 
   let code = await compile(mdxSrc, {outputFormat: 'function-body'});
-  const {default: Content} = await run(String(code), runtime);
-  let html = Content();
+  console.log(String(code));
+  let html = await renderToString(String(code));
+  console.log(html);
   document.getElementById("results").innerHTML = html;
 }
 
