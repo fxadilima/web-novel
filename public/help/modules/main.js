@@ -1,9 +1,6 @@
 import React from 'https://esm.sh/react';
 import * as runtime from 'https://esm.sh/react/jsx-runtime';
-import * as Server from 'https://esm.sh/react-dom/server';
-
-import {compile} from './@mdx-js/mdx';
-
+import {compile, run} from './@mdx-js/mdx';
 
 showIntro = async () => {
   let elm = document.getElementById("maybe");
@@ -24,9 +21,9 @@ showIntro = async () => {
   </div>
   `;
 
-  let strTest = await compile(mdxSrc, {outputFormat: 'function-body'});
-  console.log(String(strTest));
-  let html = Server.renderToString(String(strTest));
+  let code = await compile(mdxSrc, {outputFormat: 'function-body'});
+  const {default: Content} = await run(String(code), runtime);
+  let html = Content();
   document.getElementById("results").innerHTML = html;
 }
 
