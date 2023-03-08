@@ -3,11 +3,12 @@ export default async (request, context) => {
     let strSearch = "<strong>Null</strong>";
     let url = new URL(request.url);
     let tmp = url.searchParams.get('mdx');
+    let mdxSrc = "";
     if (tmp !== null) {
         strSearch = tmp.toString();
         //const compiled = await compile(await fs.readFile('/mdx/EdgeFunction.mdx'));
         //strSearch = Server.renderToString(String(compiled));
-        let mdxSrc = await Deno.readFile("./help/deno.mdx");
+        mdxSrc = await Deno.readFile("./help/deno.mdx");
         strSearch = "<div><pre><code>" + mdxSrc + "</code></pre></div>";
     }
     const html = `
