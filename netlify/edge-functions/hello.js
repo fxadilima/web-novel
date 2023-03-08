@@ -8,9 +8,6 @@ export default async (request, context) => {
         strSearch = tmp.toString();
         //const compiled = await compile(await fs.readFile('/mdx/EdgeFunction.mdx'));
         //strSearch = Server.renderToString(String(compiled));
-        mdxSrc = await fetch("https://dunia-timur.netlify.app/help/deno.mdx")
-        .then(x => x.text()).then((y) => { return y;});
-        strSearch = "<div><pre><code>" + mdxSrc + "</code></pre></div>";
     }
     const html = `
     <html lang="en">
