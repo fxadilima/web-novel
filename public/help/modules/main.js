@@ -1,5 +1,3 @@
-//import { Fragment, h, renderToString } from "https://deno.land/x/jsx/mod.ts";
-//import {compile} from './@mdx-js/mdx';
 
 showIntro = async () => {
   let elm = document.getElementById("maybe");
