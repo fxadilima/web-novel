@@ -1,8 +1,8 @@
 import React from 'https://esm.sh/react';
 import * as runtime from 'https://esm.sh/react/jsx-runtime';
-import { renderToString } from 'https://esm.sh/react-dom/server';
+import * as Server from 'https://esm.sh/react-dom/server';
 
-import {compile, run} from './@mdx-js/mdx';
+import {compile} from './@mdx-js/mdx';
 
 
 showIntro = async () => {
@@ -25,10 +25,8 @@ showIntro = async () => {
   `;
 
   let strTest = await compile(mdxSrc, {outputFormat: 'function-body'});
-  let html = renderToString(String(strTest));
+  let html = Server.renderToString(String(strTest));
   document.getElementById("results").innerHTML = html;
 }
 
 showIntro();
-
-
