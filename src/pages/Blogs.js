@@ -1,6 +1,40 @@
-import React from 'react';
+import React, {useState, useEffect} from 'react';
+import * as runtime from 'react/jsx-runtime';
+import {compile, run} from '@mdx-js/mdx';
 import Peristiwa from '../cards/Ancients';
 import {Outlet, Link} from 'react-router-dom';
+
+const Contekan = (props) => {
+    let [contekan, setContekan] = useState(null);
+    let filename = "/mdx/blogs.mdx";
+    if (props.filename !== undefined) {
+        filename = props.filename;
+    }
+
+    const getData = async () => {
+        let str1 = await fetch(filename).then(x => x.text()).then(async (y) => {
+            let code = await compile(y, {outputFormat: 'function-body'});
+            const {default: Content} = await run(code, runtime);
+            setContekan(Content());
+            return Content();
+        });
+        return str1;
+    };
+
+    useEffect(() => {
+        getData();
+    }, []);
+
+    if (!contekan) {
+        return null;
+    }
+
+    return (
+        <div className="w3-panel w3-card">
+            {contekan}
+        </div>
+    );
+}
 
 const AplikasiTahap1 = () => {
     return (
@@ -60,6 +94,9 @@ const Blogs = () => {
                 mendukungnya. Yang jelas Glitch mendukung, tetapi sejauh ini belum dipastikan bagaimana memakainya. Otomatis
                 urusan blog agak terganggu. Untuk sementara bagian ini bisa diisi untuk hal lain.
             </p>
+            
+            <Contekan filename="/mdx/blogs.mdx"/>
+
             <div class="w3-row-padding" id="adegan_ritual">
                 <div className="w3-col m3 l3">
                     <Peristiwa id="1" />

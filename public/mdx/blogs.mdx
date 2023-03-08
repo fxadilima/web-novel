@@ -1,4 +1,22 @@
-# Blogs
+## Bagaimana Menulis
 
-Konten untuk ini belum ditulis.
+Untuk saat ini sebaiknya semua _artikel_ kita tulis dari dalam [GitHub](https://github.com/fxadilima/web-novel/),
+supaya situs ini secara otomatis akan terupdate dari Netlify. Semua _component_ JSX yang berisi ulasan panjang
+seharusnya kita pindahkan ke dalam sebuah file **MDX**, yang bisa kita _update_ kapan saja tanpa harus mengganggu
+aplikasi ini sendiri. Meskipun saat ini aplikasi harus tetap melakukan _recompile_ untuk mendapatkan artikel terbaru,
+tetapi sebenarnya cara yang kita terapkan di sini hanya menyalin seluruh isi direktori yang berisi semua file MDX 
+ke dalam direktori `build`, itu sama saja dengan kita edit isi direktori tersebut secara langsung.
+
+### Dari Sisi JavaScript
+
+Cara yang kita terapkan ini minimal membutuhkan beberapa `import` berikut di setiap skrip yang memakainya.
+
+```javascript
+
+import React, {useState, useEffect} from 'react';
+import * as runtime from 'react/jsx-runtime';
+import {compile, run} from '@mdx-js/mdx';
+
+```
+
 
