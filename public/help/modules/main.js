@@ -4,7 +4,8 @@
 
 showIntro = async () => {
   let elm = document.getElementById("maybe");
-  let mdxSrc = await fetch("https://dunia-timur.netlify.app/help/alt/deno.mdx");
+  let x = await fetch("https://dunia-timur.netlify.app/help/alt/deno.mdx");
+  let mdxSrc = await x.text();
 
   elm.innerHTML = `
   <div class="w3-container w3-card-4">
