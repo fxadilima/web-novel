@@ -8,7 +8,7 @@ export default async (request, context) => {
         strSearch = tmp.toString();
         //const compiled = await compile(await fs.readFile('/mdx/EdgeFunction.mdx'));
         //strSearch = Server.renderToString(String(compiled));
-        mdxSrc = await fetch("./help/deno.mdx");
+        mdxSrc = await fetch("/help/deno.mdx");
         strSearch = "<div><pre><code>" + mdxSrc + "</code></pre></div>";
     }
     const html = `
