@@ -19,4 +19,16 @@ import {compile, run} from '@mdx-js/mdx';
 
 ```
 
+Kalau tulisan kita mengandung kode program, kemungkinan besar kita akan membutuhkan _syntax highlighting_,
+jadi dari `index.html` harus ditambahkan baris berikut.
+
+```html 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0/styles/github-dark.min.css">
+
+<!-- Atau gunakan link internal semacam ini -->
+<link rel="stylesheet" href="/styles/github-dark.min.css">
+
+```
+
 
