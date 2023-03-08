@@ -3,7 +3,7 @@
 
 
 let elm = document.getElementById("maybe");
-let mdxSrc = fetch("/help/alt/deno.mdx")
+let mdxSrc = fetch("https://dunia-timur.netlify.app/help/alt/deno.mdx", {headers: {accept:'text/mdx'}})
 .then(x => x.text())
 .then((y) => { return y;});
 
