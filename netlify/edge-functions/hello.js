@@ -27,6 +27,7 @@ export default async (request, context) => {
                     <p>Searching: ${strSearch}</p>
                     <p><a href="/">Back</a></p>
                     <div class="w3-content" id="maybe"></div>
+                    <div class="w3-container" id="results"></div>
                 </div>
             </main>
             <script src="/help/modules/main.js"></script>
