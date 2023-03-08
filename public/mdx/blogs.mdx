@@ -19,6 +19,46 @@ import {compile, run} from '@mdx-js/mdx';
 
 ```
 
+Lalu tulis sebuah _component_, misalnya dalam contoh ini, `Contekan`.
+
+```javascript 
+
+const Contekan = (props) => {
+    let [contekan, setContekan] = useState(null);
+    let filename = "/mdx/blogs.mdx";
+    if (props.filename !== undefined) {
+        filename = props.filename;
+    }
+
+    const getData = async () => {
+        let str1 = await fetch(filename).then(x => x.text()).then(async (y) => {
+            let code = await compile(y, {
+                outputFormat: 'function-body'
+            });
+            const {default: Content} = await run(code, runtime);
+            setContekan(Content());
+            return Content();
+        });
+        return str1;
+    };
+
+    useEffect(() => {
+        getData();
+    }, []);
+
+    if (!contekan) {
+        return null;
+    }
+
+    return (
+        <div className="w3-panel w3-card">
+            {contekan}
+        </div>
+    );
+}
+
+```
+
 Kalau tulisan kita mengandung kode program, kemungkinan besar kita akan membutuhkan _syntax highlighting_,
 jadi dari `index.html` harus ditambahkan baris berikut.
 
@@ -31,4 +71,22 @@ jadi dari `index.html` harus ditambahkan baris berikut.
 
 ```
 
+Lalu ubah sedikit `JSX` yang kita tulis di atas untuk memasukkan sebuah `option` berikut.
+
+```javascript
+
+let code = await compile(y, {
+    outputFormat: 'function-body',
+    rehypePlugins: [rehypeHighlight]
+});
+
+```
+
+Tentu saja, package `rehype-highlight` harus ada di dalam daftar module kita.
+
+```console
+
+npm install --save-dev rehype-highlight
+
+```
 
