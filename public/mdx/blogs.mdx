@@ -75,6 +75,10 @@ Lalu ubah sedikit `JSX` yang kita tulis di atas untuk memasukkan sebuah `option`
 
 ```javascript
 
+// Setelah beberapa import lain
+import rehypeHighlight from 'rehype-highlight';
+
+// Cari bagian ini, dan ubah seperlunya
 let code = await compile(y, {
     outputFormat: 'function-body',
     rehypePlugins: [rehypeHighlight]
@@ -89,4 +93,29 @@ Tentu saja, package `rehype-highlight` harus ada di dalam daftar module kita.
 npm install --save-dev rehype-highlight
 
 ```
+
+Kita belum tentu memerlukan fasilitas semacam _syntax highlighting_, tetapi umumnya kita akan memerlukan
+fasilitas yang biasanya hanya terdapat di dalam [GitHub](https://github.com/), seperti _footnotes_ (catatan kaki),
+dan beberapa fitur lain yang sangat berguna. Untuk ini kita memerlukan kehadiran `remark-gfm`. Coba klik pada
+link[^remarkGfm] tersebut.
+
+```javascript
+
+// Setelah beberapa import lain
+import remarkGfm from 'remark-gfm';
+
+// Cari bagian ini, dan ubah seperlunya
+let code = await compile(y, {
+    outputFormat: 'function-body',
+    rehypePlugins: [rehypeHighlight],
+    remarkPlugins: [remarkGfm]
+});
+
+```
+
+***
+
+### Catatan Kaki
+
+[^remarkGfm]: Ini kegunaan dari `remark-gfm` yang baru kita masukkan.
 

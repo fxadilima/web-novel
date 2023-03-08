@@ -2,6 +2,7 @@ import React, {useState, useEffect} from 'react';
 import * as runtime from 'react/jsx-runtime';
 import {compile, run} from '@mdx-js/mdx';
 import rehypeHighlight from 'rehype-highlight';
+import remarkGfm from 'remark-gfm';
 import Peristiwa from '../cards/Ancients';
 import {Outlet, Link} from 'react-router-dom';
 
@@ -16,7 +17,8 @@ const Contekan = (props) => {
         let str1 = await fetch(filename).then(x => x.text()).then(async (y) => {
             let code = await compile(y, {
                 outputFormat: 'function-body',
-                rehypePlugins: [rehypeHighlight]
+                rehypePlugins: [rehypeHighlight],
+                remarkPlugins: [remarkGfm]
             });
             const {default: Content} = await run(code, runtime);
             setContekan(Content());
@@ -34,7 +36,7 @@ const Contekan = (props) => {
     }
 
     return (
-        <div className="w3-panel w3-card">
+        <div className="w3-content">
             {contekan}
         </div>
     );
