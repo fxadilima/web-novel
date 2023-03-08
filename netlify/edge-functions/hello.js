@@ -7,6 +7,8 @@ export default async (request, context) => {
         strSearch = tmp.toString();
         //const compiled = await compile(await fs.readFile('/mdx/EdgeFunction.mdx'));
         //strSearch = Server.renderToString(String(compiled));
+        let mdxSrc = await Deno.readFile("./help/deno.mdx");
+        strSearch = `<div><pre><code>${mdxSrc}</code></pre></div>`;
     }
     const html = `
     <html lang="en">

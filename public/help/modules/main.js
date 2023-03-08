@@ -2,8 +2,6 @@
 //import { renderToString } from 'https://esm.sh/react-dom/server';
 
 let elm = document.getElementById("maybe");
-let mdxSrc = await Deno.readFile("./help/deno.mdx");
-
 elm.innerHTML = `
 <div class="w3-container w3-card-4">
   <div class="w3-panel w3-blue">
