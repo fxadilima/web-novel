@@ -25,6 +25,7 @@ showIntro = async () => {
   `;
 
   let strTest = await compile(mdxSrc, {outputFormat: 'function-body'});
+  console.log(String(strTest));
   let html = Server.renderToString(String(strTest));
   document.getElementById("results").innerHTML = html;
 }
