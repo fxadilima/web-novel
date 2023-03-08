@@ -1,4 +1,4 @@
-## Bagaimana Menulis
+# Bagaimana Menulis
 
 Untuk saat ini sebaiknya semua _artikel_ kita tulis dari dalam [GitHub](https://github.com/fxadilima/web-novel/),
 supaya situs ini secara otomatis akan terupdate dari Netlify. Semua _component_ JSX yang berisi ulasan panjang
@@ -7,9 +7,29 @@ aplikasi ini sendiri. Meskipun saat ini aplikasi harus tetap melakukan _recompil
 tetapi sebenarnya cara yang kita terapkan di sini hanya menyalin seluruh isi direktori yang berisi semua file MDX 
 ke dalam direktori `build`, itu sama saja dengan kita edit isi direktori tersebut secara langsung.
 
-### Dari Sisi JavaScript
+Supaya catatan kita bisa dipakai lagi untuk kepentingan lain, sebaiknya semuanya kita ulas di sini. Mula-mula 
+tentu saja kita memerlukan minimal 2 package dari `React`, yaitu `react` dan `react-dom`. Kalau menggunakan 
+`Create React App` seperti yang digunakan untuk situs ini, maka tahap ini sudah otomatis dilakukan, tetapi 
+kalau menggunakan `Site Generator` lain, atau _tidak_ menggunakannya sama sekali, maka kita harus melakukannya
+secara manual.
 
-Cara yang kita terapkan ini minimal membutuhkan beberapa `import` berikut di setiap skrip yang memakainya.
+```console
+
+npm install --save-dev react react-dom 
+
+```
+
+Sekarang untuk `@mdx-js` sendiri, minimal kita memerlukan `@mdx-js/mdx`.
+
+```console
+
+npm install --save-dev @mdx-js/mdx 
+
+```
+
+## Dari Sisi JavaScript
+
+Cara yang kita terapkan ini[^metode-kita] minimal membutuhkan beberapa `import` berikut di setiap skrip yang memakainya.
 
 ```javascript
 
@@ -36,8 +56,9 @@ const Contekan = (props) => {
                 outputFormat: 'function-body'
             });
             const {default: Content} = await run(code, runtime);
-            setContekan(Content());
-            return Content();
+            let tmp = Content(); // supaya jangan dipanggil 2x, atau tidak usah return barang ini.
+            setContekan(tmp);
+            return tmp;
         });
         return str1;
     };
@@ -113,9 +134,22 @@ let code = await compile(y, {
 
 ```
 
+
+
 ***
 
 ### Catatan Kaki
 
-[^remarkGfm]: Ini kegunaan dari `remark-gfm` yang baru kita masukkan.
+[^remarkGfm]: **Remark** dari **GitHub Flavour Markdown** memungkinkan kita untuk menuliskan catatan kaki tanpa harus 
+  mendeklarasikan aneka macam `tag HTML` yang rumit-rumit, dan membuat dokumen kita menjadi jelek. Perhatikan bahwa meskipun
+  kita menulis catatan ini sebagai `[^remarkGfm]`, tetapi yang kita dapat adalah sebuah angka, sesuai urutan _entry_ tersebut.
+  Lebih bagusnya lagi adalah, di akhir ulasan pendek ini kita akan mendapatkan sebuah _link_ untuk kembali ke posisi sebelum 
+  `tag` ini sendiri diklik, dan yang ditampilkan pada _link_ tersebut adalah sebuah _icon_ berupa karakter _unicode_ tanda 
+  panah `kembali`. Sedikit tambahan di sini, dalam MDX kita, saya menulis bagian ini di urutan pertama, tetapi tetap pada 
+  akhirnya _bukan_ mendapat nomor 1, karena berikutnya saya menambahkan catatan kaki di posisi lebih awal.
+
+[^metode-kita]: **Metode Kita** adalah melakukan _compile on the fly_ untuk semua dokumen MDX, dan kita perlu menggunakan 
+  `fetch()` untuk melakukan proses _loading_ secara manual. Hal ini seharusnya sederhana, tetapi karena kita menggunakan
+  `React`, maka menjadi agak ribet. Silakan terus membaca uraian saya di sini.
+
 

@@ -21,8 +21,9 @@ const Contekan = (props) => {
                 remarkPlugins: [remarkGfm]
             });
             const {default: Content} = await run(code, runtime);
-            setContekan(Content());
-            return Content();
+            let tmp = Content();
+            setContekan(tmp);
+            return tmp;
         });
         return str1;
     };
@@ -92,17 +93,8 @@ const Ritual = () => {
 
 const Blogs = () => {
     return (
-        <div className="w3-container w3-padding-32">
-            <h1>Blogs</h1>
-            <p>
-                Sepertinya kita tidak bisa menggunakan <strong>SQLite</strong> dengan leluasa, karena memerlukan &nbsp;
-                <em>backend</em> berupa native library. Dan kita tidak tahu jelas apakah host yang akan menampung tulisan ini 
-                mendukungnya. Yang jelas Glitch mendukung, tetapi sejauh ini belum dipastikan bagaimana memakainya. Otomatis
-                urusan blog agak terganggu. Untuk sementara bagian ini bisa diisi untuk hal lain.
-            </p>
-            
+        <div className="w3-container w3-padding-32">            
             <Contekan filename="/mdx/blogs.mdx"/>
-
             <div class="w3-row-padding" id="adegan_ritual">
                 <div className="w3-col m3 l3">
                     <Peristiwa id="1" />
