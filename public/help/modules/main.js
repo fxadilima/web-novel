@@ -16,7 +16,7 @@ elm.innerHTML = `
     <p>
       Konten ini datang dari module eksternal.
     </p>
-    <pre><code>${mdxSrc}</code></pre>
+    <pre>${mdxSrc}</pre>
   </div>
 </div>
 `;
