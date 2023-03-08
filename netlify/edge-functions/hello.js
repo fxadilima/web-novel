@@ -30,7 +30,7 @@ export default async (request, context) => {
                     <div class="w3-container" id="results"></div>
                 </div>
             </main>
-            <script src="/help/modules/main.js"></script>
+            <script src="/help/modules/main.js" type="module"></script>
         </body>
     </html>`;
     return new Response(html, {
