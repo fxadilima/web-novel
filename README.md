@@ -1,4 +1,4 @@
-# web-novel
-Static pages untuk "Sejarah Dunia Timur" di netlify
+# Test Build
 
-[Netlify Site](https://dunia-timur.netlify.app/)
+This branch is for testing.
+
