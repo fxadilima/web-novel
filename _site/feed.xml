@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-01-28T17:50:46+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Trilogi Rajawali</title><subtitle>Trilogi Rajawali adalah terjemahan bahasa Indonesia dari cerita silat karya Jin Yong. Semuanya terbagi menjadi tiga cerita dalam era yang berbeda, dan masing-masing terdiri dari 40 buku.</subtitle><entry><title type="html">Link Problems</title><link href="http://localhost:4000/web-novel/problems/2023/09/29/known-problems.html" rel="alternate" type="text/html" title="Link Problems" /><published>2023-09-29T21:30:09+07:00</published><updated>2023-09-29T21:30:09+07:00</updated><id>http://localhost:4000/web-novel/problems/2023/09/29/known-problems</id><content type="html" xml:base="http://localhost:4000/web-novel/problems/2023/09/29/known-problems.html"><![CDATA[<p>Banyak <em>link</em> yang bermasalah di dalam buku, khususnya yang mengacu ke buku yang berlainan.
+Ini karena sebelumnya saya menulisnya seperti contoh berikut:</p>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Salah satu <span class="p">[</span><span class="nv">narasi atau dialog</span><span class="p">](</span><span class="sx">buku-referensi.md#nama-tag</span> <span class="nn">"Narasi atau dialog secara singkat..."</span><span class="p">)</span>.
+</code></pre></div></div>
+
+<p>Jika kita menghilangkan <code class="language-plaintext highlighter-rouge">.md</code> pada link tersebut, maka problem ini akan hilang<sup id="fnref:problem-1" role="doc-noteref"><a href="#fn:problem-1" class="footnote" rel="footnote">1</a></sup>.</p>
+
+<!--more-->
+
+<p>Tetapi masalahnya adalah, buku ini terdiri dari 40 jilid, belum termasuk artikel-artikel pendukungnya.
+Memerlukan waktu untuk meneliti semuanya kembali.</p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:problem-1" role="doc-endnote">
+      <p>Di dalam GitHub cara penulisan seperti itu dianggap sah. <a href="#fnref:problem-1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name>FX. Adi Lima</name></author><category term="web-novel" /><category term="problems" /><summary type="html"><![CDATA[Banyak link yang bermasalah di dalam buku, khususnya yang mengacu ke buku yang berlainan. Ini karena sebelumnya saya menulisnya seperti contoh berikut: Salah satu [narasi atau dialog](buku-referensi.md#nama-tag "Narasi atau dialog secara singkat..."). Jika kita menghilangkan .md pada link tersebut, maka problem ini akan hilang1. Di dalam GitHub cara penulisan seperti itu dianggap sah. &#8617;]]></summary></entry><entry><title type="html">Welcome to Web Novel!</title><link href="http://localhost:4000/web-novel/update/2023/09/29/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Web Novel!" /><published>2023-09-29T17:18:15+07:00</published><updated>2023-09-29T17:18:15+07:00</updated><id>http://localhost:4000/web-novel/update/2023/09/29/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/web-novel/update/2023/09/29/welcome-to-jekyll.html"><![CDATA[<p>Saya tidak menghapus contoh-contoh awal dari Jekyll, dan hanya menempatkannya
+di <a href="#legacy-posts">Legacy</a> dalam halaman ini juga. Kalau Anda ingin langsung 
+<a href="/memanah-rajawali/bab1">membaca novel</a> bisa klik dari halaman depan.</p>
+
+<!--more-->
+
+<p>Daftar Buku:</p>
+
+<ul>
+  <li>Chapter: Appendix I
+    <ul>
+      <li><a href="/memanah-rajawali/acupoints.html">Daftar Titik Akupuntur</a></li>
+    </ul>
+  </li>
+  <li>Chapter: Appendix J
+    <ul>
+      <li><a href="/memanah-rajawali/ancient-math.html">Matematika Tiongkok Kuno</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 0
+    <ul>
+      <li><a href="/memanah-rajawali/index.html">Halaman Index Memanah Rajawali</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 1
+    <ul>
+      <li><a href="/memanah-rajawali/bab1.html">🦅 Insiden Di Tengah Badai Salju</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 2
+    <ul>
+      <li><a href="/memanah-rajawali/bab2.html">🦅 Tujuh Orang Aneh Dari Jiangnan</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 3
+    <ul>
+      <li><a href="/memanah-rajawali/bab3.html">🦅 Kehidupan Di Padang Rumput</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 4
+    <ul>
+      <li><a href="/memanah-rajawali/bab4.html">🦅 Sepasang Iblis Cakar Tengkorak Putih</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 5
+    <ul>
+      <li><a href="/memanah-rajawali/bab5.html">🦅 Lomba Memanah Burung Elang</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 6
+    <ul>
+      <li><a href="/memanah-rajawali/bab6.html">🦅 Misteri Di Puncak Tebing</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 7
+    <ul>
+      <li><a href="/memanah-rajawali/bab7.html">🦅 Perlombaan Mencari Jodoh</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 8
+    <ul>
+      <li><a href="/memanah-rajawali/bab8.html">🦅 Memamerkan Ilmu Silat</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 9
+    <ul>
+      <li><a href="/memanah-rajawali/bab9.html">🦅 Tombak Berkarat dan Bajak Rusak</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 10
+    <ul>
+      <li><a href="/memanah-rajawali/bab10.html">🦅 Pertemuan Para Musuh</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 11
+    <ul>
+      <li><a href="/memanah-rajawali/bab11.html">🦅 Qiu Chuji Mengaku Kalah</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 12
+    <ul>
+      <li><a href="/memanah-rajawali/bab12.html">🦅 Kebanggaan Sang Naga</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 13
+    <ul>
+      <li><a href="/memanah-rajawali/bab13.html">🦅 Orang Lumpuh Di Lima Danau</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 14
+    <ul>
+      <li><a href="/memanah-rajawali/bab14.html">🦅 Majikan Pulau Bunga Persik</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 15
+    <ul>
+      <li><a href="/memanah-rajawali/bab15.html">🦅 Sang Naga Mengibaskan Ekor</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 16
+    <ul>
+      <li><a href="/memanah-rajawali/bab16.html">🦅 Kitab Sembilan Bulan</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 17
+    <ul>
+      <li><a href="/memanah-rajawali/bab17.html">🦅 Pertarungan Antar Tangan</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 18
+    <ul>
+      <li><a href="/memanah-rajawali/bab18.html">🦅 Tiga Ujian</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 19
+    <ul>
+      <li><a href="/memanah-rajawali/bab19.html">🦅 Badai dan Serangan Hiu</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 20
+    <ul>
+      <li><a href="/memanah-rajawali/bab20.html">🦅 Kitab Yang Diubah</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 21
+    <ul>
+      <li><a href="/memanah-rajawali/bab21.html">🦅 Batu Seribu Kati</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 22
+    <ul>
+      <li><a href="/memanah-rajawali/bab22.html">🦅 Menunggang Ikan Hiu</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 23
+    <ul>
+      <li><a href="/memanah-rajawali/bab23.html">Masalah Besar Di Istana</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 24
+    <ul>
+      <li><a href="/memanah-rajawali/bab24.html">Perawatan Di Tempat Tersembunyi</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 25
+    <ul>
+      <li><a href="/memanah-rajawali/bab25.html">Penginapan Terpencil Di Desa</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 26
+    <ul>
+      <li><a href="/memanah-rajawali/bab26.html">Tatanan Lama, Aliansi Baru</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 27
+    <ul>
+      <li><a href="/memanah-rajawali/bab27.html">Mimbar Di Xuan Yuan</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 28
+    <ul>
+      <li><a href="/memanah-rajawali/bab28.html">Puncak Gunung Telapak Besi</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 29
+    <ul>
+      <li><a href="/memanah-rajawali/bab29.html">Seorang Wanita Di Tengah Rawa</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 30
+    <ul>
+      <li><a href="/memanah-rajawali/bab30.html">Biksu Yideng</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 31
+    <ul>
+      <li><a href="/memanah-rajawali/bab31.html">Saputangan Kekasih</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 32
+    <ul>
+      <li><a href="/memanah-rajawali/bab32.html">Di Tepi Sungai Deras</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 33
+    <ul>
+      <li><a href="/memanah-rajawali/bab33.html">Malapetaka Yang Akan Datang</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 34
+    <ul>
+      <li><a href="/memanah-rajawali/bab34.html">Perubahan Radikal Di Pulau Persik</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 35
+    <ul>
+      <li><a href="/memanah-rajawali/bab35.html">Di Sebuah Kuil</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 36
+    <ul>
+      <li><a href="/memanah-rajawali/bab36.html">Perjalanan Ke Barat</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 37
+    <ul>
+      <li><a href="/memanah-rajawali/bab37.html">Turun Dari Langit</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 38
+    <ul>
+      <li><a href="/memanah-rajawali/bab38.html">Perintah Rahasia</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 39
+    <ul>
+      <li><a href="/memanah-rajawali/bab39.html">Mengenali Kebenaran</a></li>
+    </ul>
+  </li>
+  <li>Chapter: 40
+    <ul>
+      <li><a href="/memanah-rajawali/bab40.html">Pertandingan Di Hua Shan</a></li>
+    </ul>
+  </li>
+  <li>Chapter: Appendex A
+    <ul>
+      <li><a href="/memanah-rajawali/intro.html">🦅 Prolog</a></li>
+    </ul>
+  </li>
+  <li>Chapter: Appendix B
+    <ul>
+      <li><a href="/memanah-rajawali/referensi-karakter.html">※ Referensi Karakter Bahasa Mandarin</a></li>
+    </ul>
+  </li>
+  <li>Chapter: Appendix C
+    <ul>
+      <li><a href="/memanah-rajawali/daftar-istilah.html">🔖 Daftar Istilah</a></li>
+    </ul>
+  </li>
+  <li>Chapter: Appendix D
+    <ul>
+      <li><a href="/memanah-rajawali/dao-de-jing.html">☯ Dao De Jing</a></li>
+    </ul>
+  </li>
+  <li>Chapter: Appendix E
+    <ul>
+      <li><a href="/memanah-rajawali/referensi-unit.html">Referensi Unit Ukuran</a></li>
+    </ul>
+  </li>
+  <li>Chapter: Appendix F
+    <ul>
+      <li><a href="/memanah-rajawali/yijing.html">Kutipan Kitab Perubahan</a></li>
+    </ul>
+  </li>
+  <li>Chapter: Appendix G
+    <ul>
+      <li><a href="/memanah-rajawali/panggilan.html">Daftar Panggilan Dalam Bahasa Mandarin</a></li>
+    </ul>
+  </li>
+  <li>Chapter: Appendix H
+    <ul>
+      <li><a href="/memanah-rajawali/nama-tokoh.html">Daftar Tokoh Memanah Rajawali</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="legacy-posts">Legacy Posts</h2>
+
+<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name>FX. Adi Lima</name></author><category term="web-novel" /><category term="update" /><summary type="html"><![CDATA[Saya tidak menghapus contoh-contoh awal dari Jekyll, dan hanya menempatkannya di Legacy dalam halaman ini juga. Kalau Anda ingin langsung membaca novel bisa klik dari halaman depan.]]></summary></entry></feed>
