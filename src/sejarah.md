@@ -19,7 +19,9 @@ kelompok ini.
 Kelompok kedua itu mengadakan pemberontakan di tahun 1328 untuk mengangkat [Kusala](#kusala) sebagai kaisar. Kusala sangat
 fasih berbahasa Han dan ahli dalam berpuisi dan kaligrafi. Ia melindungi pengajaran sastra dan seni yang berorientasi
 Han di dalam sebuah sekolah dan kantor yang dijadikan bagian dari majelis Dinasti Yuan. Tentu saja munculnya Kusala dalam
-percaturan politik saat itu adalah sebuah terobosan yang sangat menggairahkan.
+percaturan politik saat itu adalah sebuah terobosan yang sangat menggairahkan. Majarday dari suku Merkit, dan juga putranya,
+Toqto'a, adalah pelopor dalam pelajaran bahasa dan budaya suku Han bagi warga Dinasti Yuan dari suku non-Han. Mereka 
+melakukannya dengan cara menyewa jasa para guru dari suku Han, dan membangun hubungan baik dengan suku Han.
 
 Hongjin Qiyi untuk pertama kalinya muncul di Jiangxi dan Hunan sekitar tahun 1330. Sejak itu mereka tersebar ke segala
 penjuru hingga pencapai separuh bagian dari wilayah Dinasti Yuan dalam kurun waktu belasan tahun. Mereka bergerak 
@@ -31,17 +33,19 @@ sambil membakar dupa untuk menyembah Buddha Maitreya [^maitreya]. Akhirnya sekte
 dua kelompok besar, di wilayah selatan (atau barat) adalah Hongjin Qiyi di Hubei Selatan, dan di utara (atau timur)
 adalah Hongjin Qiyi yang berbasis di sekitar Sungai Huai, di wilayah yang di jaman modern adalah Anhui.
 
-Gerakan ini adalah hasil karya Peng Yingyu, yang awalnya memimpin pemberontakan di Yuanzhou (di jaman modern adalah 
-Jiangxi), pada tahun 1338. Salah seorang pemimpin pemberontakan itu, Zhou Ziwang, dideklarasikan sebagai Kaisar, tetapi
-ia dengan segera tertangkap oleh penguasa dan kemudian dieksekusi mati. Setelah itu Peng Yingyu melarikan diri ke utara
-dan menyebarkan ajaran mengenai kedatangan Sang Buddha Maitreya, Buddha yang dipenuhi 'Terang' dan 'Kemakmuran', yang 
-akan menjadi akhir dari penderitaan rakyat. Pengaruh Hongjin Qiyi ini sangagt kuat di sekitar Sungai Huai mulai dari
-tahun 1340 dan seterusnya. Guo Zixing, ayah angkat Ma Xiuying, istri Zhu Yuanzhang, adalah salah seorang pelopor
-gerakan ini. 
+[^maitreya]: Maitreya, dalam bahasa sansekerta (मैत्रेय), atau Matteyya (Pali: मेत्तेय्य), atau sering juga disebut Buddha Maitreya, adalah istilah yang dikenal dalam Eskatologi Agama Buddha untuk menyebutkan sosok Buddha Masa Depan. Buddha yang akan datang kembali.
 
-Ikat kepala merah yang selalu mereka kenakan itu sebenarnya adalah hasil karya Peng Yingyu. 
+Gerakan ini adalah hasil karya [Peng Yingyu](/parts/people/historical/peng-yingyu), 
+yang awalnya memimpin pemberontakan di Yuanzhou (di jaman modern adalah Jiangxi), pada tahun 1338. Salah seorang pemimpin
+pemberontakan itu, Zhou Ziwang, dideklarasikan sebagai Kaisar, tetapi ia dengan segera tertangkap oleh penguasa dan kemudian 
+dieksekusi mati. Setelah itu Peng Yingyu melarikan diri ke utara dan menyebarkan ajaran mengenai kedatangan Sang Buddha 
+Maitreya, Buddha yang dipenuhi 'Terang' dan 'Kemakmuran', yang akan menjadi akhir dari penderitaan rakyat. Pengaruh Hongjin 
+Qiyi ini sangat kuat di sekitar Sungai Huai mulai dari tahun 1340 dan seterusnya. Guo Zixing, ayah angkat Ma Xiuying, istri 
+Zhu Yuanzhang, adalah salah seorang pelopor gerakan ini. 
 
-Ajaran kelompok ini juga dikenal sebagai Ajaran Teratai Putih, atau Bai Lien Jiao (白莲教). Pada dasarnya ajaran ini adalah 
+Ikat kepala merah yang selalu mereka kenakan itu adalah hasil karya Peng Yingyu. 
+
+Ajaran kelompok ini juga dikenal sebagai Ajaran Teratai Putih, atau Bai Lian Jiao (白莲教). Pada dasarnya ajaran ini adalah 
 sinkretis dari berbagai ajaran agama yang umum pada saat itu, seperti Buddha, Tao, dan Manikeisme. Karena sebenarnya gerakan 
 mereka adalah gerakan spiritual yang dicampur dengan gerakan politik, maka dengan mudah kemudian berkembang menjadi sebuah 
 eskatologi mengenai datangnya 'Sang Raja Terang', atau Ming Wang (明王). Bagi para anggota yang beragama Buddha, Ming Wang ini 
@@ -51,5 +55,15 @@ dipandang sebagai Buddha Maitreya masa depan.
 
 Kusala dikenal dalam sejarah dengan gelar Kaisar Mingzong dari Yuan setelah ia meninggal.
 
-In the early 1300s, the imperial court of the Mongol-led Yuan dynasty was split between two factions on how best to govern the empire. One faction favored a Mongol-centric policy that favored Mongol and Inner Asian interests while the opposing faction leaned towards a more Han-based "Confucian" governing style. The latter group conducted a coup in 1328 to enthrone Kusala (Emperor Mingzong). Kusala was literate in the Chinese language and made efforts to write Chinese poetry and to produce Chinese calligraphy. He patronized Chinese learning and art with a new academy and office in the inner court. Others at court such as the Merkit Majarday and his son, Toqto'a, also led the way in cultivating Chinese learning by establishing contacts with ethnic Han scholars and hiring them as tutors.[1] Kusala was assassinated by supporters of his half-brother, Tugh Temür (Emperor Wenzong). Tugh Temür died in 1332 and was succeeded by his six-year-old child, Rinchinbal (Emperor Ningzong), who died six months later. His older brother, Toghon Temür (Emperor Huizong), became emperor at the age of 13. He was the last emperor of the Yuan dynasty.[2]
+Kusala tewas di tangan para pendukung adik tirinya, Tugh Temur, yang lebih disukai oleh Jendral El Temur untuk menduduki 
+posisi kaisar. Ketika akhirnya Tugh Temur sendiri meninggal pada tahun 1332, ia sempat berpesan kepada permaisurinya, 
+Budashiri, agar mewariskan tahta kepada anak Kusala, dan bukan kepada putranya sendiri, El Tegus.
 
+Meskipun Tugh Temur dengan jelas menyebutkan nama pewaris tahta itu adalah Toghon Temur, tetapi El Temur memandang Toghon
+sudah terlalu besar untuk bisa dikuasainya secara mutlak. Ia kemudian memilih adik Toghon yang baru berusia enam tahun,
+yaitu Rinchinbal. Toghon Temur sendiri diasingkan ke Goryeo, dan kemudian ke Guangxi.
+
+Sayangnya rencana besar El Temur juga tidak berjalan dengan mulus. Enam bulan kemudian Rinchinbal meninggal, dan Toghon
+Temur dipanggil ke Dadou untuk mewarisi tahta. El Temur yang sangat meragukan Toghon baru rela menobatkannya sebagai
+kaisar enam bulan kemudian. Toghon Temur menjadi Kaisar Dinasti Yuan di usia 13 tahun, dan masih tetap di bawah
+pengawasan El Temur.

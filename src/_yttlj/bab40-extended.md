@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Bab 40 Extended A
+title: Bab 40 Extended
 author: FX. Adi Lima
-description: Ringkasan Bab 40 Golok Pembunuh Naga
+description: Ringkasan Bab 40 Golok Pembunuh Naga, Sisipan Pertama
 ---
 
 ## Titisan Buddha Dan Kaisar Baru
@@ -658,11 +658,11 @@ kembali menggigit daging angsa yang dipegangnya.
 Mereka masih menemani Xu Da dan Chang Yuchun mengobrol sambil minum arak selama beberapa saat lagi, lalu kembali ke 
 kediaman Zhu Yuanzhang untuk berunding dengan Shuo Bude dan Fan Yao.
 
-
-
 <div class="w3-bar">
     <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="intro"><i class="fa fa-home"></i> Intro</a>
     <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="/parts/people">Daftar Karakter Utama</a>
     <a class="w3-btn w3-bar-item w3-hover-black w3-right" href="/menjelajah-dunia/bab1">Menjelajah Dunia</a>
 </div>
+
+***
 
