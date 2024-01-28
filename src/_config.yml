@@ -61,6 +61,23 @@ collections:
   memanah-rajawali:
     output: true
     sort_by: chapter
+  yttlj:
+    output: true
+  menjelajah-dunia:
+    output: true
+  parts:
+    output: true
+  insiden-jingnan:
+    output: true 
+  sswrb:
+    output: true 
+  ming-1449:
+    output: true 
 
-show_excerpts: true
+
+show_excerpts: true 
+
+header_pages:
+  - about.md 
+  - sejarah.md 
 
