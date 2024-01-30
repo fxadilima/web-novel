@@ -5,6 +5,11 @@ author: FX. Adi Lima
 description: Daftar Tokoh Sejarah dan Nama-nama orgaisasi di jaman Dinasti Yuan
 ---
 
+## Peperangan Antar Dua Ibukota
+
+Berdasarkan [informasi dari artikel Wikipedia](https://en.wikipedia.org/wiki/War_of_the_Two_Capitals), kita bisa
+menyusun cerita yang menjadi dasar drama populer Empress Ki.
+
 ## Hongjin Qiyi
 
 Hong Jin Qi Yi (紅巾起義), secara literal berarti 'Pemberontakan Ikat Kepala Merah'.

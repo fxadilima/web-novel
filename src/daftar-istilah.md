@@ -74,3 +74,11 @@ dipanggilnya secara lebih detil, tanpa perlu dijelaskan lagi.
 
 Yao Nu (妖女) bisa diartikan 'Iblis Betina' atau 'Setan Perempuan'.
 
+## Ben Dan
+
+Ben Dan (笨蛋) atau Sha Gua (傻瓜) sama-sama bisa digunakan untuk mengolok-olok lawan bicara sebagai 'tolol',
+'dungu', dan sejenisnya.
+
+Secara literal istilah Ben Dan berarti 'telur dungu', sedangkan Sha Gua berarti 'semangka tolol'.
+
+

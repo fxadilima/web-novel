@@ -40,7 +40,7 @@ di mana-mana, dan para pemberontak lokal yang terkuat di suatu wilayah bahkan be
 
 Chaghan Temur punya seorang anak angkat, yang adalah anak dari saudara perempuannya dengan seorang Bayad Mongol, nama
 anak laki-laki ini adalah Wang Baobao[^wang-baobao]. Karena usianya lebih tua dari Zhao Min, maka ketika ayah Wang 
-Baobao meninggal, Chaghan mengangkatnya menjadi anak, dan secara otomatis menjadi kakak Zhao Min.
+Baobao meninggal, lalu Chaghan mengangkatnya menjadi anak, secara otomatis Wang Baobao menjadi kakak Zhao Min.
 
 [^wang-baobao]: Wang Baobao (王保保) adalah nama asli anak angkat Chaghan Temur, baru setelah ia berhasil menyalurkan bahan-bahan pangan ke ibukota Dinasti Yuan pada tahun 1361, Kaisar Toghon Temur menganugerahkan nama Mongolia 'Koke Temur'. Dalam novel Jin Yong nama Koke Temur ini adalah nama aslinya. [Baca selengkapnya...](./KokeTemur)
 

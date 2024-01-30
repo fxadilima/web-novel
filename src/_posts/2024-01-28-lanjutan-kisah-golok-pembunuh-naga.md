@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 author: FX. Adi Lima
 ---
 
-Upaya saya yang terbaru adalah menyusun ulang Kisah Pedang Langit & Golok Pembunuh Naga,
+Upaya saya yang terbaru adalah menyusun ulang Kisah Pedang Langit dan Golok Pembunuh Naga,
 atau yang lebih dikenal dalam judul bahasa Inggris, **Heavenly Sword and The Dragon Slaying Sabre**,
 dan bahasa mandarin **Yitian Tulong Ji**.
 
@@ -16,6 +16,8 @@ dan bahasa mandarin **Yitian Tulong Ji**.
 Anda bisa mulai membacanya dari [Novel asli Bab 40](/yttlj/bab40), atau [Lanjutan kisahnya versi saya](/yttlj/bab40-extended),
 yang berawal dari bagian akhir Yitian Tulong Ji, tepat setelah pertemuan antara Zhang Wuji, Yin Li, Zhao Min dan Zhou Zhiruo,
 di kaki Gunung Shaoshi, setelah peperangan di Shaolin.
+
+![Xu Da](/assets/images/xuda.png "Jendral Xu Da").
 
 Dalam revisi pertama Jin Yong, setelah bagian ini, akan terjadi sebuah peristiwa mengejutkan yang akhirnya membuat
 Zhang Wuji memutuskan untuk mengundurkan diri dari Ming Jiao. Akan tetapi dalam revisi kedua, bagian ini ditiadakan
