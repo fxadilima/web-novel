@@ -558,9 +558,9 @@ dan kau sengaja ingin memanfaatkan kebaikannya untuk menyelamatkan diri?"
 
 "Sekarang katakan, untuk kesalahan semacam ini, bagaimana seharusnya kau dihukum?" tanya Fan Yao lagi.
 
-Zhu Yuanzhang tahu, aturan ini ditetapkan oleh Zhang Wuji, dan yang melanggarnya harus dikeluarkan dari Ming Jiao. Tetapi
-meskipun Hongjin Qiyi yang dipimpin mertuanya ini adalah cabang dari Ming Jiao. Di masa lalu sebelum Zhang Wuji memimpin,
-pelanggaran semacam ini akan mendapatkan hukuman mati atau salah satu kaki atau tangannya dipotong. Tetapi ajaran yang 
+Zhu Yuanzhang tahu, aturan ini ditetapkan oleh Zhang Wuji, dan yang melanggarnya harus dikeluarkan dari Ming Jiao. Di 
+masa lalu sebelum Zhang Wuji memimpin, pelanggaran semacam ini akan mendapatkan hukuman mati atau salah satu kaki atau 
+tangannya dipotong. Tetapi meskipun Hongjin Qiyi yang dipimpin mertuanya ini adalah cabang dari Ming Jiao, dan ajaran yang 
 mereka anut tidak sungguh-sungguh sama. Meskipun begitu, jika saat ini ia berdebat dengan Fan Yao, bukan tidak mungkin 
 Fan Yao akan menjatuhkan hukuman yang lebih berat, dan Zhang Wuji akan menyetujuinya, padahal jika ia dikeluarkan dari 
 Ming Jiao, dengan sendirinya ia akan kehilangan semua prajurit yang dikumpulkannya dengan susah payah selama ini, dan 
