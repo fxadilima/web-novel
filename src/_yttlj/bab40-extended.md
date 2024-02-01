@@ -10,7 +10,7 @@ description: Ringkasan Bab 40 Golok Pembunuh Naga, Sisipan Pertama
 <div class="w3-bar">
     <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="intro"><i class="fa fa-home"></i> Intro</a>
     <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="/parts/people">Daftar Karakter Utama</a>
-    <a class="w3-btn w3-bar-item w3-hover-black w3-right" href="/menjelajah-dunia/bab1">Menjelajah Dunia</a>
+    <a class="w3-btn w3-bar-item w3-hover-black w3-right" href="bab40-A">Next</a>
 </div>
 
 ![Ilustrasi Bab 40 Extended](/assets/images/han-shantong-1.jpg)
@@ -685,7 +685,7 @@ yang hebat, persenjataan para anggota Ming Jiao boleh dibilang hasil karyanya.
 Fan Yao membungkuk hormat sambil menerima kedua senjata itu, lalu segera menaiki kudanya menuju ke Haozhou.
 
 Mereka bertiga masih berjalan sambil menuntun kuda masing-masing meninggalkan pintu gerbang kota, tak seorang pun
-bicara. Ketika sedang sibuk di tenpat kediaman Guo Zixing, mereka punya bahan lain untuk dibicarakan, dan ada hal penting
+bicara. Ketika sedang sibuk di tempat kediaman Guo Zixing, mereka punya bahan lain untuk dibicarakan, dan ada hal penting
 yang harus dikerjakan. Sekarang Zhang Wuji sudah memutuskan untuk pergi ke Wudang menemui Zhang Sanfeng. Tanpa harus
 bertanya lagi, Zhou Zhiruo tahu bahwa Zhao Min pasti akan mengikutinya.
 
@@ -721,7 +721,7 @@ Tiba-tiba Zhao Min tertawa. "Kalian tidak usah kuatir," kata Zhao Min. Seolah bi
 melanjutkan dengan nada ringan, "Masih ada aku, Xiao Yaonu, yang dosanya jauh lebih besar ketimbang semua orang lain.
 Aku menangkap empat paman gurumu, dan ketiga anak buah ayahku membuat paman keenammu cacat, meskipun akhirnya obatku
 juga yang menyembuhkannya. Belum lagi kalau orang mengingat peristiwa di Haozhou, aku yang menyebabkan kalian gagal 
-menikah." Ia terkekeh sambil menaiki kudanya, lalu berkata lagi, "Tapi aku berani berbuat, berani betanggungjawab.
+menikah." Ia terkekeh sambil menaiki kudanya, lalu berkata lagi, "Tapi aku berani berbuat, berani bertanggungjawab.
 Kalau nanti kakek gurumu atau paman gurumu ingin membunuhku, aku tidak akan melarikan diri."
 
 Zhang Wuji dan Zhou Zhiruo juga menaiki kuda mereka. "Kau masih bisa tertawa sambil menceritakan hal itu?" kata
@@ -853,17 +853,562 @@ dan membutuhkan lebih banyak makanan.
 
 Tiba-tiba Zhang Wuji teringat sesuatu dan bertanya, "Tadi yang kau maksud berontak itu Permaisuri Qi?"
 
-"Bukan," kata Zhao Min. "Para pendukung ayah Kaisar Toghon Temur yang berontak. Saat itu yang menjadi kaisar adalah
-Tugh Temur, adiknya."
+"Bukan," kata Zhao Min. "Ini ada kaitannya dengan Kusala, ayah Kaisar Toghon Temur. Tapi yang memberontak juga bukan
+dia. Tepatnya ada serangkaian pemberontakan di istana, sampai akhirnya El Temur berkuasa sebagai Perdana Menteri dan 
+sekaligus Penasihat Agung."
 
 Zhang Wuji belum pernah mendengar cerita ini. "Bagaimana bisa terjadi hal semacam itu?" tanyanya.
 
+"Saat itu Majelis Agung Dinasti Yuan terbagi menjadi dua kelompok," kata Zhao Min sambil memenuhi mangkuknya yang kosong
+dengan kacang rebus, irisan bawang dan cabai. "Yang pertama mendukung cara-cara Mongolia ortodoks, dan yang kedua lebih
+menyukai ajaran Kongzi[^kongzi] dan ingin menerapkan cara pemerintahan seperti Dinasti Han, karena itu mereka banyak
+belajar dari suku Han. Mereka juga berani membayar mahal guru-guru dari suku Han. Kusala, ayah Kaisar yang sekarang,
+termasuk kelompok kedua ini. Atau dialah yang mempelopori gerakan ini. Waktu itu dia punya banyak pendukung di istana,
+dan El Temur sangat tidak menyukainya." Ia makan beberapa butir kacang bersama irisan cabai dan bawang itu, lalu
+mengambil sebuah kantong arak dari dalam buntalan yang dibawanya. Tepapi setelah dituang ke mangkuk kecil, ternyata
+isinya seperti susu, yang sepertinya beraroma arak. Dengan cepat ia menghabiskan minuman itu, lalu kembali mengisi
+mangkuknya yang kosong. Zhou Zhiruo mengamatinya dengan penasaran.
+
+[^kongzi]: Kong Zi adalah panggilan umum untuk Konfusius, dalam bahasa mandarin.
+
+Zhou Zhiru bertanya, "Meizi, apa yang barusan kau minum itu?"
+
+"Kau ingin mencicipinya?" tanya Zhao Min, lalu mengambil mangkuk kosong di hadapan Zhou Zhiruo dan menuangkan sedikit
+minuman dari kantong araknya.
+
+Zhou Zhiruo mencicipinya dengan agak ragu. Sesaat kemudian matanya yang indah itu melebar, dan ia menghabiskan minuman
+itu dalam sekali teguk. "Ini enak sekali," katanya setulus hati. "Lain kali kau harus mengajariku bagaimana cara membuatnya."
+
+Dengan gembira Zhao Min memenuhi mangkuk Zhou Zhiruo dengan minuman itu. "Ini namanya Airag. Dibuat dari susu kuda, rasanya
+agak asam, dan juga seperti arak, tapi tidak keras. Kalau kau suka, nanti kuberitahu bagaimana cara membuatnya." Ia mengambil
+beberapa butir kacang bersama irisan bawang dengan sumpitnya sambil tersenyum lebar.
+
+Sebenarnya Zhou Zhiruo lapar, tetapi karena kesal setelah mendengar komentar Zhang Wuji tentang Han Lin'er, ia kehilangan
+selera untuk makan. Sekarang melihat cara Zhao Min makan, ia baru menyadari rasa laparnya, dan tanpa sadar ia mulai mengambil
+makanan yang sejak tadi tidak disentuhnya.
+
+Zhang Wuji gembira melihat Zhou Zhiruo mulai makan. Ia lalu mengambil mangkuknya sendiri, dan dengan cepat menghabiskan
+semangkuk nasi. "Aku mengerti, berarti saat itu El Temur lebih memilih Tugh Temur, adik Kusala. Lalu apa yang terjadi
+dengan Kusala?"
+
+"Dia diasingkan ke Yunnan," jawab Zhao Min. "Tapi kemudian dia melarikan diri ke wilayah kekuasaan keluarga Chagatai,
+di Asia Tengah. Sebelumnya dia berusaha melakukan pemberontakan di Shaanxi, tapi gagal. Setelah itu ia didukung oleh
+kalangan Chagatai, dan menikah di situ dengan perempuan dari suku Karluks[^karluks], yang bernama Mailaiti."
+
+[^karluks]: Suku Karluks, atau Qarlug, dalam perkembangan menjadi Uzbekhistan dan suku Uyghur.
+
+"Kalau pemberontakan itu gagal, lalu bagaimana Kaisar Toghon Temur bisa naik tahta?" tanya Zhang Wuji heran.
+
+Zhao Min tertawa terbahak-bahak. "Kau kira segampang itu orang naik tahta?" katanya sambil memanggil pelayan dan memesan
+lagi dua ekor bebek panggang dan banyak bakpao untuk dibawa sebagai bekal di perjalanan. "Mula-mula, kau harus tahu
+bahwa Tugh Temur juga tidak langsung naik tahta begitu saja," lanjutnya setelah pelayan itu pergi. "Ayah mereka, Kaisar 
+Khayishan, atau Kulug Khan, berseteru dengan ibunya yang berasal dari suku Khonggirad, seperti Chabi, istri Kubilai Khan.
+Suku Khonggirad ini dianggap sebagai pilihan utama bagi seorang permaisuri. Tetapi Khayishan menikahi wanita dari
+suku Ikhires. Ini menyebabkan ketegangan dengan ibu dan adiknya, Ayurbarwada. Akhirnya Khayishan terpaksa mengangkat
+Ayurbarwada sebagai putra mahkota, dengan perjanjian bahwa setelah Ayurbarwada naik tahta, ia harus mengangkat Kusala
+sebagai putra mahkota."
+
+"Wah, tak kusangka serumit itu jalan ceritanya," kata Zhang Wuji.
+
+Baru saat itu Zhou Zhiruo mulai tertarik mendengar cerita politik Zhao Min. "Kedengarannya menarik sekali," katanya.
+"Khayishan berani menentang ibunya, dan menikah dengan wanita dari suku lain? Kurasa selanjutnya bisa ditebak, Ayurbarwada
+itu ingkar janji!"
+
+Zhao Min mengangguk. "Betul, tapi bukan Ayurbarwada yang ingkar janji. Setelah Ayurbarwada meninggal, hampir semua
+anggota keluarga dari suku Khonggirad bersepakat untuk mengangkat anak Ayurbarwada, Shidibala, sebagai Khan, dan juga
+Kaisar Dinasti Yuan. Alasan mereka tentu saja karena Kusala anak dari seorang perempuan suku Ikhires. Untuk memastikan
+rencana itu berjalan mulus, Kusala diasingkan ke Yunnan, tetapi dianugerahi gelar sebagai Raja dari Chou."
+
+"Itu jahat sekali, lagi-lagi hanya karena dia anak dari perempuan suku lain!" kata Zhou Zhiruo.
+
+"Kenapa hanya Kusala yang diasingkan, bukankah Tugh Temur juga anak Khayishan?" tanya Zhang Wuji.
+
+"Tentu saja, karena Tugh Temur bukan putra mahkota," jawab Zhao Min. "Karena itu dia dianggap tidak berbahaya. Tapi
+jangan kau kira akhirnya Shidibala itu sungguh-sungguh naik tahta. Dia kemudian dibunuh oleh Yesun Temur dalam 
+sebuah kudeta. Yesun Temur inilah yang kemudian menjadi Khan. Nah, setelah dia meninggal, terjadilah perang antar
+dua ibukota, Shangdu dan Dadou. Ragibagh, anak Yesun Temur naik tahta, tetapi kemudian Tugh Temur yang tinggal
+di Dadou memberontak melawannya, dengan dukungan El Temur. Jendral Bayan yang saat itu gubernur Henan juga ikut
+mendukungnya."
+
+"Ini cerita luar biasa, kenapa aku tidak pernah mendengarnya?" kata Zhang Wuji.
+
+"Karena setelah rangkaian pemberontakan itu berakhir dengan kemenangan kubu Tugh Temur, akhirnya mulailah timbul
+pemberontakan dari suku Han, yang berawal dari Han Shantong dan Liu Futong!" jawab Zhao Min. "Kau tentu tahu, 
+Han Shantong boleh dibilang sangat terpengaruh oleh ajaran Peng Dashi tentang kedatangan Buddha Maitreya, dan
+kemudian orang beranggapan bahwa dialah Sang Buddha Maitreya yang akan datang itu. Karena itulah kalian tidak pernah
+mendengar tentang apa yang terjadi di istana, orang hanya sibuk menceritakan tentang hal ini."
+
+Zhang Wuji baru mulai memahami apa yang sebenarnya terjadi di balik semua pemberontakan ini. Ia tahu bahwa sebelum
+mulai memberontak, Liu Futong adalah seorang pejabat Dinasti Yuan. Dan selanjutnya, dialah yang menjadi penasihat
+Han Shantong. Sekarang ini dia menjadi penasihat Han Lin'er, juga Penasihat Agung Dinasti Song yang baru, dan sekaligus
+merangkap menjadi Perdana Menteri. Ia merasa keputusannya untuk mengawasi Liu Futong baik-baik adalah tepat, dan ia
+merasa lega. "Min Mei, kau masih belum menceritakan bagaimana akhirnya Kaisar Toghon Temur bisa naik tahta," katanya.
+
+"Nah, setelah Tugh Temur naik tahta, akhirnya dia mengundang Kusala kembali ke Dadou," jawab Zhao Min. "Saat itu
+Kusala membawa sejumlah besar dukungan militer dari kalangan Chagatai ke Mongolia, ke Karakorum. Melihat hal ini,
+para pengeran di Karakorum dengan segera mendukungnya. Akhirnya Tugh Temur ketakutan melihat kekuatan militer
+itu, dia sangat tertekan. Kusala mengumumkan diri sebagai Khan Agung di Mongolia, dan dua bulan kemudian El Temur
+datang dengan membawa stempel resmi kekaisaran ke Mongolia. Dia mengumumkan bahwa pihak Dadou bermaksud mendukungnya.
+Sebulan kemudian, Kusala membalas sikap itu dengan mengangkat adiknya, Tugh Temur sebagai Putra Mahkota."
+
+"Kelihatannya Kusala ini Kaisar yang baik," kata Zhang Wuji.
+
+Zhao Min tersenyum. "Dia memang baik, tapi sayangnya dia tidak sempat menjadi Kaisar maupun Khan yang sebenarnya,"
+katanya. "Kau kira orang lain akan membalas sikap ksatria dengan sikap yang sama?"
+
+"Apa yang terjadi selanjutnya?" tanya Zhou Zhiruo.
+
+"Kusala berangkat dari Karakorum hanya dengan seribu delapan ratus orang ke Dadou. Dua bulan kemudian ia bertemu
+dengan Tugh Temur di Ongguchatu. Di situ Tugh Temur sudah membangun kota Zhongdu. Tiba-tiba Kusala meninggal empat
+hari setelah perjamuan bersama Tugh Temur. Sebulan kemudian Tugh Temur naik tahta kedua kalinya, sebagai Khan Agung
+Mongolia, dan sekaligus Kaisar Dinasti Yuan."
+
+"Gila!" seru Zhang Wuji kaget. Tanpa sadar ia menampar pinggiran meja. "Betul-betul kejam! Membunuh kakak sendiri."
+
+Zhang Wuji pernah mendengar cerita dari Xie Xun dan Zhang Sanfeng tentang Kaisar Dinasti Song, Huizong, yang pura-pura
+mengundurkan diri, dan menyerahkan tahta kepada putranya, Qinzong, karena takut akan serbuan bangsa Jin. Qinzong awalnya
+takut menerima tahta itu, juga karena takut kepada bangsa Jin yang akan menyerbu mereka, saampai akhirnya Huizong menyuruh
+seorang kasim memaksa Qinzong duduk di singgasana. Ironisnya, kedua kaisar itu akhirnya tetap tertangkap oleh bangsa
+Jin yang menyerbu mereka, dan mendirikan Dinasti Jin di wilayah utara. Insiden memalukan bagi Dinasti Song ini menyebabkan
+wilayah mereka tinggal separuh, dan sebagai akibatnya dinamakan Song Selatan. Adik Qinzong, Zhao Gou, yang melarikan diri 
+ke selatan itu, berhasil mempertahankan Song, meskipun hanya tinggal separuh. Tetapi kemudian ketika bangsa Jin bermaksud 
+membebaskan Qinzong akibat tekanan dari Jendral Yuefei, ia takut bahwa Qinzong akan menuntut tahta, yang sebelumnya menjadi 
+haknya, lalu ia menghentikan perjuangan Jendral Yuefei melawan bangsa Jin, padahal saat itu Yuefei sedang di ambang kemenangan. 
+Saat ini Zhang Wuji merasa ada kemiripan antara tindakan Zhao Gou, yang akhirnya menjadi Kaisar Gaozong itu, dengan 
+tindakan Tugh Temur.
+
+"Demi tahta orang bisa melakukan apa saja," kata Zhou Zhiruo. Ia juga pernah mendengar cerita yang sama dari Miejue Shitai.
+Ia merasa, sungguh gila bahwa sebelumnya ia pernah merasa gembira ketika mendengar Peng Yingyu berkata bahwa dirinya
+akan menjadi permaisuri Zhang Wuji begitu perjuangan mereka melawan Dinasti Yuan ini sukses. Ketika Zhao Min menceritakan
+tentang Khayishan yang ditentang oleh ibunya sendiri, ia merinding karena membayangkan seorang ibu bisa menyebabkan kedua
+putranya sendiri saling berperang gara-gara tahta.
+
+"Sekarang untuk menjawab pertanyaanmu," kata Zhao Min kepada Zhang Wuji. "Sebelum Tugh Temur meninggal, ia menyesali
+tindakannya, dan berpesan kepada permaisurinya, Budashiri, untuk mewariskan tahta kepada putra Kusala. Saat itu El Temur
+sudah berkuasa, tetapi Budashiri yang akhirnya dipandang lebih layak mengambil keputusan oleh Majelis Agung."
+
+Zhang Wuji mengangguk. "Jadi dengan begitu akhirnya Toghon Temur menjadi kaisar."
+
+Tetapi Zhao Min menggelengkan kepalanya. "Tetap tidak sesederhana itu," katanya. "Kusala punya istri lain yang bernama
+Babusha, selain Meilaiti. Meilaiti ini adalah ibu Toghon Temur, sedangkan Babusha adalah ibu Rinchinbal, yang saat itu
+baru berusia enam tahun, sedangkan Toghon sudah berusia tiga belas tahun. Jadi El Temur merasa Toghon terlalu besar
+untuk bisa dikuasainya sepenuhnya. Dia lebih memilih Rinchinbal. Toghon diasingkan ke Goryeo."
+
+"Bukankah kau bilang Budashiri lebih dipandang oleh Majelis?" tanya Zhang Wuji. "Apa dia juga setuju?"
+
+"Budashiri tidak punya kekuatan militer," kata Zhao Min. "Jadi dia lalu berpikir, toh mereka berdua tetap anak-anak
+Kusala, berarti siapapun yang naik tahta, dia tetap sudah melaksanakan amanat terakhir Tugh Temur."
+
+"Dan akhirnya Rinchinbal yang naik tahta?" tanya Zhou Zhiruo.
+
+"Betul," jawab Zhao Min. "Tapi dia kemudian meninggal, dua bulan sebelum dinobatkan menjadi kaisar. Setelah itu, 
+El Temur ingin mengangkat putra Tugh Temur, El Tegus, menjadi kaisar."
+
+"Kelihatannya itu perbuatan El Temur," sela Zhou Zhiruo. "Dia sengaja membunuh Rinchinbal, dengan salah satu cara."
+
+"Soal itu aku tidak tahu," kata Zhao Min. "Yang jelas rencananya juga tidak berjalan mulus."
+
+"Saat itu Toghon masih di Goryeo?" tanya Zhang Wuji.
+
+Zhao Min kembali menggeleng. "Sudah dipindahkan ke Guangxi," katanya.
+
+"Ah, aku tahu!" sela Zhou Zhiruo lagi. "Ketika diasingkan ke Goryeo itulah dia bertemu dengan Permaisuri Qi!"
+
+Zhao Min tersenyum lebar. "Ternyata Zhou Jiejie sangat tertarik pada cerita tentang Permaisuri Qi," katanya. Senyumnya
+makin lebar ketika melihat Zhou Zhiruo tersipu. "Kau benar, tetapi semua orang beranggapan bahwa mereka bertemu di
+Dadou. Di Istana Dinasti Yuan. Karena Ki Seung Nyang, nama asli Permaisuri Qi, memang dikirimkan ke Dinasti Yuan oleh
+Raja Goryeo. Mereka diwajibkan mengirim perempuan sebagai upeti ke Dinasti Yuan setiap tiga tahun."
+
+"Untuk dijadikan selir?" tanya Zhou Zhiruo lagi.
+
+"Huh," dengus Zhao Min. "Kau kira seenak itu? Biasanya mereka dijadikan pelayan, atau wanita penghibur bagi para
+Jendral. Kalau pun menjadi selir, pastilah peringkat terendah."
+
+Zhang Wuji yang masih penasaran mengembalikan topik yang melebar, "Tadi kau bilang Toghon masih di Guangxi, lalu 
+dia dipanggil pulang ke istana?"
+
+"Ya, tapi awalnya dia tidak mau, karena El Temur sangat jahat," jawab Zhao Min. Ia memandang ke luar dan melihat 
+matahari sudah mulai condong ke ufuk barat, lalu buru-buru menghabiskan airag yang masih tersisa di mangkuknya.
+"Ini cerita yang sangat panjang. Sekarang ini kita harus cepat-cepat ke kota terdekat sebelum gelap. Kita toh
+masih punya banyak waktu untuk bercerita."
+
+Mereka melanjutkan perjalanan dan mencari penginapan di kota terdekat. Zhou Zhiruo sangat ingin mendengar cerita
+tentang Permaisuri Qi, tetapi Zhang Wuji sedang penasaran mengenai apa yang dilakukan oleh El Temur. Karena mereka
+sedang berpacu di atas kuda, rasa penasaran itu terpaksa ditunda sampai mereka tiba di sebuah penginapan yang 
+cukup sederhana di sebuah kota kecil. Penginapan itu tidak menyediakan makanan, untungnya Zhao Min membeli banyak
+makanan sebelumnya, jadi mereka bisa makan malam di teras penginapan sambil melanjutkan cerita, setelah menyegarkan
+diri dan memesan dua kamar. Zhou Zhiruo dan Zhao Min menginap di satu kamar, dan Zhang Wuji memesan kamar yang lebih
+kecil untuk dirinya sendiri.
+
+"Untung ada Permaisuri Budashiri, setidaknya Toghon masih dibiarkan hidup," kata Zhang Wuji. "Kurasa kematian Rinchinbal
+itu juga misterius, mungkin El Temur menyuruh orang menaruh racun di makanannya."
+
+"Soal itu memang misterius," kata Zhao Min. "Sampai sekarang tidak ada jawaban yang pasti. Tapi kau harus tahu, ketika
+Toghon masih di Guangxi, Budashiri memerintahkan supaya Babusha, ibu Rinchinbal, yang berarti juga ibu tiri Toghon,
+dihukum mati."
+
+Zhang Wuji dan Zhou Zhiruo sangat terkejut. "Bukankah dengan begitu dia membuat Toghon bermusuhan dengan dirinya
+sendiri? Bagaimana mungkin akhirnya dia tetap bersikeras mengangkat Toghon menjadi kaisar, dan bukan anaknya sendiri?"
+
+"Seperti juga Khayishan yang memaksa Ayurbarwada mengangkat Kusala menjadi putra mahkota, Budashiri juga akhirnya
+memaksa Toghon mengangkat El Tegus menjadi putra mahkota," jawab Zhao Min.
+
+"Betul-betul licik," sela Zhou Zhiruo. "Jadi tindakannya mengangkat Toghon dan Rinchinbal menjadi kaisar itu sebetulnya
+tidak tulus! Kalau begitu, lebih baik mereka tidak usah menjadi kaisar, dan tetap hidup."
+
+Zhang Wuji menghela nafas panjang dengan sedih, lalu berkata, "Kasihan sekali anak-anak itu. Kelihatannya mereka diangkat
+ke posisi setinggi langit, tapi sebenarnya nyawa mereka selalu berada di ujung tanduk."
+
+"Yang kau sebut 'anak-anak' itu, yang seorang sudah meninggal, dan yang lain sekarang ini sudah berusia tiga puluhan,"
+kata Zhao Min sambil tersenyum lebar. "Semua cerita ini terjadi ketika kita masih sangat kecil."
+
+"Dan aku masih berada di Bing Huo Dao bersama Yifu dan kedua orang tuaku," kata Zhang Wuji menimpali komentar Zhao Min.
+"Kadang-kadang aku merasa, sebaiknya saat itu ayah dan ibuku tidak usah meninggalkan pulau itu. Bukankah kami masih
+tetap hidup berbahagia di situ, dan mereka berdua tidak perlu tewas bunuh diri."
+
+Saat itu kejengkelan Zhou Zhiruo sirna seketika, hatinya melembut. Ia berkata dengan penuh perhatian, "Kau jangan
+berpikir begitu. Kita tidak bisa memutar balik waktu, dan mereka meninggalkan pulau itu adalah demi dirimu. Mereka
+ingin supaya kau bisa menikmati kehidupan yang layak di Zhong Yuan. Kalau tetap di pulau itu, bagaimana kau akan
+menghabiskan waktumu sendirian setelah bereka bertiga akhirnya meninggal? Bukankah semua orang akhirnya akan tetap
+mati? Itu tidak bisa dihindari. Dan kalau tetap di situ, bukankah kau akan mati tanpa meninggalkan keturunan?"
+
+Bicara sampai di sini, suasana tiba-tiba menjadi hening. Kalimat Zhou Zhiruo yang terakhir itu membuat mereka bertiga
+kembali menyadari keadaan mereka saat itu. Mereka sadar bahwa saat ini baik Zhao Min maupun Zhou Zhiruo masih memegang
+sebuah permintaan bagi Zhang Wuji. Jika sebelumnya Zhao Min meminta agar Zhang Wuji tidak menikahi Zhou Zhiruo di Haozhou,
+maka sekarang Zhou Zhiruo pasti akan melarangnya menikahi Zhao Min. Dan kemudian Zhao Min pun pasti akan meminta hal
+yang serupa. Setelah beberapa saat, tanpa sadar mereka bertiga tertawa bersama, masing-masing menertawakan diri sendiri.
+
+Zhao Min memandang ke bulan sabit di langit, lalu mulai melantunkan sebuah puisi dengan gaya yang anggun. Suaranya
+sangat jernih dan merdu. "Terburu-buru mencintai, terburu-buru membenci, siapa yang akan melewati suka dan duka
+bersamaku? Hidup manusia seperti angin yang berlalu, dalam sekejap mata kita akan kembali menjadi debu, dan menghilang
+bersama sang waktu..."
+
+Zhang Wuji dan Zhou Zhiruo bertepuk tangan setelah ia menyelesaikan lagu itu. Meskipun mereka berdua berasal dari
+suku Han, tetapi kalau bicara tentang sastra dan seni, mereka harus mengakui bahwa Zhao Min yang sejak kecil dikelilingi
+oleh guru-guru yang pandai jauh lebih unggul ketimbang mereka. Zhang Wuji teringat akan puisi yang ditulis Zhao Min
+sebagai ungkapan kekagumannya ketika memandang Yitian Jian di Bianliang. Sampai kapanpun juga ia tidak akan bisa
+menulis puisi seperti itu. Kelihatannya itu bukan karena kemampuan guru-guru sastra Zhao Min, tetapi karena bakatnya
+sendiri di bidang seni.
+
+"Aku tidak bisa menyanyi," kata Zhou Zhiruo. "Dan tulisan tanganku juga jelek. Masih beruntung Shifu mengajariku 
+membaca dan menulis, jadi aku tidak buta huruf. Kau jauh lebih mengerti tradisi dan kebudayaan suku Han ketimbang
+kami."
+
+"Kau masih ingat awal ceritaku ini? Keluarga ayahku berasal dari suku Naiman, yang akhirnya ditaklukkan oleh
+Genghis Khan. Tadinya leluhur ayahku tinggal di Xinjiang, tetapi setelah Kubilai Khan mendirikan Dinasti Yuan,
+keluarga mereka pindah ke Shengqiu. Mereka akhirnya juga mengikuti Kubilai Khan, dan memeluk agama Buddha Tibet.
+Keluarga ayahku termasuk mereka-mereka yang mendukung penerapan ajaran Kongzi dan kebudayaan Han di dalam Dinasti 
+Yuan," kata Zhao Min. Ia tersenyum. "Tapi kurasa kalian juga tahu, karena baik Wang Baobao maupun ayahku berbahasa 
+Han dengan baik."
+
+"Kudengar Wang Baobao sebenarnya bukan kakak kandungmu," kata Zhang Wuji.
+
+"Betul, seharusnya aku memanggilnya [Biaoge](../daftar-istilah#biao-ge "Biao Ge (表哥) = kakak sepupu."). 
+Ini kira-kira sama seperti kau dan Yin Li," kata Zhao Min. "Tapi ayahku mengangkatnya sebagai anak setelah 
+ayahnya sendiri meninggal."
+
+"Tidak mengherankan kalau kau sungguh punya kemiripan dengan Wang Baobao," kata Zhou Zhiruo.
+
+Zhao Min cekikikan, lalu berkata, "Dia mirip ibunya, dan aku mirip ayahku. Kami berdua tidak mirip suku Naiman.
+Selama beberapa generasi, sebagian besar leluhur ayahku memang menikah dengan perempuan dari suku Han. Tidak seperti
+El Temur atau Jendral Bayan."
+
+"Dua jendral itu kedengarannya sangat kejam," kata Zhang Wuji.
+
+"Mereka agak berbeda," kata Zhao Min. "El Temur jelas tidak mendukung suku Han. Aku sendiri belum sepenuhnya memahami
+hal ini. Tapi yang jelas sekolah-sekolah yang mengajarkan bahasa Han dan segala ajaran Kongzi, lengkap dengan tradisi
+dan budaya suku Han itu, semuanya berawal dari ide Kusala. Jendral Bayan itu agak aneh. Dia tidak menyukai orang yang
+mencampuradukkan budaya Mongolia dengan budaya Han, dan menentang kebijakan yang berbau suku Han di pemerintahan.
+Bahkan dia menghapuskan Ujian Negara yang pernah diikuti ayahku. Tindakan itu sungguh bodoh dan kolot. Tapi ternyata
+dia sangat membenci para pejabat yang bertindak sewenang-wenang terhadap rakyat miskin selama menjadi Darughachi di Henan.
+Dia tak segan-segan menghabisi para pejabat yang melakukannya."
+
+"Oh, berarti kau saat itu meniru dia," kata Zhang Wuji. Ia teringat ketika pertama kalinya melihat Zhao Min, ia dan 
+Delapan Panah Dewa menghabisi gerombolan prajurit Yuan yang menindas rakyat.
+
+"Saat itu aku belum mendengar cerita ayahku tentang Jendral Bayan," kata Zhao Min. "Terus terang saja, aku melakukannya
+karena tindakan semacam itu akan membuat kalian semakin membenci kami, orang-orang Mongolia. Dan aku memang tidak suka
+cara mereka seenaknya merampok rakyat, padahal ayahku membayar mereka dengan gaji yang cukup tinggi."
+
+Zhang Wuji berkata dengan muka serius, "Aku harus mengakui, cara ayahmu melaksanakan tugasnya di Henan patut dipuji.
+Ayahmu adalah seorang pejabat yang setia dan jujur. Aku bisa melihat, hal ini membuat rakyat sangat mencintainya,
+karena itu provokasi Han Lin'er dan orang-orang Ming Jiao memang tidak akan digubris oleh sebagian besar rakyat di wilayah
+kekuasaan ayahmu." Ia menghela nafas panjang, lalu melanjutkan sambil menatap ke kejauhan dengan pandangan menerawang,
+"Sayangnya kami dan ayahmu membela kubu yang berbeda."
+
+Zhao Min berkata, "Wuji Gege, apa menurutmu kubu-kubu ini sungguh penting? Coba lihat, baik di kubu pemerintah maupun
+di kubu pemberontak, ternyata mereka saling berperang sendiri. Lalu apa bedanya orang berdiri di kubu mana? Pada dasarnya
+mereka sedang membela kepentingan pribadi!"
+
+"Meizi, kau benar," kata Zhou Zhiruo. "Dan ambisi untuk berkuasa itu bukan hanya untuk urusan negara. Kalau aku ingat
+Ding Mingjun memusuhiku gara-gara Shifu memberikan cincin lambang Ketua Emei Pai kepadaku..." Ia tidak meneruskan kalimat
+itu, karena setelah ia sendiri mempelajari Jiu Yin Baigu Zhua, semua murid Emei itu memang tunduk kepada perintahnya, tapi
+bukan karena mereka menghormatinya. Mereka takut setelah melihat kekejamannya. Pada dasarnya saat itu tindakannya memang
+dari luar tampak seolah sedang membela Emei, tapi sebenarnya ia sedang berusaha membalas perbuatan Zhang Wuji yang 
+mempermalukannya di depan umum.
+
+Sedangkan Zhang Wuji berpikir, "Sejak awal Min Mei memang selalu berusaha menghambat tujuan utama Ming Jiao untuk
+menumbangkan Dinasti Yuan. Ternyata sampai saat ini dia masih sama." Tapi ia kemudian melihat bahwa ucapan Zhao Min
+itu sungguh masuk akal. Chen Youliang sudah jelas punya tujuan pribadi untuk menguasai kubu Xu Shouhui. Dan sekarang
+ia melihat Zhu Yuanzhang jelas sedang membela kepentingannya sendiri ketika membunuh Guo Tianxu dan Guo Tianyou melalui
+tangan orang lain. Liu Futong jelas memanfaatkan Han Shantong yang terkenal karena rakyat menganggapnya Titisan Buddha
+Maitreya, dan sekarang ia lagi-lagi memanfaatkan nama Han Lin'er supaya orang menuruti perintahnya.
+
+Akhirnya ia merasa, meskipun saat ini ia adalah ketua Ming Jiao, tetapi para pejabat Ming Jiao itu sebenarnya hanya
+memanfaatkan namanya, yang dikenal orang gara-gara tindakannya di Guangming Ding, padahal saat itu ia hanya bermaksud
+mencegah mereka membunuh para anggota Ming Jiao dan masuk ke perangkap yang dipasang Cheng Kun.
+
+Setelah memikirkan semuanya ini agak lama, ia merasa bimbang, betulkah langkahnya selama ini keliru? Dan kenapa sekarang
+Zhou Zhiruo begitu mudah mempercayai Zhao Min, padahal sebelumnya ia selalu mencurigainya? 
+
+Di sepanjang perjalanan mereka ke Wudang, Zhang Wuji memikirkan semuanya ini berkali-kali tanpa mendapat jawaban yang
+pasti. Mereka tiba di kaki gunung Wudang dalam beberapa hari, dan di situ ia terkenang akan ayah dan ibunya. Ia berkata
+kepada kedua gadis yang sedang berkuda di sisinya, "Ayo kita percepat, aku ingin mengunjungi makam ayah dan ibuku."
+
+Tiba di lokasi pemakaman Wudang, mereka tercengang. Tampaknya di situ ada sebuah makam baru, dan di batu nisannya
+tertulis 'Makam Pendekar Song Qingshu dari Wudang Pai'.
+
+"Kelihatannya kerusakan di syaraf otaknya tidak bisa dipulihkan lagi," kata Zhang Wuji.
+
+Ia melihat Zhou Zhiruo mengalihkan pandangannya ke arah lain. Sedangkan Zhao Min tampak ragu-ragu sejenak, lalu mendekati
+Zhou Zhiruo dan merangkulnya tanpa bicara.
+
+Zhang Wuji memungut beberapa tanaman liar yang mulai tumbuh di atas makam itu, lalu membungkuk hormat tiga kali
+di depan batu nisannya.
+
+Setelah berjalan sekitar seratus meter dari situ, mereka tiba di depan makam yang besar. Di situ ada batu nisan dengan 
+kalimat yang agak panjang, dan mengandung sebuah syair tentang Yitian Jian dan Tulong Dao yang sudah akrab bagi mereka.
+Zhang Sanfeng telah menambahkan syair itu untuk mengenang Zhang Cuisan dan Yin Soso, yang lebih rela mati ketimbang
+mengatakan keberadaan Xie Xun dan Tulong Dao.
+
+Tanpa terasa air mata mengalir membasahi pipi mereka bertiga. Lalu mereka berlutut di hadapan batu nisan itu, dan 
+membungkuk hormat. Zhang Wuji dengan suara gemetar mengungkapkan kerinduannya kepada ayah dan ibunya.
+
+Tampaknya makam itu selalu dibersihkan secara teratur. Jika melihat kondisinya, pastilah baru-baru ini ada orang yang
+berziarah ke situ, dan membersihkan tanaman liar yang tumbuh di sekitarnya. 
+
+Dari situ mereka beranjak ke perguruan yang didirikan oleh Zhang Sanfeng, dan disambut oleh para murid Wudang yang sedang 
+berlatih kungfu. Ming Yue bergegas melaporkan kedatangan mereka kepada Zhang Sanfeng. Setelah menyapa semua paman gurunya,
+Zhang Wuji mengajak Zhou Zhiruo dan Zhao Min ke ruang meditasi kakek gurunya, diiringi Ming Yue.
+
+Zhang Sanfeng tampak sangat sehat di usianya yang sudah melampaui seratus sepuluh tahun itu. Tidak tampak tanda-tanda
+pikun. Suaranya masih nyaring dan lantang seperti sebelumnya. Punggungnya masih tegak. Rupanya ia sedang menikmati teh
+hangat di pendopo, di luar ruang meditasinya yang sederhana, sambil memandang alam liar di sekitarnya dan membaca sebuah
+kitab.
+
+Melihat kedatangan mereka, ia sangat gembira. Ia menyimpan kitab yang sedang dipegangnya ke dalam saku jubahnya, lalu
+memberi isyarat kepada mereka yang sedang berlutut untuk segera bangkit.
+
+Tetapi Zhao Min buru-buru berkata, "Beberapa tahun sebelumnya [Xiao Nuzi](../daftar-istilah#xiao-nuzi "Xiao Nuzi (小女子) adalah sebutan bagi diri sendiri, yang diungkapkan oleh seorang perempuan muda, untuk merendahkan diri di hadapan orang lain.")
+telah bersikap kurang ajar dan terlalu berani di hadapan Zhang Zhenren. Xiao Nuzi sungguh tidak bisa membedakan apa yang 
+baik, dan secara sembrono dan tak tahu diri mencoba mengguncangkan Gunung Tai."
+
+Mendengar hal ini, Zhang Sanfeng tertawa terbahak-bahak dan mengatakan bahwa ia tidak pernah menyimpan masalah itu 
+di dalam hatinya. Ketika Zhang Wuji menceritakan bahwa Zhao Min telah meninggalkan keluarganya, dan sekarang mengikutinya,
+Zhang Sanfeng mengamatinya dengan penuh perhatian, lalu bertanya, "Nona, kalau suatu hari nanti kau melihat ayahmu dan
+cucu muridku ini saling bertentangan, lalu apa yang akan kau lakukan?"
+
+"Pengalaman Xiao Nuzi sangat dangkal," jawab Zhao Min dengan sedih. "Ketika terjadi peperangan di Puncak Shaoshi yang lalu,
+Xiao Nuzi hanya bisa memilih untuk tidak membela kedua-duanya. Yang seorang adalah ayah, yang lain adalah pria yang 
+Xiao Nuzi cintai. Kedua-duanya sama-sama Xiao Nuzi cintai, jika salah seorang terluka atau tewas, maka hati Xiao Nuzi
+akan sangat hancur. Mohon pencerahan dari Zhang Zhenren."
+
+Zhang Sanfeng menarik nafas panjang, lalu memejamkan matanya. Beberapa saat kemudian ia berkata sambil menuliskan sesuatu
+dengan potongan ranting kering di atas tanah, "Cobalah kau renungkan arti karakter ini di sepanjang hidupmu. Kalau
+kau sungguh-sungguh merenungkannya setiap hari, aku bisa berjanji, kau tidak akan kecewa nantinya."
+
+Mereka bertiga melihat karakter yang ditulis Zhang Sanfeng itu adalah '空', alias 'Kosong'[^kong].
+
+[^kong]: Kosong, atau dalam bahasa mandarin 'Kong' (空), seringkali dipakai oleh para pendeta Tao sepanjang masa sebagai bahan renungan. 
+
+Zhao Min merenungkannya sejenak, lalu membenturkan dahinya di atas tanah tiga kali sambil berkata, "Xiao Nuzi untuk
+selama-lamanya akan mengingat pengajaran Zhang Zhenren ini."
+
+Zhang Sanfeng bertanya lagi, "Kudengar saat ini situasi di luar sangat kacau. Peperangan terjadi di mana-mana. Apa
+yang akan kau lakukan mengenai hal ini?"
+
+Zhao Min menjawab, "Entah kubu pemerintah, atau kubu pemberontak, selain saling berperang, ternyata mereka juga berperang
+sendiri di dalam kubu masing-masing. Xiao Nuzi sudah memutuskan untuk tidak membela kubu mana pun. Jika sebuah peristiwa
+terjadi di depan mata, baru saat itulah Xiao Nuzi akan tahu bagaimana harus bertindak."
+
+Sekali lagi Zhang Sanfeng menatap Zhao Min lekat-lekat dengan penuh perhatian setelah mendengar jawaban itu. Beberapa
+saat kemudian barulah ia berkata, "Nona, usiamu masih sangat muda, tetapi kau bisa melihat hal semacam ini. Wanita
+seperti dirimu sungguh jarang ada di dunia ini."
+
+Zhou Zhiruo yang berlutut di sisi Zhao Min berkata, "Zhiruo telah melakukan banyak kejahatan, dan melupakan budi baik
+Zhang Zhenren selama ini. Zhiruo mengecewakan Zhang Zhenren, dan sekarang siap menerima hukuman."
+
+Zhang Sanfeng memandangnya sambil mengerutkan dahinya. "Mengapa aku harus menghukummu?" tanyanya.
+
+"Di Pertemuan Besar Para Pendekar, di Shaolin, Zhiruo telah menentang para pendekar Wudang, dan juga telah ikut
+menyebabkan Song Dage terseret sampai mengalami nasib malang, dan akhirnya sekarang meninggal. Selain itu, demi
+mengangkat nama baik Emei, Zhiruo telah membunuh banyak orang yang tak bersalah," kata Zhou Zhiruo dengan suara
+gemetar. "Saat itu Shifu menceritakan rahasia besar tentang Yitian Jian dan Tulong Dao, dan menyuruh Zhiruo bersumpah
+untuk melaksanakan pesan terakhirnya, dan... dan mengelabuhi Wuji Gege, juga merampas Tulong Dao... Zhiruo tidak
+sanggup membunuh... membunuh Wuji Gege, tapi juga tidak berani melanggar perintah Shifu..." Ia tak kuasa menahan
+diri, dan tangisnya meledak tak terkendali. Saat itu Zhao Min yang sedang berlutut di sisinya segera merangkulnya
+untuk menghibur.
+
+Zhang Sanfeng memberi isyarat supaya ketiga anak muda itu bangkit berdiri, dan duduk bangku kosong, di hadapannya.
+Ia mengelus janggutnya yang putih sambil berpikir dalam. Beberapa saat kemudian ia menghela nafas panjang penuh
+penyesalan, lalu berkata, "Miejue Shitai itu sungguh-sungguh keras, tak kusangka semuanya menjadi seperti ini.
+Tapi bahkan Guo Xiang Nuxia membutuhkan waktu puluhan tahun, sebelum akhirnya menyadari kekeliruannya."
+
+Ia menatap Zhou Zhiruo dengan penuh perhatian, lalu berkata dengan halus, "Yang kau lakukan itu memang salah,
+meskipun hanya mengikuti perintah gurumu. Tapi jika kau tidak melakukannya, sampai saat ini rahasia itu juga
+tidak akan kita ketahui." Ia menoleh kepada Zhang Wuji. "Kudengar kau memimpin pasukan di Shaolin dengan panduan dari
+kitab warisan Jendral Yue Fei. Itu salah satu hal penting yang tidak bisa diabaikan."
+
+"Wuji hanya bisa mencontoh isi kitab itu, dan sekarang kitab itu sendiri sudah Wuji berikan kepada orang yang lebih
+pantas menyimpannya," jawab Zhang Wuji. "Tai Shifu, Wuji tidak berguna, dan mengecewakan harapan Tai Shifu. Untuk
+memimpin pasukan perang ini sungguh-sungguh Wuji tidak berbakat. Salah satu saudara yang mengikuti Hongjin Qiyi,
+namanya Xu Da, dia jauh lebih pantas memimpin pasukan." Ia mengeluarkan dua jilid kitab salinan Jiu Yin Zhen Jing
+dan Delapan Belas Jurus Penakluk Naga dari dalam sakunya, lalu memberikannya kepada kakek gurunya. "Tai Shifu,
+ini salinan dari kitab yang petanya tersimpan di dalam Yitian Jian."
+
+Zhang Sanfeng menerima kedua kitab itu, lalu membaca isinya sejenak. Ia lalu mendecakkan lidah sambil berkata, "Ini
+dua jenis ilmu silat yang sangat luar biasa. Tai Shifu memang pernah berpikir bahwa ada ilmu lain yang adalah kebalikan
+dari Jiu Yang Shen Gong, yang kau pelajari. Saat itu Jueyuan Dashi tidak sempat menceritakannya. Rupanya ilmu itu
+tersembunyi di dalam Yitian Jian. Tidak heran kalau sebelumnya ada syair yang berbunyi 'Jika Yitian tidak muncul,
+siapa yang sanggup menandinginya?'. Sekarang kita tahu bahwa syair itu punya makna yang sangat dalam dan tak terduga."
+
+Zhang Wuji sangat gembira. Ia berkata, "Tai Shifu, setelah mengetahui rahasia itu, akhirnya Wuji berpendapat bahwa
+Tulong Dao itu sendiri sebetulnya hanya sebuah simbol, yang disebut tak tertandingi adalah kekuatan militer yang 
+dilambangkannya. Sedangkan Yitian Jian itu sendiri juga simbol, arti sebenarnya adalah kedua kitab ini, yang mewakili
+dunia persilatan. Jika kekuatan militer itu kemudian disalahgunakan, maka berikutnya akan muncul seseorang yang 
+mewakili dunia persilatan, yang dilambangkan oleh Yitian Jian itu, untuk mengimbanginya."
+
+Zhang Sanfeng diam sejenak, lalu tertawa terbahak-bahak, dan berkata, "Wuji, selama puluhan tahun Tai Shifu selalu
+merenungkan arti syair itu, dan juga rahasia yang ada di balik Yitian Jian dan Tulong Dao. Hari ini selain boleh
+melihat rahasia yang tersimpan di dalam kedua senjata itu, ternyata bisa mendengar anak Zhang Cuishan menguraikan
+makna terdalam dari rahasia itu sendiri. Tidak sia-sia aku hidup di dunia ini sampai lebih dari seratus tahun.
+Kau masih muda, tapi bisa menarik kesimpulan seperti ini, betul-betul tidak sederhana."
+
+Ia kemudian berpaling kepada Zhou Zhiruo dan berkata, "Peristiwa di dunia ini saling berkaitan. Yang sudah berlalu,
+biarlah berlalu, tidak usah kau sesali sampai menyiksa diri. Tapi 
+[Pindao](../daftar-istilah#pindao "Pindao (贫道) adalah sebutan seorang Pendeta Tao bagi dirinya sendiri.") 
+tetap harus mengatakan sesuatu kepadamu. Jika kau mau berusaha untuk menyingkirkan segala dendam yang ada di hatimu,
+maka kau akan terhindar dari banyak masalah yang sebelumnya sudah terjadi. Jiu Yin Zhen Jing tidak bisa dilatih dengan
+terburu-buru. Kau melatihnya karena ingin membalas dendam, karena itu akhirnya kau tersesat."
+
+Zhou Zhiruo sangat terharu, dan bermaksud bangkit dari tempat duduknya untuk berlutut, tetapi Zhang Sanfeng memberi
+isyarat dengan tangannya supaya ia tetap duduk. Dengan berlinang air mata Zhou Zhiruo berkata, "Zhiruo pasti akan
+mengingat pelajaran berharga dari Zhang Zhenren. Tapi Zhiruo tidak berbakat, dan sekarang ini sudah tidak lagi 
+menjabat sebagai ketua Emei Pai. Zhiruo mohon petunjuk dari Zhang Zhenren."
+
+Zhang Sanfeng menggelengkan kepalanya. "Pindao sekarang sudah terlalu tua. Sebagai gantinya Wuji akan membimbingmu
+untuk mempelajari Jiu Yin Zhen Jing dengan benar." Ia kembali berpaling kepada Zhang Wuji sambil berkata, "Tai Shifu
+mendengar bahwa saat ini di Haozhou kita punya seorang kaisar, dan di utara kita juga punya seorang kaisar. Sebetulnya
+apa yang terjadi?"
+
+Zhang Wuji dengan sedih menceritakan semua yang mereka alami setelah peperangan di Shaolin. Ia juga menceritakan
+tentang apa yang dilakukan oleh Zhu Yuanzhang, dan meninggalnya Guo Zixing di Chuzhou. Mendengar cerita itu, Zhang
+Sanfeng menundukkan kepalanya untuk berpikir. Setelah agak lama ia akhirnya menarik nafas panjang sambil menggelengkan
+kepalanya, dan berkata, "Di sepanjang sejarah, impian tentang tahta selalu merusak manusia. Tapi sebuah negara memang
+tidak boleh tanpa pemimpin. Karena hampir semua dinasti lahir karena sebuah pemberontakan, maka yang menjadi kaisar
+juga adalah mereka yang punya jabatan militer. Karena itulah yang kau sebutkan mengenai rahasia Yitian Jian tadi 
+menjadi penting. Tapi bagaimana kau akan menerapkannya, supaya rakyat jelata juga ikut mendapat manfaatnya?"
+
+"Wuji sangat bodoh," kata Zhang Wuji. "Wuji tidak tahu bagaimana menerapkannya, mohon petunjuk Tai Shifu."
+
+Zhang Sanfeng tertawa sambil berkata, "Di sisimu ada dua orang rekan kerja yang sangat baik. Apa lagi yang bisa
+Tai Shifu lakukan untuk membantumu. Mereka berdua bisa melakukannya dengan jauh lebih baik." Ia berpaling kepada
+Zhao Min dan bertanya, "Nona kecil, apa yang kau lihat mengenai masalah Ming Jiao di utara dan selatan ini?"
+
+Zhao Min agak terkejut mendengar pertanyaan itu, tetapi ia menjawab, "Xiao Nuzi tahu saat ini pemerintah sedang 
+sibuk berperang dengan Zhang Shicheng, dan meskipun kelihatannya Toqto'a unggul, tetapi kemenangannya masih 
+belum pasti, karena Xiao Nuzi tahu bahwa di dalam istana sekarang ini sedang terjadi kemelut. Bukan tidak mungkin
+situasi akan berubah drastis. Sepertinya saat ini ayah yang diutus untuk menangani masalah Zhang Shicheng.
+Sebaliknya, di wilayah Xu Shouhui saat ini ada seorang Chen Youliang yang menurut Xiao Nuzi pasti akan menghasut
+Ni Wenjun untuk memberontak melawan Xu Shouhui. Setelah itu, dia justru akan membunuh Ni Wenjun dengan tangannya
+sendiri, dengan alasan bahwa Ni Wenjun bermaksud memberontak, dengan begitu dia akan dianggap sebagai pahlawan.
+Tetapi berikutnya dia sendiri yang akan memberontak melawan Xu Shouhui, dan merebut tahtanya. Xiao Nuzi berani
+menduga seperti ini berdasarkan pengalaman sebelumnya di Pulau Ular, ketika bertemu dengan Chen Youliang."
+
+Zhang Wuji sangat terkejut mendengar betapa detilnya analisa Zhao Min. Tetapi saat itu ia melihat kakek gurunya
+menganggukkan kepala dengan gembira, lalu bertanya, "Wuji, sudah mengertikah apa yang Tai Shifu maksud?"
+
+Sebetulnya Zhang Wuji masih bingung, dan ingin bertanya, tetapi saat itu Zhang Sanfeng sudah mengalihkan perhatian
+kembali kepada Zhao Min dan bertanya, "Dan bagaimana dengan Ming Jiao di sebelah timur itu?"
+
+Saat itu Zhou Zhiru menyela, "Zhang Zhenren, menurut Zhiruo masalah Dinasti Song yang baru itu untuk sementara
+masih aman, karena kita saat ini punya sekutu yang baik."
+
+"Oh?" Zhang Sanfeng heran, lalu kembali bertanya, "Sekutu?"
+
+Zhou Zhiruo menceritakan pembicaraan mereka dengan Ma Xiuying, istri Zhu Yuanzhang. Dan ia juga menceritakan
+bahwa Ma Xiuying adalah anak angkat Guo Zixing.
+
+Zhang Sanfeng berkata, "Luar biasa, Wuji seharusnya sekarang kau bisa menangkap apa yang Tai Shifu maksud." Ia
+lalu berkata kepada Zhou Zhiruo. "Pindao melihat Zhu Yuanzhang ini sebetulnya lebih berbahaya ketimbang
+Chen Youliang. Tapi Pindao melihat pemikiranmu sangat beralasan, dalam banyak hal dia pasti akan mendengarkan
+nasihat istrinya ini. Hanya saja, kalian harus rajin menghubungi Ma Xiuying."
+
+Zhang Wuji berkata, "Tetapi bagaimana seorang istri seperti Ma Xiuying bisa mencegah Zhu Yuanzhang melakukan sesuatu
+terhadap Liu Futong dan Han Lin'er? Apakah Zhu Yuanzhang memang akan mendengarkannya?" Ia memang sudah agak lama
+menyimpan kekuatiran mengenai hal ini. Ia melihat kemiripan antara posisi Chen Youliang dengan Zhu Yuanzhang, dan
+keduanya punya ambisi besar yang sama untuk berkuasa. Jika Zhu Yuanzhang ternyata dibiarkan menguasai pasukan
+Guo Zixing secara keseluruhan, maka sasaran berikutnya adalah menggulingkan Liu Futong dan Han Lin'er.
+
+"Justru di situlah peranan kita," kata Zhao Min. "Kita harus bisa mendukung Ma Xiuying. Tapi menurutku saat ini
+Zhu Yuanzhang masih akan tunduk kepada Liu Futong dan Han Lin'er, karena dia ingin terlihat sebagai orang baik.
+Selain itu, kau baru saja mengampuninya, jadi untuk sementara dia tidak akan berani melakukan kesalahan yang
+sama. Selanjutnya Liu Futong pasti akan memerintahkannya untuk menaklukkan wilayah yang saat ini dianggap penting,
+misalnya, wilayah yang tadinya adalah milik Song Selatan, seperti Bianliang."
+
+Zhang Sanfeng mengangguk-anggukkan kepalanya sambil berkata, "Bagus, sekarang ini Tai Shifu ingin melihat bagaimana
+kalian bertiga bisa bekerja sama untuk mengurangi penderitaan yang harus dialami rakyat jelata akibat perang, karena
+perang sudah pasti tidak akan bisa dihindari." Ia memandang Zhou Zhiruo dan Zhao Min bergantian, lalu berkata,
+"Usia Tai Shifu sudah sangat tua, tidak tahu sampai kapan bisa menemani kalian. Tapi beberapa bulan lagi Yin Liting
+akan punya anak, dan saat itu Tai Shifu masih berharap untuk bisa bertemu lagi dengan kalian di tempat ini. Tai Shifu
+berharap kalian bisa bekerja sama dengan baik. Sebagai pendekar, kita memang tidak sama dengan para jendral yang 
+bertempur di medan perang. Tugas kita adalah membantu rakyat, dan menciptakan keadilan di mana-mana."
+
+Ia lalu berkata kepada Zhao Min, "Masalahmu yang terbesar sebelumnya adalah gurumu tidak mengajarkan tenaga dalam
+dan qinggong sama sekali. Itu karena dia memandangmu sebagai ancaman bagi perjuangannya. Tapi kalau kau sungguh
+rajin merenungkan makna karakter yang kusebutkan tadi, maka bimbingan dari Wuji pasti akan membuatmu maju pesat,
+karena sebetulnya kau sangat berbakat. Kalau Zhiruo melatih ilmu yang didapat dari Jiu Ying Zhen Jing dengan benar,
+maka kau akan bisa melatih Taiji dan Jiu Yang Shen Gong dengan bimbingan Wuji. Dengan begini kalian pasti akan bisa
+bekerja sama dengan baik demi menolong rakyat dari kesusahan besar akibat perang. Kalau kau menghubungkan makna 
+karakter 'Kong' itu dengan keadaanmu saat ini, maka kau akan mengerti bahwa karena kau belum pernah diajari ilmu
+tenaga dalam, sebetulnya itu justru sebuah keuntungan bagimu. Seperti sebuah mangkuk atau cawan, jika bagian tengahnya
+tidak kosong, maka cawan itu juga tidak akan bisa digunakan sebagai cawan."
+
+Zhao Min segera memahami makna kalimat terakhir itu. Ketika ia dan Zhou Zhiruo menyadari perubahan cara Zhang Sanfeng
+menyebut dirinya sendiri, dari 'Pindao' menjadi 'Tai Shifu', mereka sangat terharu, dan tanpa terasa mata mereka
+berkaca-kaca karena Zhang Sanfeng menyebutkan 'tidak tahu sampai kapan bisa menemani kalian'. Dalam hati mereka
+bertanya-tanya, mengapa saat ini Zhang Sanfeng menyebut dirinya 'Tai Shifu'? Apakah orang tua itu menganggap mereka
+sebagai cucu muridnya?
+
+Kepada Zhang Wuji Zhang Sanfeng berkata, "Wuji, dalam perjalanan kau mulai sekarang harus membimbing latihan mereka
+berdua dengan benar. Tai Shifu sudah terlalu tua, dan saat ini waktu begitu mendesak, kalian harus segera berangkat
+untuk melaksanakan tugas penting ini. Perang sudah mulai berkecamuk di mana-mana, kita tidak boleh membuang-buang waktu."
+
+Dengan berlinang air mata mereka bertiga berpamitan, lalu bergegas meninggalkan Wudang untuk menuju ke selatan.
+
+Zhang Sanfeng mengawasi punggung ketiga anak muda itu sampai menghilang di balik dinding. Ia bisa melihat bahwa Zhang
+Wuji memang punya kungfu yang sangat tinggi, bahkan lebih tinggi dibanding apa yang bisa dicapainya di usia yang sama.
+Tetapi cucu muridnya itu tidak mewarisi ketegasan kedua orang tuanya, sedangkan kedua gadis itu justru memilikinya.
+
+Dengan segudang pengalamannya sebagai orang yang hidup lebih dari seratus tahun, dan mengalami era terakhir Dinasti Song,
+lalu sempat dipandang sebagai calon kuat untuk menduduki jabatan tinggi di jajaran Kubilai Khan, tetapi dia kemudian 
+menolaknya, sekarang Zhang Sanfeng kembali menyaksikan penderitaan rakyat akibat perang. Ia menilai Zhao Min punya 
+kecerdasan dan keberanian yang sangat istimewa. Ia juga sanggup mengambil keputusan penting dengan cepat. Tetapi
+ia masih tidak cukup kejam dalam menghadapi situasi genting. Padahal adakalanya menunda keputusan penting karena
+keragu-raguan akan menghasilkan sesuatu yang lebih buruk. Untungnya seorang Zhou Zhiruo yang dari luar terlihat 
+lemah lembut dan sabar, dalam situasi terdesak ternyata sanggup melakukan tindakan drastis yang diperlukan, dengan
+resiko bersalah. Jika ketiga anak muda ini bisa bekerja sama dengan baik, maka mereka akan bisa berperan penting bagi 
+rakyat jelata dan dunia persilatan di tengah kekacauan besar yang pasti akan terjadi dalam waktu singkat ini.
+
+Perang memang tidak bisa dihindarkan. Dalam hal ini negara memang membutuhkan seorang kaisar, tetapi seorang kaisar
+bengis tetap harus diberi peringatan. Zhang Sanfeng berharap bahwa ketiga anak muda itu akan kembali ke Wudang
+dengan membawa kabar baik.
 
 
 <div class="w3-bar">
-    <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="intro"><i class="fa fa-home"></i> Intro</a>
+    <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="/"><i class="fa fa-home"></i> HOME</a>
     <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="/parts/people">Daftar Karakter Utama</a>
-    <a class="w3-btn w3-bar-item w3-hover-black w3-right" href="/menjelajah-dunia/bab1">Menjelajah Dunia</a>
+    <a class="w3-btn w3-bar-item w3-hover-black w3-right" href="bab40-A">Next</a>
 </div>
 
 ***

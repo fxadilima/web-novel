@@ -10,6 +10,10 @@ description: Lanjutan Kisah Pedang Langit dan Golok Pembunuh Naga, Daftar Istila
 Da Ge (大哥) secara literal berarti 'Kakak Laki-laki yang tertua', tetapi dalam pergaulan sehari-hari bisa juga
 diartikan secara sederhana menjadi 'Kakak'.
 
+## Biao Ge
+
+Biao Ge (表哥) adalah kakak sepupu laki-laki.
+
 ## Shou Xia
 
 Shou Xia (手下) bisa diterjemahkan secara bebas menjadi 'bawahan' atau 'anak buah'. Jika dipakai dalam kalimat
@@ -80,5 +84,18 @@ Ben Dan (笨蛋) atau Sha Gua (傻瓜) sama-sama bisa digunakan untuk mengolok-o
 'dungu', dan sejenisnya.
 
 Secara literal istilah Ben Dan berarti 'telur dungu', sedangkan Sha Gua berarti 'semangka tolol'.
+
+## Xiao Nuzi
+
+Xiao Nu Zi (小女子) adalah panggilan seorang perempuan muda bagi dirinya sendiri di hadapan orang yang dihormatinya.
+
+Istilah ini barangkali bisa diterjemahkan menjadi 'orang muda yang rendah ini', atau 'gadis kecil yang rendah ini',
+di mana karakter Xiao (小) di situ sekaligus sebagai ungkapan untuk merendahkan diri (kecil), dan juga menunjukkan bahwa
+orang yang memakainya memang masih muda.
+
+## Pindao
+
+Pin Dao (贫道) adalah cara seorang pendeta Tao memanggil diri sendiri. Secara literal artinya adalah 
+'Pengikut ajaran Tao yang malang ini', atau 'Taois yang malang ini'.
 
 
