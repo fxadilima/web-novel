@@ -241,6 +241,112 @@ Dinasti Yuan. Tapi ia sudah mendengar bahwa para pejabat Dinasti Yuan dari suku 
 mereka untuk bergabung dengan Zhang Shicheng. Bukankah hal itu secara langsung atau tidak memang sangat menguntungkan
 mereka?
 
+Sementara mereka masih melanjutkan obrolan sambil makan, seorang pria bertubuh tinggi besar masuk dan menghampiri meja 
+mereka, lalu langsung menyapa Zhao Min, "Xiaojie!"
+
+Zhang Wuji, Wei Yixiao dan Zhou Zhiruo sejenak merasa heran, tetapi kemudian mereka mengenali pria itu ternyata adalah 
+salah seorang anggota Delapan Panah Dewa hasil binaan Zhao Min, dan sedang mengenakan pakaian seperti layaknya suku Han,
+tanpa atribut Mongolia sama sekali. Ia juga menyapa Zhao Min dengan sebutan 'Xiao Jie', yang berarti 'Nona', dan bukan
+'Junzhu' seperti biasanya, karena itu mereka tidak mengenalinya.
+
+"Ada apa?" tanya Zhao Min. "Dari mana kalian tahu aku ada di sini?"
+
+Qian Erbai berkata, "Tadi Gongzi menitipkan pesan supaya Xiaojie tidak mampir ke Hanyang. Eh, menurut Gongzi, itu akan
+berakibat buruk bagi Laoye."
+
+Zhao Min mengerti, Wang Baobao ingin menghindari pertemuan antara dirinya dengan Bolad Temur, yang saat itu sedang berada
+di wilayah Xu Shouhui. Apalagi saat ini ia sedang bersama Zhang Wuji.
+
+Ia menganggukkan kepalanya, lalu berkata, "Aku tahu. Saat ini Laoye ada di mana?"
+
+Qian Erbai tampak ragu-ragu, lalu melirik ke arah Zhang Wuji dan Wei Yixiao. 
+
+Akhirnya Zhao Min berkata, "Baiklah, aku mengerti. Katakan kepada Gongzi, seharusnya dia lebih memperhatikan
+musuh besar kita, dan bukan mencampuri urusanku! Aku bukan anak kecil lagi, aku tahu bagaimana harus menjaga diri!"
+
+Setelah membungkuk hormat, Qian Erbai kemudian meninggalkan kedai itu.
+
+Zhao Min memberi isyarat supaya mereka agak merapat, lalu berkata dengan suara rendah, "Ayahku tidak ada di sini,
+tapi dia sudah tahu bahwa kita datang ke sini, lalu memberi peluang bagi kita untuk menghabisi Bolad Temur."
+
+"Dari mana kau tahu?" tanya Zhang Wuji.
+
+"Gampang saja," jawab Zhao Min. "Bolad Temur musuh besar ayahku. Kalau dia ada di sini, ayahku pasti akan mengirimkan
+sedikit pasukan untuk membantunya, sekedar untuk menaati perintah dari pusat, tapi dia sendiri pasti akan menyingkir
+ke tempat lain, dan berpura-pura sibuk." Mukanya agak memerah, lalu melanjutkan, "Orang itu pernah mengirimkan orang
+untuk melamarku menjadi selirnya, tapi langsung ditolak oleh ayahku."
+
+Zhou Zhiruo tertawa cekikikan mendengar hal ini. "Meizi, kalau yang mengirim lamaran itu Han Lin'er, mungkin ayahmu
+akan menerimanya."
+
+Zhao Min hampir menjawab 'Aku tidak mau bersaing denganmu', tapi ia tidak ingin membuat Zhou Zhiruo marah. Saat ini
+hubungan mereka berdua sangat baik. Karena itu ia hanya berkata, "Han Lin'er tidak akan mau menikah dengan seorang
+Junzhu."
+
+Zhou Zhiruo berkata, "Wei Fuwang, aku terpaksa minta sedikit bantuanmu untuk menyampaikan surat ini kepada
+Ma Furen, tapi hanya jika Zhang Jiaozhu tidak keberatan."
+
+Ia menyerahkan kantong kecil berisi surat yang tadi ditulis Zhao Min. Kemudian ia mengambil lipatan kertas yang lebih kecil
+dari dalam sakunya, yang sama sekali tidak dibungkus, dan berkata, "Yang ini adalah pesan yang sebenarnya. Aku percaya
+dengan kemampuan Wei Fuwang, pasti dengan mudah akan bisa menyelipkan lipatan kertas kecil ini ke tangan Ma Furen, tepat
+setelah ia menerima kantong ini."
+
+Zhang Wuji dan Wei Yixiao membaca isi kedua surat itu, dan tersenyum tipis. "Kalian berdua licik sekali," kata
+Zhang Wuji. "Ini hanya berisi resep untuk membuat kue-kue, dan juga bebek panggang, tapi yang satunya berisi informasi
+panjang lebar mengenai urusan orang lain. Bukankah ini agak keterlaluan?"
+
+Zhao Min tersenyum lebar. "Kali ini kami hanya ingin membangun hubungan baik dengan Ma Xiuying. Dan bukankah kita
+memang sudah mendengar tentang perempuan-perempuan itu? Ma Xiuying akan sangat menghargainya. Lain kali kalau dia
+punya informasi lain yang lebih penting, sudah pasti kita akan diberitahu."
+
+"Untuk urusan seperti ini, Nona Zhou dan Nona Zhao pasti bisa mengandalkan Zaixia," kata Wei Yixiao dengan gembira.
+Ia teringat bagaimana sebelumnya ia menculik Selir Han dari istana Chaghan Temur, dan mengirimkannya ke kamar
+Lu Zhangke.
+
+Zhou Zhiruo berkata, "Wuji Gege, ini urusan perempuan, kau tidak usah terlalu banyak tahu. Percayalah, lain kali kau
+akan sangat berterima kasih kepada Ma Xiuying."
+
+Karena teringat pesan kakek gurunya supaya mereka lebih sering menghubungi Ma Xiuying, akhirnya Zhang Wuji berkata,
+"Baiklah, tapi untuk selanjutnya aku tetap harus tahu pesan seperti apa yang kalian kirim."
+
+Kedua gadis itu segera mengiyakan dengan gembira.
+
+Malam itu juga Wei Yixiao berangkat ke arah timur untuk menyampaikan pesan itu. Zhang Wuji juga menuliskan surat
+kepada Peng Yingyu, Liu Futong dan Yang Xiao untuk dibawa Wei Yixiao. Zhang Wuji, Zhou Zhiruo dan Zhao Min kemudian 
+berjalan-jalan sejenak untuk menikmati suasana malam di kota Xiangyang. Di sepanjang jalan Zhang Wuji memberikan 
+instruksi kepada Zhao Min tentang bagaimana mulai melatih pernafasannya dengan benar, sesuai dengan ajaran yang ada 
+di dalam Jiu Yang Zhen Jing. Karena Zhou Zhiruo sudah lebih dulu melatih Jiu Yin Zhen Jing, ia hanya memberi komentar 
+yang diperlukan pada saat Zhou Zhiruo bertanya.
+
+Zhao Min dengan cepat memahami makna dari uraiannya yang panjang lebar itu. Dan mulai malam itu ia dengan rajin 
+bermeditasi dan melatih pernafasannya sesuai dengan instruksi Zhang Wuji.
+
+Selama beberapa hari pertama mereka tinggal di situ, tidak ada kabar yang terlalu berarti mengenai pergerakan Chen 
+Youliang dan Ni Wenjun. Baru setelah sebulan, seorang anggota Panji Lima Elemen Ming Jiao diutus oleh Peng Yingyu
+untuk mengantarkan surat pribadi yang ditujukan kepada Zhang Wuji.
+
+Dalam suratnya, Peng Yingyu mengatakan bahwa ia tetap gagal membujuk Xu Shouhui untuk memindahkan Chen Youliang
+ke posisi lain. Dan saat ini Chen Youliang memang telah maju sangat pesat. Pasukan yang dipimpinnya dipuji di 
+mana-mana. Disiplin mereka sangat ketat. Formasi mereka sangat mengagumkan.
+
+"Tentu saja," pikir Zhang Wuji. "Dia menerapkan formasi yang dikembangkan dari Kai Pang dengan disiplin militer.
+Sama sekali tidak aneh."
+
+Peng Yingyu juga mengatakan bahwa Ni Wenjun memindahkan ibukota dinasti itu ke Hanyang, seandainya mereka memang
+berhasil menaklukkannya. Ketika membaca sampai di sini, Zhang Wuji mulai kuatir. Ia merasa bahwa langkah ini adalah
+awal sebuah pemberontakan.
+
+Zhang Wuji merasa bosan dengan makanan di penginapan itu, lalu mengajak Zhou Zhiruo dan Zhao Min untuk makan malam
+di sebuah kedai lain di pinggiran kota Xiangyang. Setelah makan malam, mereka berjalan kaki dengan santai di tepi
+sebuah anak sungai kecil yang terletak di belakang kedai itu.
+
+Sekitar seratus meter dari kedai itu, mereka mendengar suara seorang pria sedang mengutip sebuah sajak, tetapi cara
+melantunkannya terdengar seperti orang yang sedang mabuk. Ketika berjalan mendekat, ternyata mereka melihat seorang pria
+sekitar empat puluhan, yang mengenakan pakaian seperti seorang sastrawan, sedang duduk sendirian di tepi sungai, dan
+mengutip syair-syair yang bagi mereka seperti tidak ada artinya. Di tangannya ada sebuah kantong arak, yang sepertinya
+sudah kosong.
+
+"Sastrawan setengah baya yang kacau," kata Zhou Zhiruo sambil tersenyum. 
 
 
 <div class="w3-bar">
