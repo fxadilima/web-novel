@@ -15,7 +15,3 @@ Li Shanchang dihukum mati, bersama dengan seluruh keluarganya, dan juga sekitar 
 dengan tuduhan melawan pemerintah Dinasti Ming.
 
 
-
-
-
-

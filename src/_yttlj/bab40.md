@@ -148,7 +148,7 @@ sangat terkesan, tak seorang pun tahu bahwa ia sebetulnya menggunakan taktik mil
 Tentu saja ia juga membuat perubahan seperlunya karena perbedaan medan tempur dan karakteristik pasukan.
 
 Setelah menyelesaikan penugasan, Zhang Wuji akhirnya berkata, "Aku meminta Kong Wen Fangzhang dan Kong Zhi Dashi
-untu memimpin para murid baik laki-laki maupun perempuan dari Emei Pai, untuk menangani para relawan yang cedera
+untuk memimpin para murid baik laki-laki maupun perempuan dari Emei Pai, untuk menangani para relawan yang cedera
 atau tewas." Karena Zhou Zhiruo tidak hadir, Emei Pai tidak punya pemimpin. Zhang Wuji sadar akan rasa tidak suka
 para murid Emei terhadap dirinya, karena itu ia merasa sangat tidak pantas baginya untuk memimpin para murid Emei.
 Karena alasan inilah ia meminta Kong Wen dan Kong Zhi, dua orang biksu dengan reputasi dan moral yang tidak bisa diragukan,

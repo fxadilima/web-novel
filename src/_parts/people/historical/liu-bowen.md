@@ -17,8 +17,13 @@ meramalkan tentang peristiwa-peristiwa berikut:
 2. Krisis ditawannya Kaisar Dinasti Ming oleh suku Oirat, yang dikenal sebagai Tumu Crisis.
 3. Kebangkitan Zheng He.
 4. Isu politik Wei Zhongxian (魏忠贤乱政).
-5. Jayuhnya Dinasti Ming dan bangkitnya Dinasti Qing.
+5. Jatuhnya Dinasti Ming dan bangkitnya Dinasti Qing.
 6. Perang Candu I
 7. Perang Tiongkok - Jepang.
 8. Berdirinya RRC.
+
+Liu Bowen dalam sejarah pensiun di tahun 1358. Akan tetapi di dalam cerita ini Liu Bowen sempat bertemu dengan Zhang Wuji, 
+Zhou Zhiruo dan Zhao Min, di Xiangyang, pada awal tahun 1356.
+
+
 

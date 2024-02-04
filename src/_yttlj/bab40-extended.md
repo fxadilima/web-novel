@@ -1045,7 +1045,8 @@ itu juga misterius, mungkin El Temur menyuruh orang menaruh racun di makanannya.
 
 "Soal itu memang misterius," kata Zhao Min. "Sampai sekarang tidak ada jawaban yang pasti. Tapi kau harus tahu, ketika
 Toghon masih di Guangxi, Budashiri memerintahkan supaya Babusha, ibu Rinchinbal, yang berarti juga ibu tiri Toghon,
-dihukum mati."
+dihukum mati. Saat itu Tugh Temur mengangkat anaknya, Aratnadara, sebagai putra mahkota. Tapi sebulan setelah itu
+ternyata Arutnadara meninggal, dan Tugh Temur akhirnya menyodorkan El Tegus sebagai putra mahkota."
 
 Zhang Wuji dan Zhou Zhiruo sangat terkejut. "Bukankah dengan begitu dia membuat Toghon bermusuhan dengan dirinya
 sendiri? Bagaimana mungkin akhirnya dia tetap bersikeras mengangkat Toghon menjadi kaisar, dan bukan anaknya sendiri?"

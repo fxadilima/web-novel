@@ -7,7 +7,7 @@ description: Ringkasan mengenai tokoh utama cerita - Zhou Zhiruo
 
 # Zhou Zhiruo
 
-Zhou Zhiruo adalah putri tunggal dari pasangan keluarga biasa dari suku Han. Penampilannya sangat cantik, kecantikan khas
+Zhou Zhiruo (周芷若) adalah putri tunggal dari pasangan keluarga biasa dari suku Han. Penampilannya sangat cantik, kecantikan khas
 suku Han, pembawaannya lembut dan seolah terbebas dari kenyataan hidup yang ada di dunia ini. Ia lugu dan cenderung
 mengikuti semua nasihat orang yang lebih tua atau dianggapnya lebih bijaksana dan agung.
 
