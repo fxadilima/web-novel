@@ -98,4 +98,7 @@ orang yang memakainya memang masih muda.
 Pin Dao (贫道) adalah cara seorang pendeta Tao memanggil diri sendiri. Secara literal artinya adalah 
 'Pengikut ajaran Tao yang malang ini', atau 'Taois yang malang ini'.
 
+## Shao Bing
+
+Shao Bing (烧饼) adalah _pancake_ ala Tiongkok.
 

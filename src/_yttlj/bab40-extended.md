@@ -924,7 +924,7 @@ rencana itu berjalan mulus, Kusala diasingkan ke Yunnan, tetapi dianugerahi gela
 "Kenapa hanya Kusala yang diasingkan, bukankah Tugh Temur juga anak Khayishan?" tanya Zhang Wuji.
 
 "Tentu saja, karena Tugh Temur bukan putra mahkota," jawab Zhao Min. "Karena itu dia dianggap tidak berbahaya. Tapi
-jangan kau kira akhirnya Shidibala itu sungguh-sungguh naik tahta. Dia kemudian dibunuh oleh Yesun Temur dalam 
+jangan kau kira akhirnya Shidibala itu hidup aman di atas tahta. Dia kemudian dibunuh oleh Yesun Temur dalam 
 sebuah kudeta. Yesun Temur inilah yang kemudian menjadi Khan. Nah, setelah dia meninggal, terjadilah perang antar
 dua ibukota, Shangdu dan Dadou. Ragibagh, anak Yesun Temur naik tahta, tetapi kemudian Tugh Temur yang tinggal
 di Dadou memberontak melawannya, dengan dukungan El Temur. Jendral Bayan yang saat itu gubernur Henan juga ikut
