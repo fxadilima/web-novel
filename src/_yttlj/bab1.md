@@ -1418,11 +1418,87 @@ kungfu. Kita akan menerjemahkan tulisan ini ke dalam bahasa Han dan Goryeo sekal
 Ki Seung Nyang bertepuk tangan dengan gembira. Sejak tadi uraian Tajkis telah membangkitkan rasa ingin tahunya, dan 
 sekarang masih ditambah dengan belajar kungfu dan pergi ke Guangming Ding bersama mereka semua. 
 
+"Pinsheng ingin ikut ke Guangming Ding bersama kalian, tapi saat ini ada masalah mendesak yang harus Pinsheng selesaikan
+di Hangzhou[^hangzhou]," kata Peng Yingyu sambil merangkapkan kedua telapak tangannya.
 
+[^hangzhou]: Hangzhou di jaman Dinasti Song Selatan bernama Lin'an.
+
+Mereka segera mengerti. Sebagai anggota dari Lima Pengembara Ming Jiao, tugas utama Peng Yingyu memang adalah menyebarkan
+ajaran mereka di luar Guangming Ding, dan hanya akan datang jika ada undangan khusus dari Yang Dingtian. Yin Soso segera
+menarik tangan Ki Seung Nyang sambil berkata, "Qi Shimei, ayo kita buat bakpao berisi kacang dan bakcang manis berisi
+kedelai sebagai bekal untuk Peng Dashi sebelum berangkat."
+
+"Sebelumnya Pinsheng mengucapkan terima kasih kepada Nona Yin dan Nona Ki," kata Peng Yingyu sambil tersenyum senang.
+
+Tajkis tersenyum sambil berkata, "Kita berangkat malam ini juga. Tapi aku juga ingin membawa bekal banyak-banyak untuk
+menemani perjalanan panjang kita ke Guangming Ding!"
+
+Malam itu, segera setelah matahari terbenam, kawanan kecil itu kembali merampok beberapa rumah, dan mengemasi barang-barang
+berharga yang berhasil mereka kumpulkan ke dalam peti-peti yang rapi dan tampak mewah. Mereka membeli dua kereta untuk
+mengangkut semua barang bawaan mereka. Tidak seperti ketika datang, sekarang Tajkis berdandan lengkap dengan busana
+Persia, dan tampak seperti anak dari keluarga bangsawan. Begitu juga keenam orang lainnya, mereka semua tampak
+sebagai para pengawal khusus keluarga Tajkis, dan mengenakan pakaian seperti ahli silat Zhong Yuan pada umumnya.
+Para anggota Panji Lima Elemen Ming Jiao juga bersenjata lengkap seperti layaknya pengawal keluarga bangsawan.
+
+Di pintu gerbang barat, mereka mengatakan bahwa Tajkis adalah putri bangsawan Persia yang sedang berkunjung ke ibukota 
+untuk menyampaikan pesan dari ayahnya. Sekarang dalam situasi darurat akibat serangan dari utara, Tajkis harus segera
+meninggalkan Dadou untuk kembali ke barat.
+
+Semua orang tahu bahwa Ilkhanate Persia adalah wilayah Hulagu Khan, adik kandung dari Kubilai Khan, tetapi sebenarnya
+saat ini Dinasti Yuan maupun Karakorum Mongolia sudah nyaris kehilangan kendali atas Persia. Meskipun begitu, Ilkhanate
+Persia secara resmi tetap mengakui kedaulatan wilayah Kubilai Khan. Seorang pengawal yang melihat sikap anggun Tajkis
+dan parasnya yang cantik berkata kepada Mei Jian dalam bahasa Han, "Hei, Tuan Putrimu tidak mengerti bahasa kita ya?
+Kenapa dia diam saja?"
+
+Mei Jian hanya tersenyum dan tidak menanggapinya. Yang Xiao yang menjawab pertanyaan itu, "Putri memang hanya mengandalkan
+Zaixia sebagai penerjemah. Mungkin Dage punya pertanyaan yang bisa kusampaikan kepada Putri?"
+
+Pengawal tinggi besar itu tertawa terbahak-bahak, lalu berkata, "Katakan kepadanya, lain kali kalau dia tidak menemukan
+jodoh di Persia, dia boleh datang untuk menemuiku!"
+
+Dalam hati Yang Xiao berpikir, "Kau sedang mencari masalah sendiri." Tapi ia berkata, "Nanti Zaixia sampaikan kepada
+Tuan Putri."
+
+Para pengawal itu memberi isyarat supaya mereka segera lewat. Mei Jian yang diam-diam memungut sebutir kerikil mendekatkan
+kudanya ke dekat kereta yang membawa Tajkis, lalu memberikan kerikil itu kepadanya lewat jendela.
+
+Setelah kereta Tajkis lewat, tiba-tiba pengawal yang sebelumnya berkomentar merasa lutut kanannya kesemutan, dan sebelum
+menyadari apa yang terjadi, ia telah berlutut menghadap ke arah kereta yang sedang berlalu bersama Tajkis. Kawan-kawannya
+merasa heran melihat apa yang dilakukannya. Pengawal itu melihat sebutir kerikil jatuh di dekat kakinya. "Borchu!" kata 
+salah seorang dari mereka. "Aku tahu kau terpesona oleh perempuan asing itu. Tapi kau juga tidak perlu berlutut begini, 
+sungguh memalukan! Dia sudah pergi."
+
+Mereka tertawa terbahak-bahak. Tetapi pengawal yang sedang berlutut itu tidak mampu menggerakkan kaki kanannya, dan
+terpaksa tetap berlutut sambil membentak, "Tutup mulutmu! Cepat, bantu aku berdiri!"
 
 ***
 
+Putra Yesun Temur Khan, Ragibagh, sebenarnya hanya seorang bocah laki-laki berusia tujuh atau delapan tahun. Ibunya Babukhan
+berasal dari kalangan Khonggirad yang saat itu sangat kuat. Para permaisuri dari Khan Agung Mongolia rata-rata berasal
+dari kalangan Khonggirad, termasuk Borte, istri Genghis Khan, dan Chabi, istri Kubilai Khan. Ragibagh dinobatkan
+sebagai Putra Mahkota di usianya yang baru empat tahun. Sebulan setelah Yesun Temur Khan meninggal di Shangsdu, Ragibagh 
+dinobatkan sebagai Khan Agung Mongolia dan sekaligus Kaisar Dinasti Yuan oleh kelompok muslim yang dipimpin oleh 
+Dawlat Shah.
 
+Tetapi sayangnya, kematian mendadak Yesun Temur Khan itu mengakibatkan pemberontakan oleh kalangan lain yang sudah lama 
+merasa tidak puas melihat monopoli kekuasaan yang dilakukan oleh para pendukung Yesun Temur Khan, termasuk Dawlat Shah,
+yang sudah melayani Yesun Temur sejak ia menjadi Jin Wang di Mongolia. El Temur yang berdiam di Dadou menggalang para
+pendukung Khayishan untuk memberontak dan melawan penobatan Ragibagh di Shangdu, dengan mengajukan salah satu putra 
+Khayishan sebagai calon Khan Agung dan Kaisar Dinasti Yuan. Di bulan yang sama dengan penobatan Ragibagh, Tugh Temur 
+yang saat itu diasingkan ke Hainan telah sampai di Dadou.
+
+Setelah rombongan Tajkis meninggalkan Dadou, pasukan dari Shangdu yang sebelumnya telah berhasil memasuki Tembok Besar
+kembali menyerang, dan menaklukkan beberapa titik di Dadou. Tetapi tak lama kemudian mereka ditaklukkan oleh pasukan El Temur.
+Sementara itu, karena sebagian besar prajurit di Shangdu terlibat dalam serbuan ke Dadou, maka Burkha Temur dan Orlug Temur
+yang datang dari Liaodong dengan mudah menangkap Dawlat Shah beserta para loyalis Yesun Temur lainnya. Tak lama setelah itu,
+mereka pun dieksekusi.
+
+Ragibagh dikabarkan menghilang setelah peristiwa itu. Para loyalis di wilayah-wilayah lain masih terus melawan, tetapi
+jalan Tugh Temur pada saat itu sudah sangat mulus. 
+
+Sayangnya masalah pewarisan tahta ini masih jauh dari selesai.
+
+***
 
 ### Puisi Kubilai Khan
 
@@ -1458,8 +1534,8 @@ Huí chéng xiān jià yù cāng lóng.
 
 
 <div class="w3-bar">
-    <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="intro"><i class="fa fa-home"></i> Intro</a>
+    <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="/"><i class="fa fa-home"></i> HOME</a>
     <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="/parts/people">Daftar Karakter Utama</a>
     <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="bab40">Bab 40</a>
-    <a class="w3-btn w3-bar-item w3-hover-black w3-right" href="/menjelajah-dunia/bab1">Menjelajah Dunia</a>
+    <a class="w3-btn w3-bar-item w3-hover-black w3-right" href="bab2">Next <i class="fa fa-arrow-right"></i></a>
 </div>
