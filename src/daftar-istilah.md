@@ -102,3 +102,7 @@ Pin Dao (贫道) adalah cara seorang pendeta Tao memanggil diri sendiri. Secara 
 
 Shao Bing (烧饼) adalah _pancake_ ala Tiongkok.
 
+## Eje
+
+Eje (Mongolia: ээж) adalah sebutan bagi seorang ibu dalam bahasa Mongolia.
+

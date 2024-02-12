@@ -48,6 +48,8 @@ Zhao Min sejak kecil sangat dekat dengan Wang Baobao, karena itu apapun juga yan
 diketahui juga oleh Zhao Min, dan begitu juga sebaliknya. Karena Wang Baobao sangat aktif membantu tugas-tugas ayah mereka,
 dan seringkali bertemu dengan Cheng Kun, maka semua rencana Cheng Kun juga diketahui oleh Zhao Min.
 
+Dalam sejarah nyata Chaghan Temur berasal dari suku Naiman, yang kira-kira serumpun dengan suku Keraite (Kereyid) dan
+Merkit.
 
 Artikel belum lengkap, [kembali ke daftar karakter](/parts/people) atau ke [halaman utama](/).
 

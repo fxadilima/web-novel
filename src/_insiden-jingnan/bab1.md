@@ -12,3 +12,5 @@ description: Kisah Insiden Jingnan - Bab 1
 
 Belum ditulis, [kembali ke HOME](/) atau [Menjelajah Dunia](../menjelajah-dunia/bab1).
 
+Reference Drama [The Imperial Age](https://www.youtube.com/playlist?list=PLpWatZNpdyOLkWFQmFJxOTt81VLZ36_GS)
+
