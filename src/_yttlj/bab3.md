@@ -63,6 +63,8 @@ sekarang dikuasai oleh El Temur.
 
 ***
 
+![Peragaan Kungfu Zhang Sanfeng](/assets/images/bab4.png)
+
 Zhang Cuishan tidak bisa tidur malam itu, dan akhirnya memutuskan untuk keluar kamar dan melampiaskan amarahnya dengan
 memukuli Du Dajin. Karena takut ketahuan oleh Song Yuanjiao dan Zhang Songxi, yang pasti akan mencegahnya, ia mengendap-endap
 melewati beberapa aula, dan akhirnya setelah sampai di aula utama, ia melihat sosok tinggi besar sedang berjalan mondar-mandir

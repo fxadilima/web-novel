@@ -5,6 +5,25 @@ author: FX. Adi Lima
 description: Lanjutan Kisah Pedang Langit dan Golok Pembunuh Naga, Daftar Istilah
 ---
 
+## Wulin
+
+Wu Lin (武林), secara literal berarti 'Hutan belantara Persilatan' atau 'Rimba Persilatan'.
+
+Karakter pertama Wu (武) adalah 'Seni Perang' atau 'Seni Bela Diri', atau yang kita kenal sebagai 'Kungfu'
+di Indonesia. Sedangkan karakter kedua Lin (林) adalah kumpulan pepohonan, alias 'Hutan'. Karakter yang sama juga
+dipakai sebagai nama marga dari banyak orang di Indonesia, yaitu Lim atau Liem.
+
+Dalam perkembangan setiap cerita istilah ini bisa dipakai secara bergantian dengan istilah 
+[Jianghu](#jianghu) untuk melambangkan 'Dunia Persilatan'.
+
+## Jianghu
+
+Jiang Hu (江湖) secara literal berarti 'Sungai dan Danau', dimana Jiang (江) adalah sungai, dan Hu (湖) adalah Danau.
+
+Istilah ini biasa dipakai untuk melambangkan 'segala pelosok', alias segala tempat di dunia ini, dalam setiap
+narasi yang menceritakan mengenai petualangan atau hidup mengembara.
+
+
 ## Da Ge
 
 Da Ge (大哥) secara literal berarti 'Kakak Laki-laki yang tertua', tetapi dalam pergaulan sehari-hari bisa juga
