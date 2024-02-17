@@ -106,3 +106,61 @@ Shao Bing (烧饼) adalah _pancake_ ala Tiongkok.
 
 Eje (Mongolia: ээж) adalah sebutan bagi seorang ibu dalam bahasa Mongolia.
 
+## Dizi
+
+Di Zi () secara literal berarti 'Murid', sama dengan Tu'er (), tetapi Dizi lebih umum digunakan.
+
+## Tulong Dao
+
+Tu Long Dao (屠龙刀) secara literal berarti 'Golok Penyembelih Naga', umumnya diterjemahkan menjadi 
+'Golok Pembunuh Naga' dalam berbagai terjemahan bahasa Indonesia, termasuk dalam buku hasil saduran
+Gan KL.
+
+Dalam bahasa Inggris, istilah yang sama diterjemahkan menjadi 'Dragon Sabre', dan belakangan berubah
+menjadi 'Dragon Slaying Sabre'.
+
+## Dali Jingang Zhi
+
+Da Li Jin Gang Zhi (大力金刚指) secara literal bermakna 'Jari Emas/Logam Keras yang berkekuatan besar'.
+
+Ini adalah nama dari kungfu spesial milik Shaolin, dengan sederhana bisa diterjemahkan menjadi 'Jari Vajra'.
+
+```text
+Jingang 金刚 refers to the "Invincible" Adamantine/Diamond Buddha Warrior Attendants, the supernatural protectors of Buddhist temples often featured in statues outside them.
+```
+
+## Long Men Biao Ju
+
+Long Men Biao Ju (龙门镖局) bisa diterjemahkan menjadi 'Jasa Pengiriman/Pengawalan Barang Gerbang Naga'.
+
+Dua karakter di depan Long Men (龙门) adalah nama perusahaan ini, sedangkan karakter Biao (镖) berdiri sendiri adalah
+karakter yang sama seperti yang dipakai untuk 'anak panah' atau 'senjata rahasia' (dart). Sedangkan Ju (局) adalah
+'Biro' atau 'Agen'. Dua karakter itu jika digabungkan akan menjadi 'Biro Pengawal Barang'.
+
+Jika kita menambahkan karakter Zhu (主) untuk mendampingi Biao (镖), maka istilah ini bisa digunakan untuk menyebutkan
+si pemilik atau majikan dari Biro/Agen Pengawal Barang itu, yaitu Biao Zhu (镖主). Atau bisa jadi Biao Tuo (镖头), yang
+berarti 'Kepala Biro'.
+
+Du Dajin (都大锦) dijuluki 'Multi-Armed Bear', entah Duo Bi Xiong (多臂熊) ataukah Duo Wu Zhuang Xiong (多武装熊), atau bisa jadi
+Duo Biao (多镖), kalaupun ingin menyertakan 'Beruang', berarti Duo Biao Xiong (多镖熊).
+
+
+## Biao Zhu
+
+Biao Zhu (镖主) atau Biao Tuo (镖头) adalah pemilik dari sebuah Biro atau Agen Pengawal Barang.
+
+[Baca Longmen Biao Ju](#long-men-biao-ju).
+
+## Huang He
+
+![Yellow River](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ma_Yuan_-_Water_Album_-_The_Yellow_River_Breaches_its_Course.jpg/220px-Ma_Yuan_-_Water_Album_-_The_Yellow_River_Breaches_its_Course.jpg)
+
+Huang He (黄河) atau Sungai Kuning adalah sungai terpanjang keduam setelah Sungai Yangtze yang dijuluki 'Sungai Panjang',
+atau Chang Jiang (长江).
+
+Dalam bahasa Mongolia adalah Šar Mörön (Шар мөрөн), atau Khatan Gol (Хатан гол), yang berarti 'Sungai Ratu'.
+
+The river has long been critical to the development of northern China, and is regarded by scholars as one cradle of civilization. Flooding of the river has also caused much destruction, including multiple floods that have resulted in the deaths of over one million people. Among the deadliest were the 1332–33 flood during the Yuan dynasty, the 1887 flood during the Qing dynasty which killed anywhere from 900,000 to 2 million people, and a Republic of China era 1931 flood (part of a massive number of floods that year) that killed 1–4 million people.[23]
+
+
+
