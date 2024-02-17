@@ -173,23 +173,22 @@ depan. Pemimpin Cabang Shi buru-buru mengangkat tongkatnya untuk menyerang, seme
 menyambar ke bawah dan menyilang ke kiri, menulis dengan kungfu barunya, goresan miring dan panjang dari karakter 
 'Tian' (天). Tongkat Pemimpin Shi terlepas dari tangannya, dan jatuh dari kuda. Pemimpin Zhu ingin mundur, tapi ternyata
 ia kalah cepat. Zhang Cuisan dengan sangat alamiah menyelesaikan tulisan 'Surga' itu dengan goresan pendek dari kiri atas
-ke kanan bawah., jarinya menyapu ke arah pinggang Pemimpin Zhu, mencekalnya, dan melemparkan orang berikut pelana kudanya
+ke kanan bawah, jarinya menyapu ke arah pinggang Pemimpin Zhu, mencekalnya, dan melemparkan orang berikut pelana kudanya
 hingga beberapa meter dari tempat semula, dalam satu gerakan yang mulus. Karena kaki Pemimpin Zhu terpaku dengan kuat pada
 pedal, ditambah lagi gerakan Zhang Cuishan yang sangat kuat, pelana itu sebenarnya tercabut secara paksa dari punggung
 kuda, dan tali pengikatnya rusak. Karena kakinya masih terpaku di pedal, maka Pemimpin Zhu tidak bisa bangkit.
 
-Shocked upon seeing such quick and smooth attacks, Du DaJin quickly got his horse to
-move forward. Zhang CuiShan turned around swiftly, gathered his energy, and shot out
-his left fist. This attack is the vertical stroke in the character ‘Under’, which hit Du DaJin
-flatly on the chest. Du DaJin’s kung fu is much better than Zhu and Shi, and did not fall
-off the horse. With extreme anger, he reined in his horse, tried to get off his horse to
-fight, when suddenly he felt a surge of pain from his throat, and coughed up a gulp of
-blood. He staggered, took a deep breath, only to feel yet another cluster of hot blood,
-surging within. Although he tried to act tough, his body could not hold up, both knees
-weakened, and fell down to the ground.
+Terperanjat melihat serangan yang mulus dan cepat itu, Du Dajin bergegas maju dengan kudanya. Zhang Cuishan berbalik cepat,
+mengumpulkan tenaganya, dan melontarkan kepalan kirinya. Serangan ini adalah goresan vertikal dalam karakter Xia (下),
+yang mengenai dada Du Dajin dengan telak. Kungfu Du Dajin jauh lebih baik ketimbang Pemimpin Zhu atau Shi, dan ia tidak
+jatuh dari kudanya. Dengan amarah meluap, ia menarik tali kekang kudanya, mencoba untuk turun dari kuda dan bertarung,
+ketika ia tiba-tiba merasa sakit seperti tertusuk di tenggorokannya, dan terbatuk, lalu memuntahkan segumpal darah. Ia
+terhuyung, menarik nafas panjang, hanya untuk merasakan gumpalan darah lain sedang naik dari dalam dadanya. Meskipun ia
+berusaha tampil lebih tegar, tapi tubuhnya tidak bisa bertahan, kedua lututnya melemah, dan ia jatuh ke tanah.
 
-Three young sub-leaders and all the rest of the people could only watch in alarm, who
-dared step forward to help?
+Tiga orang Pemimpin Cabang muda dan sisa anggota Longmen Biao Ju lainnya hanya mampu menonton dengan cemas, siapa yang
+berani maju untuk menolong mereka?
+
 
 Zhang CuiShan originally planned to break their arms and legs, to help vent his frustra-
 tion, but upon seeing the three agency leaders injured so deeply, especially Du DaJin, he
