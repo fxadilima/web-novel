@@ -91,8 +91,7 @@ mengamati semuanya itu.
 
 Saat itu apa yang dirasakan oleh Zhang Cuishan dan gurunya seolah melebur menjadi satu. Mereka merasakan kesedihan karena
 apa yang dialami Yu Daiyan, kecemasan, ketegangan dan kekuatiran mengenai munculnya Tulong Dao, dan pada dasarnya
-Zhang Cuishan adalah murid Zhang Sanfeng yang paling berbakat dalam bidang literatur dan kesenian. Jika biasanya Zhang
-Cuishan hanya mampu menyerap sebagian kecil dari apa yang diajarkan oleh gurunya.
+Zhang Cuishan adalah murid Zhang Sanfeng yang paling berbakat dalam bidang literatur dan kesenian.
 
 Di usianya yang semakin tua, Zhang Sanfeng akhirnya tidak lagi turun tangan secara langsung dalam mengajar. Sebenarnya
 Zhang Cuishan adalah muridnya yang terakhir, jika bicara tentang murid yang secara langsung diajar oleh Zhang Sanfeng
