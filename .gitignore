@@ -27,6 +27,7 @@ yarn-error.log*
 
 # local only
 locals/
+_site/
 
 # server.js 
 
