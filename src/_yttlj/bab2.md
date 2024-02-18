@@ -1099,7 +1099,7 @@ sekitar sini. Aku tidak peduli lainnya. Tapi kalau kau tidak bisa memutuskan, su
 Pri bersuara menggelegar itu berkata, "Majikan itu aku sendiri. Dan saat ini aku sedang banyak urusan. Silakan pergi."
 
 Orang yang bersuara perempuan berkata, "Oh... jadi kaulah Si Beruang Multi Senjata, Du Dajin..." Setelah berhenti
-sejenak, ia melanjutkan, "Du [Biaotuo](/daftar-istilah#biaozhu "Biao Tuo (镖头) = Pemilik Jasa Pengiriman Barang"), 
+sejenak, ia melanjutkan, "Du [Zong Biaotou](/daftar-istilah#biaozhu "Zong Biao Tou (总镖头) = Pemilik Jasa Pengiriman Barang"), 
 senang bertemu denganmu. Margaku Yin."
 
 Du Dajin merasa agak mendingan setelah mendengar pujiannya, dan berkata, "Kau ada perlu apa?"
@@ -1244,7 +1244,7 @@ Du Dajin berkata, "Orangnya tampan dan terpelajar. Keahliannya dalam senjata rah
 
 Orang itu bertanya, "Jadi kau berkelahi dengannya?"
 
-"Tidak, tidak," sahut Du Dajin, buru-bru. "Ia hanya..."
+"Tidak, tidak," sahut Du Dajin, buru-buru. "Ia hanya..."
 
 Sebelum kalimatnya selesai, seorang pria bertubuh pendek di antara orang-orang itu memotongnya, dan bertanya, "Mana
 Golok Pembunuh Naga itu?"
@@ -1270,7 +1270,7 @@ Orang itu berkata, "Dia harus ketemu guru kami segera. Kami akan mengambil alih 
 
 Du Dajin berkata, "Tentu saja. Kalau begitu, aku akan menyerahkannya kepada kalian."
 
-Orang itu berkata, "Terima kasih." lalu melemparkan sebatang emas kepada Du Dajin. "Du Biaotuo, sekedar hadiah untukmu."
+Orang itu berkata, "Terima kasih." lalu melemparkan sebatang emas kepada Du Dajin. "Zong Biaotou, sekedar hadiah untukmu."
 Selesai mengatakannya, mereka berenam lalu pergi bersama kereta itu.
 
 Du Dajin melihat ke arah batangan emas itu, dan menemukan lima bekas jari di atasnya. Ia berpikir, "Wow. Para pendekar
@@ -1305,7 +1305,7 @@ Anak muda itu melihat bendera mereka dan berkata, "Kalian dari Longmen Biao Ju?"
 
 Pemimpin Zhu berkata, "Ya!"
 
-Anak muda itu berkata, "Boleh aku tanya siapa nama kalian? Dan yang mana Du Biaotuo?"
+Anak muda itu berkata, "Boleh aku tanya siapa nama kalian? Dan yang mana Du Zong Biaotou?"
 
 Pemimpin Zhu berkata, "Margaku Zhu. Siapa namamu? Kau teman dari pemimpin kami?"
 
@@ -1469,7 +1469,7 @@ ancaman bahaya."
 
 Zhang Cuishan berkata, "Coba lihat apa yang dilakukan orang bermarga Du ini kepada San Ge. Kenapa kau membantunya?"
 
-Song Yuanjiao berkata, "Wudi, kenapa kau bicara seperti itu? Apa kau tidak tahu kenapa Du Biaotou datang kemari?"
+Song Yuanjiao berkata, "Wudi, kenapa kau bicara seperti itu? Apa kau tidak tahu kenapa Du Zong Biaotou datang kemari?"
 
 Zhang Cuishan berkata, "Sudah jelas untuk emas. Kau pikir karena dia peduli akan nasib San Ge?" Ketika Du Dajin 
 mendengar hal ini, mukanya memerah.

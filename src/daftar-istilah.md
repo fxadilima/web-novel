@@ -150,15 +150,21 @@ Jingang 金刚 refers to the "Invincible" Adamantine/Diamond Buddha Warrior Atte
 
 ## Long Men Biao Ju
 
-Long Men Biao Ju (龙门镖局) bisa diterjemahkan menjadi 'Jasa Pengiriman/Pengawalan Barang Gerbang Naga'.
+Long Men Biao Ju (龙门镖局, tradisional 龍門鏢局) bisa diterjemahkan menjadi 'Jasa Pengiriman/Pengawalan Barang Gerbang Naga'.
 
-Dua karakter di depan Long Men (龙门) adalah nama perusahaan ini, sedangkan karakter Biao (镖) berdiri sendiri adalah
-karakter yang sama seperti yang dipakai untuk 'anak panah' atau 'senjata rahasia' (dart). Sedangkan Ju (局) adalah
-'Biro' atau 'Agen'. Dua karakter itu jika digabungkan akan menjadi 'Biro Pengawal Barang'.
+Dua karakter di depan Long Men (龙门) adalah nama perusahaan ini, sedangkan karakter Biao (镖, atau tradisional 鏢) 
+berdiri sendiri adalah karakter yang sama seperti yang dipakai untuk 'anak panah' atau 'senjata rahasia' (dart). 
+Sedangkan Ju (局) adalah 'Biro' atau 'Agen'. Dua karakter itu jika digabungkan akan menjadi 'Biro Pengawal Barang'.
 
 Jika kita menambahkan karakter Zhu (主) untuk mendampingi Biao (镖), maka istilah ini bisa digunakan untuk menyebutkan
 si pemilik atau majikan dari Biro/Agen Pengawal Barang itu, yaitu Biao Zhu (镖主). Atau bisa jadi Biao Tuo (镖头), yang
-berarti 'Kepala Biro'.
+berarti 'Kepala Biro'. Tetapi dari dialog di dalam drama, istilah ini sepertinya Zhu Biao Tou (主镖头), atau
+karakter pertama lain, meskipun terdengar mirip Zhu. Bisa jadi Zu 組 atau Zhi 織, tetapi dari karakter adalah
+Zong 總 atau disederhanakan 总, yang bisa bermakna Chief, Head, atau General, atau Total
+Karakter tradisional Tou 頭 atau disederhanakan 头.
+
+Dengan demikian panggilan ini adalah Zong Biaotou (總鏢頭, atau disederhanakan 总镖头), jika namanya adalah Du Dajin,
+maka panggilannya adalah Du Zong Biaotou (都總鏢頭)
 
 Du Dajin (都大锦) dijuluki 'Multi-Armed Bear', entah Duo Bi Xiong (多臂熊) ataukah Duo Wu Zhuang Xiong (多武装熊), atau bisa jadi
 Duo Biao (多镖), kalaupun ingin menyertakan 'Beruang', berarti Duo Biao Xiong (多镖熊).
