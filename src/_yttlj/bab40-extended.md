@@ -466,7 +466,7 @@ berdua sudi memaafkan kami, sejak tadi banyak sekali orang datang, jadi kami tid
 selayaknya."
 
 Sambil tersipu Zhou Zhiruo dan Zhao Min cepat-cepat mencegahnya memberi hormat. 
-"[Dasao](../daftar-istilah#da-sao "Da Sao (大嫂) = kakak ipar perempuan") tidak perlu begini," kata Zhou Zhiruo dengan luwes. 
+"[Dasao](/daftar-istilah#da-sao "Da Sao (大嫂) = kakak ipar perempuan") tidak perlu begini," kata Zhou Zhiruo dengan luwes. 
 "Kami berdua bukan Jiaozhu Furen." Keduanya segera memperkenalkan diri sebagai teman Zhang Wuji dengan muka merah.
 
 Melihat ini Ma Xiuying mulai memahami. Dengan bijaksana ia tidak menanyakan lebih jauh hubungan antara Zhang Wuji dengan

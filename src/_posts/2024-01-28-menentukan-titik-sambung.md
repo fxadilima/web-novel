@@ -9,7 +9,7 @@ author: FX. Adi Lima
 
 Untuk menentukan titik sambung Kisah Pedang Langit dan Golok Pembunuh Naga (Yitian Tulong Ji, atau To Liong To),
 mula-mula kita harus meneliti usia dari para tokoh sejarah nyata yang dipakai di dalam cerita itu sendiri, lalu
-mencoba menyesuaikan tokoh-tokoh fiktif di dalamnya, dimulai dari 3 karaker utama, yaitu Zhang Wuji, Zhou Zhiruo
+mencoba menyesuaikan tokoh-tokoh fiktif di dalamnya, dimulai dari 3 karakter utama, yaitu Zhang Wuji, Zhou Zhiruo
 dan Zhao Min.
 
 <!--more-->
@@ -46,6 +46,7 @@ Beberapa tokoh sejarah yang sangat menonjol dalam cerita ini adalah:
 25. Chen Li (陈理), putra Chen Youliang (1351-1408).
 26. Chen Shan (陈善), kakak Chen Li, putra mahkota, membelot ke kubu Zhu Yuanzhang.
 27. El Temur (ᠡᠯᠲᠡᠮᠦᠷ), meninggal tahun 1333.
+28. Marco Polo, petualang dari Venesia.
 
 
 ## Chaghan Temur
@@ -70,6 +71,14 @@ perintah pengganti Toqto'a.
 
 Tahun 1355 dan 1356 adalah kunci yang sangat menentukan. Saat itu terjadi banyak peristiwa besar. Pada tahun 1355,
 harapan kita adalah setidaknya usia Zhao Min sudah 17 tahun, ini artinya ia lahir tahun 1338.
+
+
+### Peng Yingyu
+
+Peng Yingyu (彭瑩玉) adalah tokoh Ming Jiao yang tergabung di dalam Wu San Ren (五散人), atau Lima Pengembara. 
+Dalam kehidupan nyata sebenarnya Peng Yingyu adalah _motor penggerak_ pemberontakan Ming Jiao melalui komunitas 
+yang digalangnya, yaitu 
+[Hongjin Qiyi](/sejarah#hongjin-qiyi "Hongjin Qiyi (紅巾起義) = Pemberontakan Ikat Kepala Merah").
 
 Menurut [Wiki Data](https://www.wikidata.org/wiki/Q6802517) Peng Yingyu meninggal pada tahun 1353. Tapi karena 
 Peng Yingyu, sama seperti Zhang Sanfeng, pada dasarnya adalah seorang ahli agama yang aktif di Jianghu, maka soal ini
