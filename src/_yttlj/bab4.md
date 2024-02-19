@@ -9,8 +9,8 @@ description: Ringkasan Bab 4 Golok Pembunuh Naga, bangkitnya Li Siqi dan Chaghan
 <div class="w3-bar">
     <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="/"><i class="fa fa-home"></i> HOME</a>
     <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="/parts/people">Daftar Karakter Utama</a>
-    <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="bab2">Bab 2</a>
-    <a class="w3-btn w3-bar-item w3-hover-black w3-right" href="bab4">Bab 4</a>
+    <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="bab3">Bab 3</a>
+    <a class="w3-btn w3-bar-item w3-hover-black w3-right" href="bab5">Bab 5</a>
 </div>
 
 ## Karakter Yang Kuat Muncul Di Tengah Kemelut 
@@ -23,7 +23,7 @@ description: Ringkasan Bab 4 Golok Pembunuh Naga, bangkitnya Li Siqi dan Chaghan
 <div class="w3-bar">
     <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="/"><i class="fa fa-home"></i> HOME</a>
     <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="/parts/people">Daftar Karakter Utama</a>
-    <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="bab2">Bab 2</a>
-    <a class="w3-btn w3-bar-item w3-hover-black w3-right" href="bab4">Bab 4</a>
+    <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="bab3">Bab 3</a>
+    <a class="w3-btn w3-bar-item w3-hover-black w3-right" href="bab5">Bab 5</a>
 </div>
 

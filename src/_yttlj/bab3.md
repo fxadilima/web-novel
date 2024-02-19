@@ -15,7 +15,7 @@ description: Ringkasan Bab 3 Golok Pembunuh Naga, Tragedi di Longmen Biao Ju
 
 ## Tragedi Di Lin'an 
 
-![Longmen Biao Ju](/assets/images/longmen-express3.png "Zhang Cuishan berjalan di depan Longmen Biao Ju, Hangzhou, setelah terjdi pembantaian di situ.")
+![West Lake](/assets/images/west-lake.jpg "Danau Barat, Hangzhou. Lokasi Longmen Biao Ju")
 
 [^wang-xishi]: [Baca di Wikipedia](https://en.wikipedia.org/wiki/Wang_Xizhi)
 
@@ -787,6 +787,8 @@ yang akan mengenali aku. Bukankah persediaan uang cukup banyak untuk hidup sendi
 di pasar."
 
 ***
+
+![Longmen Biao Ju](/assets/images/longmen-express3.png "Zhang Cuishan berjalan di depan Longmen Biao Ju, Hangzhou, setelah terjdi pembantaian di situ.")
 
 <div class="w3-bar">
     <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="/"><i class="fa fa-home"></i> HOME</a>
