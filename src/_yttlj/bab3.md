@@ -492,17 +492,17 @@ kau pergi." Zhang Cuishan tidak bergerak sama sekali. Bahkan ketika ludah Hui Fe
 bersemangat bicara, ia tidak berusaha untuk mengelak atau melawan. Setelah itu ia berkata dengan dingin, "Lalu apa?"
 
 "Setelah itu," lanjut Hui Feng, "aku berunding dengan ketiga saudaraku tentang apa yang harus kami lakukan selanjutnya.
-Semua orang berpikir bahwa kungfumu terlalu kuat bagi kami, jadi kamu harus mengalah untuk sementara. Tak disangka kau
+Semua orang berpikir bahwa kungfumu terlalu kuat bagi kami, jadi kami harus mengalah untuk sementara. Tak disangka kau
 kembali lagi saat itu. Kami tahu kami tidak sanggup mengalahkanmu, tapi saat itu kami tidak terlalu memikirkannya. Aku
-menanyakan namamu, bukankah kau bilangsendiri bahwa kau adalah Zhang Cuishan dari Wudang? Mula-mula aku tidak percaya,
-tapi kemudian kau menunjukkan senjatamu, jadi aku mau tidak mau jadi percaya."
+menanyakan namamu, bukankah kau bilang sendiri bahwa kau adalah Zhang Cuishan dari Wudang? Mula-mula aku tidak percaya,
+tapi kemudian kau menunjukkan senjatamu, maka aku mau tidak mau jadi percaya."
 
 Zhang Cuishan berkata, "Kuakui bahwa aku memang mengatakan namaku, menunjukkan senjataku, dan menjatuhkan kalian berempat.
 Tapi apakah kalian _sungguh-sungguh_ pasti kalau aku yang membunuh semua orang di Longmen Biao Ju?"
 
 Pada saat itu Yuan Yin melesat secepat kilat dan menangkap tubuh Hui Feng dan mendorongnya menjauh. Ia berkata, "Dia
 sudah menceritakan seluruh peristiwa itu. Jadi Zhang Wuxia yang terkenal ini tidak bisa mencoba menyembunyikan
-kebenaran." Ia mendorong Hui Feng ke samping supaya Zhang Cuishan idak bisa mencoba untuk membunuh saksi itu.
+kebenaran." Ia mendorong Hui Feng ke samping supaya Zhang Cuishan tidak bisa mencoba untuk membunuh saksi itu.
 
 Hui Feng berkata kepada Zhang Cuishan, "Baik, kukatakan sekali lagi. Aku melihat sendiri kau membunuh Hui Guang dan
 Hui Tong, melihat sendiri kau membunuh delapan orang di Biao Ju."
