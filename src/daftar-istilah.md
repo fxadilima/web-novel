@@ -127,7 +127,10 @@ Eje (Mongolia: ээж) adalah sebutan bagi seorang ibu dalam bahasa Mongolia.
 
 ## Dizi
 
-Di Zi () secara literal berarti 'Murid', sama dengan Tu'er (), tetapi Dizi lebih umum digunakan.
+Di Zi (弟子) secara literal berarti 'Murid', sama dengan Tu'er (徒兒 atau 徒儿), tetapi Dizi lebih umum digunakan.
+
+Istilah ini setara dengan Tu Di (徒弟).
+
 
 ## Tulong Dao
 
@@ -188,4 +191,18 @@ Dalam bahasa Mongolia adalah Šar Mörön (Шар мөрөн), atau Khatan Gol (
 The river has long been critical to the development of northern China, and is regarded by scholars as one cradle of civilization. Flooding of the river has also caused much destruction, including multiple floods that have resulted in the deaths of over one million people. Among the deadliest were the 1332–33 flood during the Yuan dynasty, the 1887 flood during the Qing dynasty which killed anywhere from 900,000 to 2 million people, and a Republic of China era 1931 flood (part of a massive number of floods that year) that killed 1–4 million people.[23]
 
 
+## Dao
+
+Dao (島 atau disederhanakan: 岛) adalah 'Pulau'. Meskipun bunyinya sama dengan Dao (道) yang berasal dari 
+Taoisme (Dao Jiao, 道教), tetapi tentu saja makna dan karakter yang dipakai berbeda.
+
+## Dao Jiao
+
+Dao Jiao (道教) atau 'Ajaran Tao', alias Taoisme adalah nama ajaran tradisional masyarakat Tionghoa purba, yang
+sangat mempengaruhi berbagai ajaran agama yang ada di Zhong Yuan dari jaman ke jaman.
+
+
+## Prajurit
+
+Bing (兵).
 

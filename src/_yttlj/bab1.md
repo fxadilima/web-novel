@@ -795,22 +795,22 @@ sebetulnya sama dengan 'Jiejie', atau kakak perempuan. "Karena kami pulang memba
 Ia bertepuk tangan tiga kali sebagai isyarat, dan seorang gadis lain yang sebaya dengan Tajkis muncul dari balik pohon
 sambil menuntun kudanya dan tersenyum lebar.
 
-"Soso!" seru Tajkis kegirangan. "Ternyata mereka berhasil juga membawamu ke sini!"
+"Susu!" seru Tajkis kegirangan. "Ternyata mereka berhasil juga membawamu ke sini!"
 
-Gadis itu memeluk Tajkis dengan hangat, lalu menyapa Yang Xiao dan Fan Yao, "Yin Soso menyapa Da Shige dan Er Shige!"
+Gadis itu memeluk Tajkis dengan hangat, lalu menyapa Yang Xiao dan Fan Yao, "Yin Susu menyapa Da Shige dan Er Shige!"
 Lalu ia menatap Ki Seung Nyang sambil berkata, "Qi Shimei, senang sekali bisa mengenalmu."
 
-Ki Seung Nyang melihat, Yin Soso ini berwajah mungil dan halus, kulitnya seputih salju, matanya lebar seperti perempuan
+Ki Seung Nyang melihat, Yin Susu ini berwajah mungil dan halus, kulitnya seputih salju, matanya lebar seperti perempuan
 selatan pada umumnya, bulu matanya panjang dan lentik. Bola matanya sejernih kristal, dan ketika menatapnya, sepasang mata
 yang indah itu sendiri seolah-olah bisa bercerita. Ketika ia sedang gembira, seperti yang terjadi pada 
 saat itu, sepasang mata itu mengungkapkan kegembiraannya melampaui kata-kata yang kemudian terdengar. Ia berbicara dengan 
 intonasi yang sangat menarik, mirip seseorang yang sedang membaca puisi. Suaranya bernada tidak terlalu tinggi, begitu 
 merdu dan sangat nyaman terdengar di telinga. Entah sengaja ataukah tidak, pilihan kata yang diucapkannya cenderung puitis, 
 dan terasa sangat sesuai dengan penampilannya. Ki Seung Nyang tidak menemukan kalimat yang tepat untuk melukiskan sosok 
-Yin Soso dengan baik.
+Yin Susu dengan baik.
 
 Jika saja Tajkis tidak hadir bersama mereka, di matanya gadis inilah perempuan tercantik yang ada di situ. Berlawanan
-dengan Tajkis yang selalu serius, Yin Soso seperti peri hutan kecil yang riang. Hanya dengan memandangnya, orang yang sedang
+dengan Tajkis yang selalu serius, Yin Susu seperti peri hutan kecil yang riang. Hanya dengan memandangnya, orang yang sedang
 bersedih akan merasa terhibur.
 
 "Seung Nyang menyapa kakak keempat," kata Ki Seung Nyang sambil membungkuk hormat.
@@ -821,7 +821,7 @@ seperguruan. Kau harus bisa membiasakan diri secepatnya."
 
 "Xiaomei tadi benar-benar lupa," kata Ki Seung Nyang, buru-buru. "Xiaomei minta maaf."
 
-Yin Soso tertawa sambil merangkulnya dan berkata kepada Tajkis, "Shijie, jangan terlalu keras. Dia kan masih anak
+Yin Susu tertawa sambil merangkulnya dan berkata kepada Tajkis, "Shijie, jangan terlalu keras. Dia kan masih anak
 kecil."
 
 "Da Xiaojie tiba-tiba menjadi Shimei," kata Yang Xiao. "Kau sudah minta ijin kepada ayahmu?"
@@ -833,7 +833,7 @@ jadi turun pangkat."
 tiba-tiba memanggilnya 'Shimei', bukankah hal ini akan membuatnya menjadi adik seperguruan ayahnya sendiri?" Ia tertawa,
 lalu melanjutkan, "Jangan-jangan ayahnya mengira aku bermaksud melamarnya menjadi istriku."
 
-Yin Soso tersipu. Saat itu ia berusia menjelang enam belas tahun, dan ia bisa melihat bahwa Fan Yao sangat tampan. Tapi ia selalu
+Yin Susu tersipu. Saat itu ia berusia menjelang enam belas tahun, dan ia bisa melihat bahwa Fan Yao sangat tampan. Tapi ia selalu
 menganggapnya sebagai seorang senior, meskipun tidak setingkat dengan ayahnya sendiri, Yin Tianzheng. Ia tahu bahwa baru-baru
 ini ketua mereka mengangkat Yang Xiao dan Fan Yao menjadi duta sayap kiri dan kanan, yang membuat posisi mereka setingkat
 dengan ayahnya, atau bahkan lebih tinggi. Tetapi dalam situasi seperti ini, cara Fan Yao berbicara sangat santai dan 
@@ -844,7 +844,7 @@ tapi ternyata saat itu semua orang tertawa.
 Tiba-tiba Tajkis tertawa dan berkata, "Kalau kau memang serius, aku sendiri yang akan bicara kepada Yin Qianbei untukmu.
 Tapi saat ini kau harus membuktikan dulu kalau kau memang layak untuk itu."
 
-Yin Soso makin tersipu, mukanya memerah ketika berkata, "Shijie, dia hanya bercanda..."
+Yin Susu makin tersipu, mukanya memerah ketika berkata, "Shijie, dia hanya bercanda..."
 
 Tajkis mengedipkan sebelah mata ke arahnya, lalu berpaling kepada Fan Yao dan melanjutkan, "Saat ini para bajak laut di Jiangnan
 sudah waktunya diberi pelajaran. Sudah saatnya kita beraksi. Kalau nyali kalian terlalu kecil untuk melakukannya, biarlah kami
@@ -973,7 +973,7 @@ Fan Yao hampir berteriak. "Kau gila ya?"
 Kali ini Yang Xiao mengangguk. "Tempat berbahaya justru yang paling aman," katanya. "Tapi Qi Shimei harus membeli
 kuda baru, kuda itu akan dikenali."
 
-"Betul," kata Yin Soso dengan suara rendah. "Itu kuda Mongolia, kelihatannya kau curi dari salah satu prajurit."
+"Betul," kata Yin Susu dengan suara rendah. "Itu kuda Mongolia, kelihatannya kau curi dari salah satu prajurit."
 
 "Dan sebaiknya kita mendandaninya," tambah Tajkis. "Soal ini serahkan kepada kami berempat." Ia berkata kepada kedua
 pria itu, "Kalian berdua yang membeli kuda."
@@ -990,7 +990,7 @@ dibawa-bawa anak itu. "Di Zhong Yuan ini, perempuan umumnya tidak memakai busur 
 lebih sesuai untukmu," katanya.
 
 Ketika melihat bayangannya sendiri di cermin, Ki Seung Nyang tercengang. Ia tidak mengenali dirinya sama sekali.
-Bayangan di cermin itu tampak seperti seorang wanita seusia Tajkis atau Yin Soso. Pakaian yang dikenakannya telah
+Bayangan di cermin itu tampak seperti seorang wanita seusia Tajkis atau Yin Susu. Pakaian yang dikenakannya telah
 melenyapkan kesan yang tersisa bahwa ia datang dari Goryeo. Matanya sekarang tampak lebih besar. Bahkan keluarganya
 sekalipun akan membutuhkan sedikit waktu sebelum berhasil mengenalinya.
 
@@ -1048,7 +1048,7 @@ pergi untuk membeli sayuran, daging dan semua bahan lain di dekat sini. Kulihat 
 barang ditaruh di atas gerobak."
 
 Dengan gembira Mei Jian meraup sejumlah uang, lalu mengajak Ah Luo dan Ki Seung Nyang ke arah yang ditunjuk Tajkis.
-"Aku ikut!" kata Yin Soso dengan gembira.
+"Aku ikut!" kata Yin Susu dengan gembira.
 
 Sementara Yang Xiao dan Fan Yao merapikan dan membersihkan tempat itu sekedarnya supaya lebih nyaman bagi mereka,
 Tajkis pergi ke dapur untuk menyalakan api dan memasak nasi. Ketika keempat gadis lain pulang sambil membawa segerobak 
@@ -1081,7 +1081,7 @@ kembali ke sini."
 "Haha!" Tajkis tertawa sambil bertepuk tangan. "Sangat jarang kau mau mengakui kekalahanmu! Xiaomei juga ingin minta
 maaf, kadang-kadang Xiaomei bercanda agak keterlaluan."
 
-Tiba-tiba Yin Soso bertanya kepada Yang Xiao, "Da Shige, kenapa bukan kita yang pindah ke salah satu rumah besar
+Tiba-tiba Yin Susu bertanya kepada Yang Xiao, "Da Shige, kenapa bukan kita yang pindah ke salah satu rumah besar
 itu? Maksudku, rasanya kita pasti agak lama di sini, kan? Aku sudah memeriksa kedai ini, sepertinya mereka hanya
 memakai tempat ini untuk berjualan makanan, tidak ada yang tinggal di sini, jadi tidak ada kamar-kamar."
 
@@ -1156,16 +1156,16 @@ Yang Xiao dan Fan Yao mencatat beberapa rumah lain yang juga dalam keadaan koson
 rumah itu. Mereka kembali sambil membawa dua buah gerobak kosong. Ketujuh anak muda itu lalu menyusun rencana untuk 
 besok hingga hampir tengah malam.
 
-Keesokan harinya, pagi-pagi sekali, Yang Xiao, Fan Yao dan Yin Soso yang menaiki sebuah kereta mewah yang mereka sewa
+Keesokan harinya, pagi-pagi sekali, Yang Xiao, Fan Yao dan Yin Susu yang menaiki sebuah kereta mewah yang mereka sewa
 keluar dari pintu gerbang kota dengan mengangkut dua gerobak penuh berisi dua karung beras yang sebagian isinya mereka
 gantikan dengan potongan emas dan perak yang mereka kumpulkan dari beberapa rumah, kotak-kotak kayu berisi pakaian
 dan peralatan rumah tangga lainnya, dan sejumlah perabot rumah. Kepada para pengawal mereka mengatakan bahwa 
-Yin Soso, yang menyamar sebagai anak dari keluarga Sun, harus segera mengungsi ke selatan sambil membawa perbekalan
+Yin Susu, yang menyamar sebagai anak dari keluarga Sun, harus segera mengungsi ke selatan sambil membawa perbekalan
 seperlunya. Empat orang gadis yang lain membuka kedai yang mereka tempati malam sebelumnya untuk mulai berjualan
 makanan.
 
 Sampai di lingkar luar kota, mereka segera menuju ke pos Ming Jiao terdekat, dan menitipkan barang-barang itu untuk
-dibawa ke gudang milik Yin Tianzheng di Jiangnan. Yin Soso memberikan tanda pengenalnya kepada orang yang bertugas 
+dibawa ke gudang milik Yin Tianzheng di Jiangnan. Yin Susu memberikan tanda pengenalnya kepada orang yang bertugas 
 mengawal barang-barang berharga itu ke Jiangnan, dan secara detil menceritakan apa saja yang harus dikatakannya kepada
 Yin Yewang. Barang-barang itu dikirim lewat laut, dengan kapal milik Yin Tianzheng.
 
@@ -1181,7 +1181,7 @@ mereka akhirnya tidak terlalu mempedulikan pengumuman itu.
 
 "Kalau berita ini bisa dipercaya, maka waktu kita tidak terlalu banyak lagi," bisik Tajkis kepada Fan Yao. Saat ini
 kedai yang mereka kelola sedang ramai dikunjungi orang. Para pengikut Ming Jiao yang baru datang membantu kegiatan
-kedai, jadi Tajkis bersama Yang Xiao, Fan Yao dan Yin Soso punya kesempatan untuk melihat-lihat apa yang sedang terjadi
+kedai, jadi Tajkis bersama Yang Xiao, Fan Yao dan Yin Susu punya kesempatan untuk melihat-lihat apa yang sedang terjadi
 di kota.
 
 "Semuanya masih belum tentu," kata Fan Yao. "Coba pikir, jika terlalu banyak orang pergi, atau takut untuk keluar
@@ -1199,7 +1199,7 @@ saja dia berhasil mengirim kabar, kita pasti akan tahu bagaimana keadaan yang se
 di tengah kerumunan. Jadi pihak Dadou pasti tidak akan mundur, mereka tetap akan mengangkat salah satu dari anak Khayishan.
 Dan jelas bukan Kusala, karena dia masih di wilayah barat."
 
-"Kalau Tugh Temur yang naik tahta, bukankah akan terjadi reformasi besar-besaran?" tanya Yin Soso. "Kudengar dari
+"Kalau Tugh Temur yang naik tahta, bukankah akan terjadi reformasi besar-besaran?" tanya Yin Susu. "Kudengar dari
 ayah, orang ini dididik dengan cara yang sama seperti orang-orang Han. Dia mempelajari semua ajaran Kongzi, dan tradisi
 kita."
 
@@ -1229,19 +1229,19 @@ tenang, "Amituofo! Apa nikmatnya hidup ini, dan apa susahnya kematian?"
 Biksu itu, yang ternyata memang Peng Yingyu, segara menundukkan kepalanya sebagai isyarat supaya mereka tidak terlalu
 banyak bicara di situ.
 
-"Dashi, kuharap sudi menyempatkan waktu untuk memberkati kedai kami," kata Yin Soso.
+"Dashi, kuharap sudi menyempatkan waktu untuk memberkati kedai kami," kata Yin Susu.
 
 Mereka bergegas kembali ke kedai bersama Peng Yingyu, lalu mengajaknya ke dapur untuk berbicara dengan lebih tenang.
 Di belakang dapur itu ada sebuah teras yang cukup luas, lengkap dengan meja bundar dan beberapa kursi yang bisa dipakai
 untuk berbicara dengan santai, sementara teman-teman mereka lainnya sedang sibuk melayani para pengunjung kedai.
 
-Yin Soso mengambil sepoci teh hijau dan beberapa potong bakpao hangat untuk Peng Yingyu.
+Yin Susu mengambil sepoci teh hijau dan beberapa potong bakpao hangat untuk Peng Yingyu.
 
 "Amituofo, Nona Yin sungguh penuh pengertian," kata Peng Yingyu. "Pinsheng memang mengharapkan makanan dan minuman ini."
-Ia tersenyum, lalu menyeruput tehnya dan mengambil bakpao tanpa daging dari piring yang disajikan Yin Soso.
+Ia tersenyum, lalu menyeruput tehnya dan mengambil bakpao tanpa daging dari piring yang disajikan Yin Susu.
 
 "Aku sudah meminta Xiao Shimei memasak mie tanpa daging untuk Dashi, untuk sementara hanya bakpao ini yang tersedia,"
-kata Yin Soso dengan riang. "Harap Dashi memaafkan pelayanan kami yang buruk."
+kata Yin Susu dengan riang. "Harap Dashi memaafkan pelayanan kami yang buruk."
 
 Peng Yingyu dengan cepat menghabiskan bakpaonya, dan berkata sambil tertawa, "Pinsheng agak terkejut melihat kalian
 ada di ibukota ini, apalagi setelah tahu kalian membuka sebuah kedai."
@@ -1310,7 +1310,7 @@ Fan Yao tertawa. "Kau sungguh-sungguh mata duitan."
 "Itu memang betul," kata Yang Xiao. "Tapi dia juga sudah dieksekusi oleh Kubilai Khan, kemungkinan besar harta yang 
 dikumpulkannya juga sudah disita kembali oleh negara. Kalau tidak salah, seluruh keluarganya juga dieksekusi."
 
-"Lalu kenapa Yue Sanguo menitipkan dokumen ini, dan juga menyebutkan namanya?" tanya Yin Soso heran.
+"Lalu kenapa Yue Sanguo menitipkan dokumen ini, dan juga menyebutkan namanya?" tanya Yin Susu heran.
 
 "Da Shige agak keliru dalam hal ini," sela Tajkis. "Ahmad Fanakati bukan dieksekusi oleh Kubilai Khan, tapi tewas dibunuh
 oleh Wang Zhu dan Gao Heshang, kira-kira setahun setelah kematian Permaisuri Chabi. Saat itu ketegangan antara Ahmad Fanakati
@@ -1322,7 +1322,7 @@ itu bahkan Kubilai memerintahkan supaya sisa-sisa tulangnya dihancurkan oleh ban
 dieksekusi atas perintah Kubilai, semuanya ada lebih dari dua puluh orang. Ketegangan dengan kubu pendukung Zhenjin terjadi
 ketika Ahmad melangkah terlalu jauh, dan mencampuri urusan politik yang bukan urusannya sebagai Menteri Keuangan."
 
-Semua orang merinding mendengar uraian Tajkis. Tetapi akhirnya Yin Soso kembali berkata, "Aku masih belum melihat
+Semua orang merinding mendengar uraian Tajkis. Tetapi akhirnya Yin Susu kembali berkata, "Aku masih belum melihat
 kaitan dokumen ini dengan kita."
 
 "Pinsheng melihat kaitannya, meskipun agak samar," kata Peng Yingyu. "Ahmad Fanakati itu adalah seorang Persia yang tinggal
@@ -1424,7 +1424,7 @@ di Hangzhou[^hangzhou]," kata Peng Yingyu sambil merangkapkan kedua telapak tang
 [^hangzhou]: Hangzhou di jaman Dinasti Song Selatan bernama Lin'an.
 
 Mereka segera mengerti. Sebagai anggota dari Lima Pengembara Ming Jiao, tugas utama Peng Yingyu memang adalah menyebarkan
-ajaran mereka di luar Guangming Ding, dan hanya akan datang jika ada undangan khusus dari Yang Dingtian. Yin Soso segera
+ajaran mereka di luar Guangming Ding, dan hanya akan datang jika ada undangan khusus dari Yang Dingtian. Yin Susu segera
 menarik tangan Ki Seung Nyang sambil berkata, "Qi Shimei, ayo kita buat bakpao berisi kacang dan bakcang manis berisi
 kedelai sebagai bekal untuk Peng Dashi sebelum berangkat."
 

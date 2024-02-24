@@ -10,7 +10,7 @@ description: Ringkasan Bab 3 Golok Pembunuh Naga, Tragedi di Longmen Biao Ju
     <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="/"><i class="fa fa-home"></i> HOME</a>
     <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="/parts/people">Daftar Karakter Utama</a>
     <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="bab2">Bab 2</a>
-    <a class="w3-btn w3-bar-item w3-hover-black w3-right" href="bab4">Bab 4</a>
+    <a class="w3-btn w3-bar-item w3-hover-black w3-right" href="bab4">Next <i class="fa fa-arrow-right"></i></a>
 </div>
 
 ## Tragedi Di Lin'an 
@@ -751,49 +751,13 @@ Setelah makan siang, Zhang Cuishan mulai berjalan ke arah Liuhe Ta di tepi Sunga
 
 ***
 
-Ketika Zhang Cuishan melihat sekelompok militer yang sedang berpatroli lewat di dekat Longmen Biao Ju, ia tidak tahu bahwa
-mereka sebenarnya juga sedang mengawal seorang anak laki-laki berusia menjelang dua belas tahun. Anak itu baru tiba dari
-Goryeo, dan akan dibawa jauh ke selatan, ke propinsi Guangxi, yang menjadi wilayah suku Zhuang. Wilayah ini berbatasan
-dengan Jiaozhi[^jiaozhi], dan di sebelah timur dengan propinsi Guangdong.
 
-[^jiaozhi]: Jiao Zhi (交趾 atau 交阯) adalah wilayah Selatan yang di jaman modern kita kenal sebagai Vietnam.
-
-Anak itu telah mencoba untuk melarikan diri setelah turun dari kapal yang membawanya dari Goryeo, tetapi kemudian para
-pengawalnya berhasil menemukan jejaknya, dan sejak itu mereka mengawalnya dengan lebih ketat. Mereka tidak terlalu 
-memahami, mengapa Kaisar dan Permaisuri Budashiri begitu memperhatikan anak ini, tetapi sekaligus ingin membuangnya
-ke daerah suku Zhuang. Bukankah wilayah itu pada dasarnya tak terurus? Dan anak ini hanya ditemani oleh beberapa pelayan 
-dan kasim, orang tuanya sudah meninggal. Bukankah adiknya masih ada di Dadou? Mengapa anak ini dipisahkan dari adiknya?
-
-Sebenarnya para pengawal tidak terlalu mempedulikan semua itu, tapi anak ini sangat merepotkan. Ia selalu mencoba untuk
-melarikan diri, dan beberapa kali menipu mereka. Selain itu, mereka juga harus memanggilnya 'Pangeran', dan harus
-bersikap sopan kepadanya. Mengawal anak bengal ini tentu saja sangat tidak mudah dan merepotkan, tetapi jika terjadi
-sesuatu yang buruk pada anak ini, maka Kaisar dan Permaisuri Budashiri akan menghukum mereka semua dengan berat, bukan
-tidak mungkin mereka akan dijatuhi hukuman mati!
-
-Lagipula, sebelumnya anak ini tinggal di Goryeo, bukankah itu sudah bagus? Mengapa sekarang kekaisaran ingin memindahkannya
-ke Guangxi? Sungguh merepotkan. Mereka harus bergerak di malam hari supaya tidak menarik perhatian. Dan itu menambah 
-kerepotan, karena di malam hari anak ini menjadi lebih mudah untuk meloloskan diri jika mereka berhenti untuk beristirahat
-di suatu tempat.
-
-Di dalam keretanya, Toghon Temur melongok keluar melalui jendela, dan mencoba menemukan keindahan daerah selatan seperti
-yang pernah diceritakan ayahnya. Sayangnya ia tidak menemukan semua itu sekarang, kota ini tampak sepi dan mencekam. Entah
-kemana perginya para penduduk. Kata ayahnya, situasi di tepi Danau Barat seharusnya meriah di malam hari, tetapi saat ini
-tak seorang pun lewat, kecuali mereka.
-
-Ia agak kecewa, tetapi kemudian berpikir, "Mungkin kota selanjutnya lebih menyenangkan. Kalau aku menemukan tempat yang
-nyaman dan cukup ramai, akan lebih mudah untuk menghilang di tengah keramaian. Mereka hanya akan membunuhku, untuk apa
-menuruti nasihat mereka untuk pergi ke Guangxi? Setelah lolos, aku akan hidup sebagai suku Han biasa, tak ada lagi orang
-yang akan mengenali aku. Bukankah persediaan uang cukup banyak untuk hidup sendirian? Kalaupun kurang, aku bisa saja mencuri
-di pasar."
-
-***
-
-![Longmen Biao Ju](/assets/images/longmen-express3.png "Zhang Cuishan berjalan di depan Longmen Biao Ju, Hangzhou, setelah terjdi pembantaian di situ.")
+![Longmen Biao Ju](/assets/images/longmen-express3.png "Zhang Cuishan berjalan di depan Longmen Biao Ju, Hangzhou, setelah terjadi pembantaian di situ.")
 
 <div class="w3-bar">
     <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="/"><i class="fa fa-home"></i> HOME</a>
     <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="/parts/people">Daftar Karakter Utama</a>
     <a class="w3-btn w3-bar-item w3-hover-black w3-left" href="bab2">Bab 2</a>
-    <a class="w3-btn w3-bar-item w3-hover-black w3-right" href="bab4">Bab 4</a>
+    <a class="w3-btn w3-bar-item w3-hover-black w3-right" href="bab4">Next <i class="fa fa-arrow-right"></i></a>
 </div>
 

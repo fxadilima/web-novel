@@ -141,7 +141,7 @@ berani menerima tiga orang murid. Bagaimana kau akan mengajari mereka?"
 "Dizi hanya mengandalkan apa yang diajarkan Shifu," jawab Tajkis merendah. "Qi Shimei sangat berbakat dalam hal sastra
 dan kesenian. Dia yang akan membantu Dizi menerjemahkan dokumen ini."
 
-Yang Dingtian menatap kelima gadis muda itu secara bergantian, lalu berkata kepada Yin Soso, "Soso, kau adalah putri 
+Yang Dingtian menatap kelima gadis muda itu secara bergantian, lalu berkata kepada Yin Susu, "Susu, kau adalah putri 
 Yin Xiong. Kurang enak kalau aku mengajarimu kungfu, karena kungfu Yin Xiong sendiri juga tidak bisa diremehkan. Tapi
 keempat orang yang lain, mulai sekarang secara resmi aku akan mengajarkan kalian kungfu secara langsung. Mengenai 
 pekerjaan menerjemahkan dokumen penting itu, Tajkis dan Seung Nyang memang bisa bekerja sama, tetapi kurasa dalam
@@ -150,7 +150,7 @@ tidak terlalu memberatkan Tajkis dan Seung Nyang. Pekerjaan itu bukan main-main,
 tenaga. Tapi karena kalian masih sangat muda dan bersemangat, aku yakin kalian masih akan punya waktu untuk berlatih
 kungfu."
 
-Kecuali Tajkis dan Yin Soso, tiga orang gadis itu maju selangkah ke depan dan berlutut di hadapan Yang Dingtian,
+Kecuali Tajkis dan Yin Susu, tiga orang gadis itu maju selangkah ke depan dan berlutut di hadapan Yang Dingtian,
 lalu bersujud dan untuk pertama kalinya memberi hormat, "Shifu!"
 
 "Sekarang aku ingin melihat dasar-dasar kungfu yang pernah kalian pelajari," kata Yang Dingtian. "Coba peragakan,
@@ -193,7 +193,7 @@ Setelah mengembalikan pedang kepada Ki Seung Nyang, Yang Dingtian melanjutkan pe
 yang baru bergabung, kalian pasti sudah mendengar, nama perguruan kita adalah 'Ming Jiao'. Sejauh ini, apa yang sudah kalian
 ketahui mengenai Ming Jiao?"
 
-Karena sebelumnya Yang Xiao, Fan Yao, Tajkis dan juga Yin Soso belum menceritakan secara lengkap mengenai Ming Jiao, maka 
+Karena sebelumnya Yang Xiao, Fan Yao, Tajkis dan juga Yin Susu belum menceritakan secara lengkap mengenai Ming Jiao, maka 
 ketiga gadis itu hanya bisa saling pandang tanpa mengatakan apa-apa.
 
 Melihat ini, Yang Dingtian kemudian berkata, "Ajaran asli Ming Jiao berasal dari Persia[^manikeisme]. Karena ajaran ini 
@@ -279,7 +279,7 @@ dikatakan oleh Rashid sebagai 'fitnah' itu sepertinya benar, maka kita bisa meny
 Kalau Qi Shimei hanya ingin tahu bagaimana sebenarnya, cara ini boleh dipakai untuk sementara. Tapi untuk menulis
 terjemahan, kita memang harus menulis apa adanya, seperti apa yang tertera di dalam tulisan aslinya."
 
-Yin Soso berkata, "Berarti cukup banyak hal yang digambarkan oleh Rashid dengan cara halus, sebenarnya memang dilakukan
+Yin Susu berkata, "Berarti cukup banyak hal yang digambarkan oleh Rashid dengan cara halus, sebenarnya memang dilakukan
 oleh Ahmad dengan tujuan merusak. Banyak hal yang setelah membaca tulisan Rashid kelihatannya hanya sekedar gosip, tapi 
 ternyata memang benar-benar terjadi."
 
@@ -288,7 +288,7 @@ bahwa aku ingin melamarmu menjadi istriku'. Tapi kemudian ada orang mengutip seb
 aku pernah mengatakan bahwa aku ingin melamarmu menjadi istriku, menurutmu potongan kalimat itu _pernah_ kuucapkan 
 atau tidak?"
 
-Muka Yin Soso memerah, dan ia hanya tertawa tanpa menjawab. Mei Jian yang menjawab mewakilinya, "Sudah jelas dalam hal itu
+Muka Yin Susu memerah, dan ia hanya tertawa tanpa menjawab. Mei Jian yang menjawab mewakilinya, "Sudah jelas dalam hal itu
 Fan Youshi _memang_ pernah mengucapkan potongan kalimat 'aku ingin melamarmu menjadi istriku', tapi kalimat selengkapnya
 punya makna yang berbeda!"
 
@@ -306,8 +306,8 @@ ini. Tolong katakan kepada Shifu, hari ini aku akan melatih ilmu keluargaku send
 Kelima gadis itu bergegas menyiapkan makna malam untuk mereka bertujuh, lalu Tajkis kembali ke pekerjaannya untuk
 memeriksa hasil terjemahan mereka hari ini, sementara tiga orang gadis lainnya menemui Yang Dingtian di ruang latihan.
 
-Yang Xiao, Fan Yao dan Yin Soso membantu Tajkis merapikan berkas-berkas yang tampak berantakan sambil membaca ulang
-tulisan mereka masing-masing. Ketika membaca tulisan Ahmad Fanakati, Yin Soso kembali bertanya, "Kelihatannya hampir
+Yang Xiao, Fan Yao dan Yin Susu membantu Tajkis merapikan berkas-berkas yang tampak berantakan sambil membaca ulang
+tulisan mereka masing-masing. Ketika membaca tulisan Ahmad Fanakati, Yin Susu kembali bertanya, "Kelihatannya hampir
 semua pejabat di era Ahmad Fanakati yang terlibat dalam korupsi yang dilakukannya berasal dari wilayah barat. Mengapa
 pada saat itu tidak ada yang mencurigainya? Bukankah Permaisuri Chabi sangat dekat dengan orang ini?"
 
@@ -319,7 +319,7 @@ Fan Yao tertawa. "Ini hampir sama seperti situasi kita saat ini," katanya. "Siap
 akan dilakukannya dengan harta karun yang kita kumpulkan itu?"
 
 Tajkis berkata, "Shige, kalau kau hanya ingin memberikan sebagian dari harta karun itu sebagai mas kawin untuk melamar
-Soso, aku tetap akan merelakannya." Ia tertawa ringan sambil meneruskan pekerjaannya.
+Susu, aku tetap akan merelakannya." Ia tertawa ringan sambil meneruskan pekerjaannya.
 
 Yang Xiao berkata, "Sebenarnya ini masalah serius. Kau sampai sekarang belum menjelaskannya."
 
@@ -341,12 +341,12 @@ menjadi sasaranmu?"
 
 "Kalian tentu tidak usah terburu-buru," kata Tajkis lagi. "Harta karun itu toh tidak akan lari kemana-mana."
 
-"Bagaimana kalau ayahku tahu?" tanya Yin Soso.
+"Bagaimana kalau ayahku tahu?" tanya Yin Susu.
 
 Tajkis berkata, "Nah, itu rencanaku yang kedua. Sementara Da Shige dan Er Shige menangani para petani, kurasa kau juga
 sudah waktunya kembali ke selatan. Bukankah ini sudah lebih dari empat bulan kau meninggalkan rumah?"
 
-Yin Soso tampak enggan berpisah dengan mereka semua. Ia berkata, "Di situ aku tidak punya pekerjaan penting yang bisa
+Yin Susu tampak enggan berpisah dengan mereka semua. Ia berkata, "Di situ aku tidak punya pekerjaan penting yang bisa
 kulakukan. Sungguh sangat membosankan."
 
 "Sekarang kau punya," kata Tajkis. "Aku sedang memikirkan cara untuk mengolah air laut menjadi garam. Ini tentu saja 
@@ -354,7 +354,7 @@ sangat cocok untuk wilayah kalian, di pantai timur. Kita membutuhkan lahan sanga
 di pantai-pantai timur. Jangan lupa, garam adalah barang yang sangat mahal sekarang ini. Padahal semua orang membutuhkan
 garam!"
 
-Mendengar hal ini semangat Yin Soso mulai bangkit. "Itu ide yang sangat bagus!" serunya. "Tapi bagaimana cara mengolahnya?
+Mendengar hal ini semangat Yin Susu mulai bangkit. "Itu ide yang sangat bagus!" serunya. "Tapi bagaimana cara mengolahnya?
 Kau sudah pernah mempelajarinya?"
 
 "Aku dibesarkan di dekat laut," jawab Tajkis. "Di Persia aku pernah melihat bagaimana hal itu dilakukan. Dinasti Yuan
@@ -372,7 +372,7 @@ Yang Xiao. "Mungkin ada baiknya kalau kita melibatkan Yin Yewang."
 
 "Wah, jangan!" kata Tajkis, hampir berteriak. "Bocah tengik itu tidak bisa dipercaya."
 
-Yin Soso tertawa. "Shijie, jangan kuatir. Dia tidak akan berani ikut campur, aku hanya mengatakan bahwa semua barang-barang
+Yin Susu tertawa. "Shijie, jangan kuatir. Dia tidak akan berani ikut campur, aku hanya mengatakan bahwa semua barang-barang
 itu adalah milik Ming Jiao, dan dia sama sekali tidak akan menyentuhnya."
 
 "Pendeknya, aku hanya ingin supaya kau mencari informasi sendiri untuk sementara," kata Tajkis lagi. "Dan kau juga tidak 
@@ -399,7 +399,7 @@ Berikutnya mungkin kuda."
 "Aku memang tidak turun gunung," jawab Fan Yao. "Tapi para anggota Panji Lima Elemen kan pasti ada yang sekali-kali
 ke kota. Tadi aku sempat mendengar beberapa orang sedang menceritakan hal ini."
 
-"Ini berarti ayah dan kakakku juga sedang sibuk mencari-cari benda itu?" tanya Yin Soso.
+"Ini berarti ayah dan kakakku juga sedang sibuk mencari-cari benda itu?" tanya Yin Susu.
 
 "Soal itu aku tidak tahu," kata Fan Yao. "Tapi yang pasti belakangan ini banyak orang jadi ribut gara-gara golok itu.
 Hari ini orang berhasil mendapatkannya, besok pasti datang orang-orang yang menantangnya, lalu golok itu bisa jadi
@@ -412,7 +412,7 @@ beres dengan sendirinya."
 penasaran ingin menyelidikinya. Kalau jatuh ke tanganmu, kurasa kau juga akan menyimpannya untuk menyelidiki misteri
 apa yang ada di baliknya."
 
-Yin Soso jadi lebih bersemangat, rasanya ia ingin tumbuh sayap supaya bisa segera turun gunung untuk ikut menyelidiki
+Yin Susu jadi lebih bersemangat, rasanya ia ingin tumbuh sayap supaya bisa segera turun gunung untuk ikut menyelidiki
 semua itu. "Golok itu sendiri asalnya dari mana?" tanyanya.
 
 Fan Yao tertawa. "Shimei, kalau ada yang tahu, maka misteri itu sudah tidak ada lagi. Bukankah dengan begitu jadi
@@ -420,7 +420,7 @@ tidak lagi menyenangkan?"
 
 "Sudah _pasti_ ada yang tahu," sela Tajkis. "Hanya saja, orang itu sengaja tutup mulut."
 
-"Dan kabar tentang golok itu sendiri, siapa yang menyebarkannya?" tanya Yin Soso lagi.
+"Dan kabar tentang golok itu sendiri, siapa yang menyebarkannya?" tanya Yin Susu lagi.
 
 Fan Yao mengangkat kedua tangannya sambil berkata, "Hanya Surga yang tahu siapa yang menyebarkan berita seperti itu."
 
@@ -450,7 +450,7 @@ hal ini, sedangkan pekerjaan kami sangat membutuhkan bantuannya."
 "Kalau semua hal kecil harus bertanya langsung kepada Jiaozhu, lalu kenapa harus ada kita semua?" kata Tajkis, balas
 bertanya.
 
-"Soal ini kurasa lebih mudah dilakukan dari wilayah Jiangnan," kata Yin Soso. "Kadang-kadang armada laut kami mengirim
+"Soal ini kurasa lebih mudah dilakukan dari wilayah Jiangnan," kata Yin Susu. "Kadang-kadang armada laut kami mengirim
 barang ke Kaesong atau Pyongyang, jadi aku bisa menyuruh salah seorang anak buah kapal untuk mencari kabar tentang
 keluarga Qi Shimei. Kalau nama ayahnya cukup dikenal, bukan tidak mungkin kita akan langsung mendengar kabarnya di
 sekitar pantai timur, dan tidak perlu menunggu sampai ada yang pergi ke Goryeo."
@@ -461,7 +461,7 @@ terganggu jika teringat masalah Qi Shimei. Seharusnya kita lebih memperhatikan m
 "Kalau kau mau, setelah tugas ini beres, kita bisa menemaninya pergi ke Goryeo untuk membereskan masalah itu," kata
 Fan Yao. "Bajingan cilik itu juga harus diberi pelajaran."
 
-"Yang kau sebut 'bajingan cilik' itu akhirnya tentu akan menjadi Raja Goryeo," kata Yin Soso. "Lalu bagaimana kita
+"Yang kau sebut 'bajingan cilik' itu akhirnya tentu akan menjadi Raja Goryeo," kata Yin Susu. "Lalu bagaimana kita
 akan membereskan masalah Qi Shimei? Begitu kembali ke Goryeo, bukankah dia akan langsung dalam bahaya besar?"
 
 "Kalau begitu kita habisi saja pangeran itu sebelum dia pulang ke Goryeo dan menjadi raja," kata Fan Yao.
@@ -474,15 +474,15 @@ berbahagia di sini. Tapi bagaimanapun juga dia akan selalu teringat akan nasib k
 "Dia masih sangat muda," kata Yang Xiao. "Untuk sementara dia tetap akan bahagia di sini. Setelah dia lebih dewasa,
 biarkan dia sendiri yang menentukan apa yang harus dilakukannya."
 
-Keesokan harinya Yin Soso berpamitan untuk pulang ke rumah ayahnya di Jiangnan. Yang Dingtian mengutus lima orang 
+Keesokan harinya Yin Susu berpamitan untuk pulang ke rumah ayahnya di Jiangnan. Yang Dingtian mengutus lima orang 
 anggota pria dari Panji Lima Elemen untuk mengawalnya dalam perjalanan. Ketiga adik seperguruannya memeluknya 
-erat-erat, mereka enggan untuk berpisah. "Hei, kita akan segera bertemu lagi," kata Yin Soso. "Qi Shimei, lain kali
+erat-erat, mereka enggan untuk berpisah. "Hei, kita akan segera bertemu lagi," kata Yin Susu. "Qi Shimei, lain kali
 aku akan mendandanimu menjadi pendekar pedang paling tampan di Zhong Yuan, bahkan Mei Jian pun akan jatuh cinta kepadamu."
 
 Ki Seung Nyang tertawa dan berkata, "Shijie, mungkin lain kali aku yang akan mengunjungimu di Jiangnan."
 
-Sebulan kemudian mereka menerima kabar dari Yin Soso mengenai tewasnya ayah Ki Seung Nyang karena dieksekusi oleh 
-Raja Chungsuk. Surat dari Yin Soso itu sangat panjang. Tajkis berusaha menyampaikan kabar itu dengan kalimat yang 
+Sebulan kemudian mereka menerima kabar dari Yin Susu mengenai tewasnya ayah Ki Seung Nyang karena dieksekusi oleh 
+Raja Chungsuk. Surat dari Yin Susu itu sangat panjang. Tajkis berusaha menyampaikan kabar itu dengan kalimat yang 
 tidak terlalu menyakitkan bagi adik seperguruannya, tetapi betapapun juga ia berusaha, Ki Seung Nyang tetap sangat 
 terpukul. Ia tahu bahwa ayahnya telah dieksekusi gara-gara dirinya. Saat ini seluruh keluarganya pastilah sangat 
 menderita, dan ia tak punya cara untuk membuat keadaan mereka lebih baik.
@@ -723,7 +723,7 @@ dari dalam sakunya dan berkata, "Cepat telan ini."
 
 Orang tua itu berkata, "Aku tidak mau minum racunmu."
 
-[^hati-surga]: Pil Hati Surga, atau Tian Xin Jie Du Wan (天心解毒丸), atau Tian Xin Jie Yao (天心解药), adalah obat penawar racun hasil racikan Zhang Sanfeng, yang bisa digunakan secara umum. Meskipun untuk menawarkan racun khusus diperlukan obat yang lebih spesifik, tetapi obat ini cukup efektif untuk menghambat kerusakan yang ditimbulkan racun pada umumnya, sampai orang yang terkena racun mendapatkan pertolongan yang lebih baik.
+[^hati-surga]: Pil Hati Surga, atau Tian Xin Jie Du Wan (天心解毒丸), atau Tian Xin Jie Yao (天心解药), atau Tian Xin Jie Du Dan (天心解毒丹) adalah obat penawar racun hasil racikan Zhang Sanfeng, yang bisa digunakan secara umum. Meskipun untuk menawarkan racun khusus diperlukan obat yang lebih spesifik, tetapi obat ini cukup efektif untuk menghambat kerusakan yang ditimbulkan racun pada umumnya, sampai orang yang terkena racun mendapatkan pertolongan yang lebih baik.
 
 Meskipun sikapnya selalu bersahabat, tapi Yu Daiyan merasa agak marah mendengar komentar itu. Ia berkata, "Kau kenal
 siapa aku? Kau kira murid Wudang akan menggunakan racun? Pil ini akan membantu meringankan penderitaanmu akibat racun
@@ -899,7 +899,7 @@ Saat itu Yu Daiyan mendengar banyak suara kuda di luar. Lalu seseorang dari luar
 Raja Elang mengepakkan sayapnya."
 
 Hal ini membuat Sekte Pasir Laut terdiam. Setelah beberapa saat, seseorang berteriak, "Itu 
-[Tian Yingjiao](/parts/people/yin-tianzheng "Tian Yingjiao (天鹰教) atau Perguruan Elang Surga adalah sekte yang didirikan oleh ayah Yin Soso, Yin Tianzheng. Beberapa terjemahan menulisnya 'Partai Elang Langit'")! Cepat pergi dari sini!"
+[Tian Yingjiao](/parts/people/yin-tianzheng "Tian Yingjiao (天鹰教) atau Perguruan Elang Surga adalah sekte yang didirikan oleh ayah Yin Susu, Yin Tianzheng. Beberapa terjemahan menulisnya 'Partai Elang Langit'")! Cepat pergi dari sini!"
 
 Ketika ia menyelesaikan kalimat itu, suara derap kaki kuda berhenti. Lalu seseorang berbisik, "Sudah terlambat."
 
