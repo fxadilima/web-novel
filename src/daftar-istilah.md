@@ -206,3 +206,8 @@ sangat mempengaruhi berbagai ajaran agama yang ada di Zhong Yuan dari jaman ke j
 
 Bing (兵).
 
+## Dao Zhang
+
+Dao Zhang (道长) adalah sebutan umum bagi seorang oraktisi ajaran Tao, yang biasanya juga seorang pendeta.
+
+Karakter Zhang yang sama juga dipakai untuk Zhang Lao (长老), jabatan bagi penatua Kai Pang dan organisasi lain.

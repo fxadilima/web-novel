@@ -97,7 +97,7 @@ dan terasa sangat nyaman di telinga. Rupanya dialah yang mengucapkan istilah 'Tu
 
 Ia mendengar gadis itu bertanya kepada si jangkung, "Liu Shijie, kau yakin bisa mengalahkan orang itu sendirian?"
 
-Si Jangkung yang dipanggil 'Kakak Keenam' itu berkata, "Qi Shimei, coba lihat caranya memegang golok itu. Dia mencengeramnya
+Si Jangkung yang dipanggil 'Kakak Keenam' itu berkata, "Qi Shimei, coba lihat caranya memegang golok itu. Dia mencengkeramnya
 terlalu kuat, seolah-olah kuatir golok itu terlepas dari tangannya. Ini pertanda orang ini hanya belajar kungfu sekedar
 untuk dipamerkan, yang memang pekerjaannya. Tapi dalam pertarungan sebenarnya, kurasa anggota kita yang paling baru pun 
 akan bisa mengalahkannya."
@@ -502,10 +502,11 @@ dua dari Tujuh Pendekar Wudang. Entahkah Xiaomei cukup beruntung boleh mengetahu
 
 Ketika mendengar logat mereka bertiga, Yu Lianzhou memang menyimpulkan bahwa mereka adalah penduduk Jiangnan, dan kemungkinan
 besar belajar ilmu pedang itu dari salah satu guru silat yang juga berasal dari wilayah yang sama. Ia membalas sopan santun
-Ah Luo sambil berkata, "Kami memang dari Wudang. Namaku Yu Lianzhou, dan ini adikku Mo Shenggu. Boleh kami tahu siapa guru Nona?"
+Ah Luo sambil berkata, "Kami memang dari Wudang. Namaku Yu Lianzhou, dan ini adikku Mo Shenggu. Boleh kami tahu siapa 
+guru Nona?"
 
 Kali ini Ki Seung Nyang yang menjawab mendahului Ah Luo, "Guruku sudah meninggal karena usia tua. Saat masih muda ia pernah
-menjadi anggota Kai Pang di bawah pimpinan Ketua Yelu Qi."
+menjadi anggota Kai Pang di bawah pimpinan Ketua Kai Pang Yelu Qi."
 
 Yu Lianzhou sudah mendengar dari gurunya mengenai kisah Pendekar Besar Guo Jing dan istrinya Huang Rong yang dianggap sebagai 
 pahlawan kota Xiang Yang. Yelu Qi adalah menantu dari pasangan pendekar itu. Karena Guo Jing adalah murid dari Tujuh Orang Aneh
@@ -537,12 +538,14 @@ buru-buru berkata, "Yu Erxia, Mo Qixia, sebenarnya kami ingin lebih lama berdisk
 terlanjur berjanji untuk menemani anak itu dari jauh. Aku agak kuatir kehilangan jejak mereka."
 
 Yu Lianzhou baru teringat setelah mendengar kalimat itu. Ia berkata, "Betul juga. Tapi kuharap kalian berhati-hati.
-Suku Zhuang kadang-kadang bisa kurang bersahabat. Dan mereka terus berperang dengan suku Yao. Sebaiknya kalian menghindari
-konflik dengan kedua kelompok itu." Ia tahu bahwa saat ini Guangxi dan Yunnan dianggap sebagai tempat yang baik untuk
-mengasingkan para anggota keluarga kekaisaran yang dianggap membahayakan posisi pihak yang sedang berkuasa, sedangkan
-situasi politik Dinasti Yuan sering berubah secara tak terduga, oleh karena itu tewasnya seorang tahanan politik di kedua 
-wilayah tersebut sudah sangat biasa terdengar. Ia lalu menambahkan, "Sayangnya saat ini kami berdua juga sedang punya 
-tugas lain yang sangat mendesak. Kalau tidak, aku juga ingin ikut campur dalam masalah ini."
+Suku Zhuang[^suku-zhuang] kadang-kadang bisa kurang bersahabat. Dan mereka terus berperang dengan suku Yao. Sebaiknya 
+kalian menghindari konflik dengan kedua kelompok itu." Ia tahu bahwa saat ini Guangxi dan Yunnan dianggap sebagai tempat 
+yang baik untuk mengasingkan para anggota keluarga kekaisaran yang dianggap membahayakan posisi pihak yang sedang berkuasa, 
+sedangkan situasi politik Dinasti Yuan sering berubah secara tak terduga, oleh karena itu tewasnya seorang tahanan politik 
+di kedua wilayah tersebut sudah sangat biasa terdengar. Ia lalu menambahkan, "Sayangnya saat ini kami berdua juga sedang 
+punya tugas lain yang sangat mendesak. Kalau tidak, aku juga ingin ikut campur dalam masalah ini."
+
+[^suku-zhuang]: Suku Zhuang adalah penduduk asli wilayah Guangxi.
 
 Ketiga gadis itu mengucapkan terima kasih sekali lagi, lalu berpamitan dan menaiki kuda mereka untuk segera beranjak
 mengejar para pengawal yang membawa Toghon Temur.
@@ -599,7 +602,7 @@ kepalanya terarah ke bulan di atas langit.
 
 Setelah berjalan beberapa saat, Zhang Cuishan tanpa sadar memandang ke arah tatpan mata gadis itu, hanya untuk menemukan
 awan gelap sedang berkumpul di kejauhan. Awan itu dengan cepat menutupi cahaya bulan. Dengan segera angin mulai bertiup, dan
-rintik-rintik hujan pun mulai turun. Di tep sungai itu hanya ada lapangan rumput, karenanya Zhang Cuishan tidak dapat menemukan
+rintik-rintik hujan pun mulai turun. Di tepi sungai itu hanya ada lapangan rumput, karenanya Zhang Cuishan tidak dapat menemukan
 tempat untuk berlindung. Tentu saja, ia juga tidak terlalu mempedulikan hujan. Hujan itu tidak terlalu deras, tetapi cukup 
 untuk membuatnya basah kuyup setelah beberapa saat. Dilihatnya gadis muda itu masih tetap duduk di pinggiran perahu, juga 
 basah kuyup.
@@ -623,7 +626,7 @@ namun begitu setidaknya gaya kaligrafinya mengandung perasaan yang jernih, indah
 
 Zhang Cuishan tidak memperlambat langkahnya ketika mengamati tulisan itu, dan tidak melihat sebuah parit di depannya. Ketika
 kaki kirinya turun, ia merasa kakinya mendarat di udara kosong. Orang normal yang mana pun akan terjungkal dan jatuh.
-Tetapi ia dengan cepat bereaksi, mengerahkan tnaga ke kaki kanan, lalu melompat, mendarat di seberang parit. Ia mendengar
+Tetapi ia dengan cepat bereaksi, mengerahkan tenaga ke kaki kanan, lalu melompat, mendarat di seberang parit. Ia mendengar
 gadis muda itu berseru, "Hebat!"
 
 Zhang Cuishan berpaling, melihat bahwa ia ternyata telah memakai sebuah topi dari anyaman bambu, dan berdiri di tepi perahu.
@@ -638,7 +641,7 @@ Bait itu singkat, tapi maknanya lebih panjang, iramanya sangat mempesona."
 Gadis muda itu merasa sangat gembira ketika tahu Zhang Cuishan memahami gaya tulisannya, dan berkata, "Di antara semua
 karakter itu, aku merasa karakter Bu (不, 'Tidak') yang paling jelek." 
 
-Zhang Cuishan menelitti karakter itu, lalu berkata, "Karakter 'Bu' ini ditulis secara cukup alamiah, tapi maknanya kurang dalam,
+Zhang Cuishan meneliti karakter itu, lalu berkata, "Karakter 'Bu' ini ditulis secara cukup alamiah, tapi maknanya kurang dalam,
 tidak seperti yang lain, yang meninggalkan 'sisa rasa' di benak pembacanya, membuatnya sulit dilupakan."
 
 Gadis muda itu berkata, "Sekarang aku mengerti. Aku memang selalu merasa karakter itu sepertinya kurang cocok ada di situ,
@@ -647,7 +650,7 @@ tapi tidak bisa menemukan alasannya. Terima kasih Gongzi telah mencerahkan pikir
 Perahunya terus melaju di permukaan air sungai, sementara Zhang Cuishan berjalan mengikutinya. Kedua orang itu terus
 berbicara tentang tulisan, sampai langit menjadi sangat gelap sehingga mereka tidak lagi bisa saling melihat. Gadis muda
 itu tiba-tiba berkata, "Bicara sebentar dengan seorang sastrawan mengalahkan membaca buku selama sepuluh tahun. Terima
-kasih atas bantuanmu. Sekarang kita berpisah." Ia menarik layar, dan perahu itu mulai bergerak lebih cepat dengan bantuan
+kasih untuk bantuanmu. Sekarang kita berpisah." Ia menarik layar, dan perahu itu mulai bergerak lebih cepat dengan bantuan
 angin. Zhang Cuishan berdiri sambil memandang perahu itu berlayar makin menjauh dan merasa agak sedih, pikirannya terasa
 kosong. Ia mendengar gadis muda itu berteriak dari kejauhan, "Margaku Yin... sampai ketemu lagi. Aku pasti akan menanyakan
 lebih banyak petunjuk darimu..."
@@ -667,14 +670,14 @@ Karena itu ia menambahkan, "Aku punya dugaan, kuharap kau bisa membantu menjerni
 
 Gadis itu berkata, "Kau sungguh ingin tahu?"
 
-Zhang Cuishan berkata, "Kau yang menyuruh Longmen Biao Ju mengantar kakak ketigaku Yu Daiyan kee Wudang? Kalau ya,
+Zhang Cuishan berkata, "Kau yang menyuruh Longmen Biao Ju mengantar kakak ketigaku Yu Daiyan ke Wudang? Kalau ya,
 maka aku harus membalas kebaikanmu."
 
 Gadis itu berkata, "Kadang-kadang agak sulit membedakan antara kemurahan hati dan kekejaman."
 
 Zhang Cuishan berkata, "Kakak ketigaku terluka parah di kaki gunung Wudang. Kau tahu soal ini?"
 
-"Aku juga sedih tentang hal itu, dan aku sungguh minta maaf."
+"Aku juga sedih tentang hal itu, dan aku sungguh minta maaf," jawab Nona Yin.
 
 Sementara mereka bicara, angin kencang bertiup, dan perahu itu berlayar lebih cepat. Tetapi Zhang Cuishan tidak punya
 masalah untuk mengimbangi kecepatannya.
@@ -714,9 +717,9 @@ Gadis muda itu tertawa dan berkata, "Betul."
 Zhang Cuishan berteriak marah, "Kita sudah jelas tidak pernah bermusuhan. Kenapa kau melakukan hal itu?"
 
 Gadis itu melambaikan tangannya, dan memasuki kabin. Zhang Cuishan jelas tidak bisa berhenti bertanya sekarang ini,
-tai ia terlalu jauh dari perahu itu untuk melompat ke atasnya. Karena itu ia lalu mengambil dua batang ranting tebal
+tapi ia terlalu jauh dari perahu itu untuk melompat ke atasnya. Karena itu ia lalu mengambil dua batang ranting tebal
 dari pohon Liang Liu terdekat dan melemparkannya ke dalam sungai. Dengan menggunakan ranting yang terapung itu sebagai
-tumpuan, ia melompat ke atas perahu. Ia kemudian berteriak, "Bagaimana... bagaimana caramu merencanakannya?"
+tumpuan, ia melompat ke atas perahu. Ia kemudian berteriak, "Bagaimana... bagaimana caramu melakukannya?"
 
 Tidak terdengar suara dari dalam kabin yang gelap itu, karenanya Zhang Cuishan berniat memasukinya. Tapi pada detik
 terakhir ia berubah pikiran, dan berpikir, "Rasanya sangat kasar langsung masuk ke ruangan seorang gadis muda seperti
@@ -769,7 +772,7 @@ Ketika Zhang Cuishan mendengar pertanyaan itu, ia buru-buru memalingkan mukanya 
 di lengan kiri gadis itu. Lengannya seputih salju, tetapi di daerah yang tertancap jarum itu sehitam tinta. Ujung
 atas jarum-jarum itu berbentuk mirip Meihua[^meihua].
 
-[^meihua]: Mei Hua (梅花) adalah Bunga Plum.
+[^meihua]: Mei Hua (梅花) adalah Bunga Plum. Meihua Biao yang dimaksud di sini adalah senjata rahasia Shaolin, yang bentuknya mirip bunga plum.
 
 Zhang Cuishan tercengang, lalu bangkit berdiri dan berseru, "Ini Meihua Biao milik Shaolin! Kenapa... kenapa warnanya gelap?"
 
@@ -999,7 +1002,7 @@ mereka sangat tangguh, yang berarti mereka sama sekali bukan perguruan baru yang
 Yin Susu yang telah menjadi dewasa tetap membantu keluarganya di Jiangnan, meskipun ia masih menjalankan usahanya
 sendiri bersama Tajkis. Tetapi berikutnya ia kehilangan kontak dengan Tajkis, dan tak seorang pun membalas suratnya
 yang dikirimkan melalui burung merpati. Tampaknya ketiga saudara seperguruannya yang lain juga tidak menanggapinya.
-Ia merasa cemas, dan ingin tahu apa yang terjadi kepada mereka semua, tetapi ia tidak bisa pergi ke Guangming Ding
+Ia merasa cemas, dan ingin tahu apa yang terjadi pada mereka semua, tetapi ia tidak bisa pergi ke Guangming Ding
 sementara di Jiangnan terjadi rentetan peristiwa penting, di mana ia secara langsung maupun tidak memang ikut terlibat.
 
 ***
@@ -1189,38 +1192,952 @@ Jujing Bang? Siapa yang ada di situ?"
 
 Suara lain menjawab, "Perahu ini membawa pemimpin muda Jujing Bang. Kamu datang untuk memenuhi undangan ke Wangpan Shan!"
 
-Orang dari perahu Chang Jinpeng berteriak, "Nona Yin dari Tian Yingjiao dan Pimimpin Chang dari "
+Orang dari perahu Chang Jinpeng berteriak, "Nona Yin dari Tian Yingjiao dan Pemimpin Chang dari Cabang Hong Maque[^red-sparrow-branch] ada di sini. Juga ada seorang tamu kehormatan. Harap ikuti di belakang kami."
 
-Before Zhang CuiShan could respond, they heard someone on Chang JinPeng’s boat yell,
-“Is this Huge Whale Clan’s boat? Who’s there?” Another voice responded, “This boat
-carries the young leader of the Huge Whale Clan. We’re here for the meeting on the
-WangPan Island.” The man on Chang JinPeng’s boat yell, “The Heavenly Eagle Sect’s
-Miss Yin and Branch Leader Chang of the Red Sparrow Branch are here. Plus there’s an
-honored guest. Please get back behind us.” The other person yelled, “If your leader
-were here, we’d surely let you go first. But no one else is worthy.”
+Orang satunya menjawab, "Kalau pemimpinmu ada di sini, kami pasti akan membiarkanmu berangkat dulu. Tapi orang lain
+tidak layak."
 
 [^red-sparrow-branch]: Hong Maque Zhi (红麻雀支) atau Hong Maque Fen Zhi (红麻雀分支).
 
-[^brothers-2-7]: Yu Lianzhou dan Mo Shenggu tidak muncul di Longmen Biao Ju karena menemui situasi tidak adil di tengah jalan, ini ada di Bab 9, Page 10, penjelasan Yu Lianzhou, ketika bertemu kembali dengan Zhang Cuishan, sepuluh tahun kemudian.
+Zhang Cuishan berpikir, "Tian Yingjiao? Perguruan sesat macam apa lagi itu? Kenapa kau tidak petnah mendengar soal 
+Tian Yingjiao? Kalau melihat kungfu mereka, mustinya mereka cukup tangguh. Perguruan ini mustinya baru saja didirikan,
+dan mereka sebagian besar tinggal di daerah selatan. Itu sebabnya aku tidak pernah bertemu dengan murid-murid mereka."
+
+Ia membuka jendela kabin dan memandang keluar, dan menemukan sebuah perahu dengan ukiran ikan paus di bagian depannya,
+dan beberapa golok melengkung di sisinya, sebagai hiasan gigi ikan paus. Perahu itu punya layar berukuran besar, yang 
+membuatnya bisa melaju lebih cepat ketimbang perahu Chang Jinpeng.
+
+Chang Jinpeng berteriak, "Mai Shaozhu[^shaozhu], Nona Yin ada di sini. Kenapa tidak memberinya muka?""
+
+[^shaozhu]: Shou Zhu (少主) = Pemimpin Muda.
+
+Seorang pemuda berjubah kuning melangkah ke depan perahu ikan paus itu, dan tertawa dingin sambil berkata, "Di darat
+Tian Yingjiao memang hebat, tapi di air, kau kira kalian bisa menandingi kami? Kenapa kami harus _memberi muka_ kepada
+kalian di atas air?"
+
+Zhang Cuishan berpikir, "Sungai ini begitu lebarnya, ratus perahu juga bisa berlayar bersama. Kenapa mereka harus menyalip
+perahu lain? Tian Yingjiao ini sungguh aneh."
+
+Pada saat itu angin berhembus agak kencang, dan perahu Jujing Bang sekarang jauh meninggalkan mereka. Chang Jinpeng 
+mengeluarkan suara 'Hm!', dan berkata, "Jujing Bang... Tulong Dao... juga... Tulong Dao..." Sungguh sulit menangkap 
+kata-katanya dengan angin kencang dan jarak di antara perahu itu.
+
+Ketika Mai Shaozhu itu mendengarnya mengucapkan Tulong Dao dua kali, ia jadi sangat tertarik, lalu memerintahkan anak buahnya
+mendekati perahu Chang Jinpeng. Begitu kedua perahu itu berdekatan, ia bertanya, "Chang Tanzhu, kau tadi bilang apa?"
+
+Chang Jinpeng berkata, "Mai Shaozhu... Bai Tanzhu kami... Tulong Dao itu..." 
+
+Zhang Cuishan berpikir, "Ini aneh, kenapa omongannya terputus-putus?"
+
+Ia melihat kedua perahu itu saling bergerak mendekat lagi, hingga tinggal beberapa kaki jaraknya. Lalu tiba-tiba Chang Jinpeng
+mengambil jangkar besi di perahunya dan melemparkannya ke perahu lain itu. Di tengah jeritan dari kedua awak perahu, jangkar itu
+mendarat di atas perahu Jujing Bang.
+
+Mai Shaozhu berteriak, "Kau mau apa?"
+
+Chang Jinpeng tidak menyahut, sebaliknya ia memungut jangkar lainnya, dan melemparkannya juga ke atas perahu Jujing Bang,
+membunuh tiga orang awak perahu. Sekarang kedua perahu itu saling terikat erat-erat. Mai Shaozhu berusaha mengangkat jangkar
+dalan melemparkannya dari perahunya. Sementara itu Chang Jinpeng melambaikan tangan kanannya, dan diiringi oleh suara
+rantai besi, sebuah semangka hijau tua melesat secepat kilat, menubruk kabin utama dari perahu Jujing Bang. Saat itu 
+Zhang Cuishan baru menyadari bahwa semangka itu adalah senjata Chang Jinpeng. Kelihatannya terbuat dari baja, keduanya
+terhubung oleh rantai panjang. Masing-masing sangat berat, setidaknya tiga puluh sampai tiga puluh lima kilo. Hanya orang
+yang punya tenaga sangat besar akan mampu menggerakkannya semudah itu.
+
+Setelah mendengar suara-suara berisik, Zhang Cuishan melihat bahwa semangka itu telah melubangi bagian tengah perahu. 
+Sementara para awak di atas perahu itu panik, Chang Jinpeng menarik semangkanya dan kemudian melemparkan keduanya ke bagian
+belakang perahu Jujing Bang. Setelah beberapa saat, perahu itu mulai terbelah.
+
+Pemimpin muda itu hanya bisa memandang tanpa daya ketika perahunya pecah.
+
+Ia berteriak memaki-maki Chang Jinpeng, yang membalas, "Selama Tian Yingjiao hadir, kami juga berkuasa di atas air!"
+
+Sambil bicara ia meelemparkan semangkanya lagi, kali ini ia melubangi sadar perahu, membuat air mulai masuk ke perahu 
+Jujing Bang itu.
+
+Mai Shaozhu melompat dari perahunya ke perahu Chang Jinpeng. Chang Jinpeng menunggu sampai ia ada di tengah lompatannya,
+baru kemudian melemparkan sebuah semangka dengan tangan kirinya. Karena masih di udara, pemimpin muda itu tidak bisa 
+menghindari serangan yang datang. Ia segera pingsan dan jatuh kembali di atas perahunya.
+
+Saat itu perahu Jujing Bang sudah berlubang-lubang, dan para awaknya hanya bisa berharap untuk mempertahankan nyawa mereka,
+dan bukan balas menyerang. Tanpa menunggu perintah dari Chang Jinpeng, para awak perahu segera menarik kembali jangkar
+mereka, lalu melanjutkan perjalanan.
+
+Zhang Cuishan sepenuhnya terkesan oleh kemampuan Chang Jinpeng, dan berpikir, "Seandainya Shifu tidak mengajariku cara
+meminjam tenaga, maka pukulannya pasti akan langsung membunuhku. Bukan hanya kungfunya hebat, ternyata dia juga pintar
+dan kejam. Dia pasti salah satu pemimpin penting dari sekte sesat ini." Ia kemudian berpaling kepada Yin Susu, yang 
+ternyata sangat tenang dan biasa saja, seolah sama sekali tidak peduli akan kejadian itu.
+
+Meskipun para awak perahu itu bisa berenang, tapi tetap mustahil mereka bisa mencapai tepian. Sebagian besar dari
+mereka berteriak-teriak minta tolong. Chang Jinpeng dan Yin Susu sama sekali tidak menanggapinya.
+
+Zhang Cuishan memandang ke arah perahu yang rusak itu dari jendela. Ia merasa sedih melihat para awak perahu itu, tapi 
+menilai dari perilaku Chang Jinpeng dan Yin Susu yang tak kenal ampun, ia merasa tidak bisa membujuk mereka berdua untuk
+menyelamatkan orang-orang ini.
+
+Yin Susu melihat air mukanya, tersenyum, dan berteriak, "Chang Tanzhu, tamu kehormatan kita, Zhang Wuxia, ingin berbuat
+baik. Kenapa kau tidak menolong orang-orang itu?"
+
+Zhang Cuishan hampir tak percaya bahwa Yin Susu akan mengatakan hal itu. Ia mendengar Chang Jinpeng berkata, "Aku akan 
+memenuhi permintaan tamu kehormatan kita."
+
+Lalu ia berteriak, "Kalian dengar, Zhang Wuxia dari Wudang ingin menyelamatkan kalian. Kalau kalian menghargai nyawa sendiri,
+silakan berenang ke perahu kami!" Orang-orang Jujing Bang segera berenang mendekati perahunya, dan sebagian besar dari 
+mereka berhasil mencapainya.
+
+Hati Zhang Cuishan menjadi hangat, lalu berkata dengan gembira, "Terima kasih!"
+
+Yin Susu berkata dengan dingin, "Jujing Bang membunuh orang seperti memperlakukan barang-barang mati. Mereka semua tidak
+punya perasaan. Kenapa kau ingin menolong mereka?"
+
+Zhang Cuishan terkejut. Ia tahu bahwa Jujing Bang adalah salah satu kelompok bandit yang paling brutal di negeri ini.
+Tapi karena suatu alasan, ia telah menyelamatkan mereka hari ini. Ia mendengar Yin Susu berkata, "Kalau aku tidak menolong
+mereka, berani taruhan, Zhang Wuxia pasti akan memakiku 'Kau perempuan jahat, aku menyesal sudah menolongmu!'"
+
+Setelah mendengar ucapan yang persis sama di benaknya, muka Zhang Cuishan memerah. Ia berkata sambil tersenyum, "Kau sungguh
+licik. Aku tidak mau berdebat denganmu. Menolong orang-orang itu hanya akan megurangi kejahatanmu. Tidak ada hubungannya 
+dengan aku."
+
+Pada saat itu ombak besar mengamuk seperti halilintar, memekakkan telinga semua orang. zhang Cuishan dan Yin Susu tidak bisa
+saling mendengar dalam situasi seperti itu. Zhang Cuishan memandang keluar jendela, dan menyadari bahwa semua orang yang 
+belum sempat ditolong hampir pasti sudah tewas sekarang.
+
+Yin Susu berjalan ke ruang belakang, menutup pintu, dan tak lama kemudian kembali , kali ini dengan mengenakan busana 
+wanita. Ia kemudian memberi isyarat supaya Zhang Cuishan melepas jubahnya. Zhang Cuishan tidak ingin menolaknya, lalu
+melakukan seperti yag diminta. Ia mengira Yin Susu ingin menjahit jubahnya, tapi ternyata sebaliknya, ternyata gadis itu
+ingin supaya ia mengenakan jubah yang baru saja dilepaskannya. Setelah itu Yin Susu mrmbawa jubah yang robek ke belakang.
+
+Karena tidak punya pakaian lain, Zhang Cuishan terpaksa memakai jubah yang seberikan oleh Yin Susu. Jubah itu cukup besar,
+maka ia bisa mengenakannya tanpa kesulitan. Aroma harum yang tipis muncul dari jubah itu. Pikiran Zhang Cuishan terusik,
+ia menghindari tatapan Yin Susu. Ia duduk diam sambil berpura-pura mengamati lukisan di dinding kabin. Tapi dengan adanya
+ombak besar dan segala kecemasan di benaknya, ia tidak bisa menikmati apapun saat itu. Yin Susu juga tidak bicara.
+
+Tiba-tiba perahu itu terguncang keras lagi, bahkan lilin juga padam. Zhang Cuishan berpikir, "Sangat buruk bagi Nona Yin
+kalau kami berdua tetap berada di ruangan gelap ini bersama-sama." Karena itu ia membuka pintu kabin dan duduk di luar,
+hanya untuk melihat awak perahu sedang berusaha mati-matian mempertahankan kemudi, mengayuh dengan susah-payah dalam
+kondisi ekstrim itu.
+
+Setelah kyurang lebih satu jam, amukan ombak itu mulai berhenti. Tak lama kemudian mereka tiba ti Wangpan Shan.
+
+Wangpan Shan terletak tepat di hulu sungai, dari situ mengalir ke arah Laut Timur. Pulau itu dipenuhi oleh batu-batu
+pegunungan, dan tampaknya tak berpenghuni. Dua perahu ditambatkan di tepi sungai. Telinga mereka mendengar suara
+terompet ditiup di kejauhan, dan melihat dua orang pria sedang melambaikan bendera di tepi sungai. Setelah perahu semakin
+dekat, Zhang Cuishan melihat kedua perahu itu berbendera dengan lambang elang raksasa.
+
+Seorang pria tua sedang berdiri di tepian, di antara kedua perahu itu. Ia berkata, "Pemimpin Cabang Kura-kura Hitam,
+Bai Guishou, menyambut Nona Yin." Ucapannya panjang, tetapi sangat jelas, meskipun tidak terlalu keras, menunjukkan
+tenaga dalamnya yang tinggi. Ketika perahu mereka merapat, ia secara pribadi menaruh plang untuk turun. Yin Susu meminta
+Zhang Cuishan turun terlebih dahulu, sebelum ia sendiri mengikuti ke tepian untuk memperkenalkan mereka berdua.
+
+Melihat betapa baiknya Yin Susu memperlakukan Zhang Cuishan, yang diperkenalkan sebagai pendekar kelima dari Wudang,
+sungguh mengejutkan Bai Guishou. Ia berkata, "Sungguh menyenangkan bisa ketemu dengan salah satu dari pendekar Wudang
+yang terkenal." Zhang Cuishan membalas sikap hormat itu dengan ucapan yang sopan.
+
+Yin Susu berkata sambil tertawa, "Kata-kata kalian sangat tidak tulus. Yang satu berpikir, 'Sialan, Wudang juga hadir
+di sini, menambah jumlah orang yang ingin mencuri Tulong Dao.' Yang satunya berpikir, 'Orang dari sekte jahat, aku tidak
+igin dihubung-hubungkan dengan orang sepertimu.' Kalau kalian ingin tahu pendapatku, sebaiknya kalian bicara terus terang
+saja."
+
+Bai Guishou tertawa, sementara Zhang Cuishan berkata, "Aku bukan bermaksud tidak hormat. Kungfu Bai Tanzhu hebat. Aku 
+sangat takjub melihat kemampuanmu mengirimkan suara dari jarak jauh. Aku hanya menemani Nona Yin ke sini, bukan untuk
+memperebutkan Golok Pembunuh Naga."
+
+Mendengar ucapan itu, muka Yin Susu jadi jauh lebih cerah. Bai Guishou tahu persis kepribadian Yin Susu yang sedingin es,
+ia cukup kaget melihat gadis itu bersikap hangat kepada Zhang Cuishan. Fakta itu, ditambah dengan pujian Zhang Cuishan
+mengenai kungfunya, membuat rasa tidak suka Bai Guishou kepada Zhang Cuishan berkurang. Ia berkata, "Nona Yin, Sekte
+Pasir Laut, Jujing Bang, dan juga Shen Quan Men, semuanya hadir. Diitambah dengan dua orang pendekar pedang dari Kunlun Pai.
+Kedua anak muda itu sangat sombong, sama sekali tidak seperti Zhang Wuxia yang rendah hati..."
+
+Bicara sampai di sini, mereka mendengar seseorang berteriak dari belakang, "Dan betapa rendah hatinya membicarakan kejelekan
+orang lain di belakang mereka!" Dua orang pria yang mengenakan jubah panjang berwarna hijau muncul dengan pedang di tangan.
+Keduanya tampak berusia di atas dua puluh lima tahun, dengan air muka yang seperti ingin mencari gara-gara.
+
+Bai Guishou berkata sambil tertawa, "Nah, lihat siapa yang baru datang. Biar kuperkenalkan."
+
+Kedua orang itu hendak protes, tapi kemudian terhenti karena terpesona oleh kecantikan Yin Susu yang meenakjubkan. Yang
+seorang hanya menatapnya lekat-lekat, yang satunya segera mengalihkan pandangan ke arah lain setelah melirik, tapi matanya
+tetap terpaku kepada Yin Susu.
+
+Bai Guishou menunjuk ke arah orang yang sedang menatap Yin Susu dan berkata, "Ini Pendekar Pedang Gao Zecheng." Lalu ia
+menunjuk ke arah pria yang satunya sambil berkata, "Yang ini Pendekar Pedang Jiang Tao. Mereka berdua adalah anggota
+Kunlun Pai yang hebat. Karena ini pertama kalinya mereka datang ke Zhongyuan[^zhongyuan], aku yakin mereka bisa memamerkan ilmu
+pedang mereka yang hebat itu."
+
+[^zhongyuan]: Zhong Yuan atau Tionggoan dalam dialek Hokkian, secara literal berarti 'Dataran Pusat', yang secara umum akan diartikan sebagai wilayah Tiongkok secara keseluruhan dari masa ke masa. Tetapi sebenarnya Zhong Yuan dalam konteks lain hanya berarti wilayah yang berkaitan dengan propinsi Henan dan sekitarnya, yang dianggap asal-usul masyarakat Tionghoa. Karena Kunlun Pai terletak di wilayah ujung barat Kunlun Shan, maka Zhongyuan yang dimaksud oleh Bai Guishou adalah semua wilayah Henan dan sekitarnya.
+
+Suaranya penuh dengan sindiran dan rasa tidak suka. Zhang Cuishan mengira kedua orang itu pasti akan menghunus pedang mereka,
+atau setidaknya membalas kekasaran Bai Guishou dengan segera. Tapi karena suatu alasan tak seorang pun dari mereka melakukan
+salah satu dari kedua hal itu, seolah mereka sama sekali tidak mendengar ucapan Bai Guishou. Lalu Zhang Cuishan memperhatikan
+dengan lebih cermat ekspresi muka mereka, dan menyadari bahwa mereka terpesona oleh Yin Susu sampai melupakan segala sesuatu.
+Dalam hati Zhang Cuishan tertawa, dan berpikir, "Aku selalu mendengar bahwa Kunlun Pai adalah sekte yang sangat kuat, dan
+para anggotanya punya ilmu pedang yang hebat. Tak disangka murid-murid mereka ternyata sangat tidak disiplin."
+
+Bai Guishou kemudian menambahkan, "Ini Zhang Cuishan Gongzi dari Wudang Pai. Yang ini Nona Yin. Dan ini Pemimpin Chang
+Jinpeng." Ia tidak menjelaskan secara detil mengenai ketiga orang ini ketika memperkenalkan mereka. Ia bahkan mengubah
+panggilannya kepada Zhang Cuishan dari 'Zhang Wuxia' menjadi 'Zhang Gongzi', tentu saja dengan tujuan untuk menekankan
+keakraban mereka.
+
+Yin Susu merasa senang mendengar kata-kata itu. Ia menatap Zhang Cuishan dengan senyum cerah.
+
+Gao Zecheng langsung cemburu. Ia menatap Zhang Cuishan dengan marah dan berkata dengan nada dingin, "Jiang Shixiong,
+kukira aku pernah mendengar di wilayah barat bahwa Wudang adalah salah satu perguruan lurus di Zhongyuan."
+
+Jiang Tao berkata, "Rasanya aku juga pernah mendengar soal ini."
+
+Gao Zecheng berkata, "Kurasa bukan semua ucapan itu benar."
+
+"Betuulkah?" sahut Jiang Tao. "Nah, itu juga tidak mengherankan, karena yang namanya desas-desus itu sebagian besar memang
+salah. Lagipula, apa yang penting soal Wudang itu?"
+
+Gao Zecheng berkata, "Mana mungkin seorang murid perguruan lurus bergaul dengan anggota sekte sesat? Kurasa dia memang
+ingin menurunkan derajat sendiri sampai ke tingkat mereka."
+
+Mereka tidak menyadari bahwa Yin Susu juga adalah seorang anggota dari Tian Yingjiao, dan hanya bermaksud menyertakan 
+Bai Guishou dan Chang Jinpeng ketika menyebutkan 'sekte sesat'.
+
+Setelah mendengar kalimat itu, Zhang Cuishan mulai marah. Ia ingin membantah, tetapi menahan dirinya pada detik terakhir. 
+Ia berpikir karena tujuannya adalah untuk mencari pelaku sebenarnya yang mencelakai Yu Daiyan, maka ia tidak punya alasan
+untuk bertengkar tanpa tujuan. Selain itu, Tian Yingjiao memang pantas dijuluki 'sekte sesat', karena Yin Susu dan Chang
+Jinpeng membunuh orang seperti sedang menikmati makan malam. Sebenarnya ia memang harus sebisanya menjauhi mereka. Karena
+itu ia tersenyum sambil berkata, "Seperti juga kedua sobat ini, aku juga baru saja berkenalan dengan Tian Yingjiao."
+
+Kalimat itu sebetulnya mengejutkan semua orang. Bai Guishou semula berpikir bahwa Yin Susu dan Zhang Cuishan adalah teman
+lama. Ia tak pernah membayangkan bahwa mereka berdua baru saja saling berkenalan. Yin Susu dengan segera menjadi marah, karena
+kalimat Zhang Cuishan itu terang-terangan tidak menghormati Tian Yingjiao. Dalam hati Gao Zecheng dan Jiang Tao tertawa, 
+mereka berpikir, "Dasar pengecut. Dia pasti takut kepada kami, Kunlun Pai."
+
+Bai Guishou berkata, "Kelihatannya semua orang sudah tiba. Kita hanya kehilangan Shaoye dari Jujing Bang, tapi tidak usah
+menunggu lebih lama lagi. Semua orang bisa santai sebentar, kita akan berkumpul lagi di tengah hari untuk memamerkan
+golok."
+
+Chang Jinpeng berkata sambil tersenyum, "Perahu Mai Shaoye dari Jujing Bang bermasalah, tapi tadi Zhang Gongzi menolongnya.
+Saat ini dia ada di perahuku, dan pasti akan hadir di acara itu."
+
+Zhang Cuishan melihat bahwa kedua pemimpin cabang itu memperlakukannya dengan penuh hormat, sementara pandangan Yin Susu
+memperlihatkan kelembutan. Tetapi berpikir lebih jauh, ia tetap merasa perlu untuk menjauhi orang-orang ini sejauh mungkin.
+Karena itu ia berkata, "Aku ingin berjalan-jalan sendirian." Sebelum semua orang sempat menanggapi, ia berbalik dan mulai 
+berjalan memasuki hutan terdekat.
+
+Meskipun ia sangat tidak menyukai kelakuan Yin Susu yang licik, tetapi ia selalu merasa ada kehangatan di dalam hatinya setiap
+kali berpikir mengenai gadis itu. Ia berpikir, "Jabatan Nona Yin ini dalam Tian Yingjiao sangat tinggi, tapi dia bukan 
+seorang pemimpin. Kedua pemimpin cabang itu memperlakukan dia seperti seorang putri bangsawan. Entah apa jabatannya." Lalu
+ia berpikir lebih lanjut, "Tian Yingjiao sudah jelas ingin memamerkan Tulong Dao, tap mereka hanya mengirimkan dua orang
+pemimpin cabang utnuk mengawal golok itu dari para anggota sekte lain. Sudah jelas mereka merasa tidak memerlukan pengawal
+tambahan. Kungfu Bai Guishou kelihatannya lebih tinggi dari Chang Jinpeng. Dari situ aku bisa mengira-ngira, Tian Yingjiao
+sungguh adalah sebuah perguruan yang kuat. Aku sebetulnya harus tahu lebih banyak tentang mereka, mungkin saja nantinya
+mereka akan menjadi musuh Wudang."
+
+Sementara sedang berpikir-pikir, ia mendengar suara senjata beradu di kejauhan. Merasa penasaran, ia berjalan mendekati
+sumber suara tersebut, dan melihat Gao Zecheng sedang berlatih pedang dengan Jiang Tao, sementara Yin Susu menonton latihan
+mereka dari samping.
+
+Zhang Cuishan berpikir, "Shifu bilang bahwa ilmu pedang Kunlun Pai sangat unik. Waktu masih muda, Shifu pernah bertarung 
+melawan pendekar pedang dari Kunlun yang dijuluki 'Dewa Pedang'. Sungguh sebuha kesempatan emas bisa melihat ilmu pedang
+mereka." Tapi mengintip orang lain sedang berlaih kungfu sebenarnya sangat tidak terpuji, karena itu meskipun ia sangat
+ingin melihat, betapapun juga ia kemudian berbalik untuk pergi.
+
+Tetapi Yin Susu ternyata sudah melihat kehadirannya, dan kemudian berseru, "Zhang Wuge, cepat sini!"
+
+Kalau sekarang Zhang Cuishan melangkah pergi, maka ia akan tampak seperti seedang mengintip. Krenanya ia tak punya pilihan 
+selain berjalan mendekat. Ia berkata, "Karena mereka sedang berlatih, sebaiknya kita menjauh supaya tidak mengganggu mereka."
+
+Sebelum Yin Susu sempat menjawab, sinar pedang berkelebat ketika pedang Jiang Tao melukai lengan kiri Gao Zecheng, darah pun
+mulai mengalir. Zhang Cuishan terpaku, ia mengira Jiang Tao tidak sengaja melukai Gao Zecheng. Namun demikian, Gao Zecheng
+sama sekali tidak bersuara. Ia hanya terus bertarung, setiap serangannya lebih mematikan ketimbang sebelumnya. Zhang Cuishan
+sangat terkejut setelah tahu bahwa mereka sebetulnya sungguh-sungguh bertarung dengan serius.
+
+Yin Susu berkata sambil tersenyum, "Kelihatannya kakak seperguruan ebih buruk ketimbang adiknya. Ilmu pedang Jiang Xiong
+lebih indah."
+
+Ketika Gao Zecheng mendengat kata-kata itu, ia menggertakkan giginya, pedangnya membacok turun dari sudut miring, menggunakan
+gerakan 'Angin Tajam dari jarak Ribuan Meter', menghujam turun dari tengah udara. Zhang Cuishan tak dapat menahan pujiannya,
+"Tekmik pedang hebat!"
+
+Jiang Tao segera mengelak, tetapi Gao Zecheng terlalu berpengalaman. Di tengah rangkaian serangan itu, ia mengubah jurusnya.
+Ujung pedang itu bergetar, menukik ke arah kaki kiri Jiang Tao. Yin Susu bertepuk tangan sambil berkata, "Wow, kelihatannya
+kakak seperguruan punya teknik rahasia. Rasanya dia lebih bagus."
+
+Jiang Tao berkata, "Jangan terlalu yakin." Lalu menggunakan teknik 'Hujan turun ke arah bunga terbang'. Teknik ini sangat
+rumit. Serangan sesungguhnya tersembunyi di antara tujuh atau delapan perangkap elegan untuk menipu lawan. Tetapi karena
+Gao Zecheng sangat mengenal teknik ini, ia tidak tertipu, dan bisa menangkis semua serangan. Sekarang keduanya sudah
+terluka. Meskipun tidak parah, tetapi orang tetap bisa melihat darah mengucur dari luka itu. Serangan mereka makin lama
+makin dahsyat, hingga akhirnya mereka tampak seolah ingin saling membunuh. Yin Susu terus memberi semangat, memuji Jiang Tao
+sedikit, dan juga memuji Gao Zecheng sedikit. Kedua saudara seperguruan itu terbakar sampai bertarung seolah-olah sedang
+mempertahankan nyawa mereka masing-masing.
+
+Saat itu Zhang Cuishan menyadari bahwa pertarungan itu sebetulnya sengaja dipicu oleh Yin Susu, sebagai 'balas dendam' karena
+sebelumnya mereka menghina Tian Yingjiao. Meskipun teknik mereka sangat canggih, tetapi Zhang Cuishan bisa melihat bahwa
+mereka sebetulnya kurang pengalaman, dan tenaga dalam mereka lemah, karenanya ilmu pedang itu hanya bisa dipamerkan sekitar
+sepuluh sampai dua puluh persen dari aslinya.
+
+Yin Susu bertepuk tangan dan tersenyum cerah, seolah-olah ia sangat gembira. Ia berkata, "Zhang Wuge, apa pendapatmu tentang
+ilmu pedang Kunlun Pai?"
+
+Ia berpaling ke arah Zhang Cuishan sebelum yang ditanya sempat menjawab, dan menyadari air mukanya yang tampak muak. Ia lalu
+menambahkan, "Sebetulnya teknik mereka hanya omong kosong. Ayo kita ke pantai untuk melihat pemandangan." Tanpa menunggu 
+jawaban, ia menarik tangan Zhang Cuishan dan berjalan pergi.
+
+Hati Zhang Cuishan terusik ketika tangan yang lembut itu menggenggam tangannya. Meskipun ia tahu bahwa Yin Susu sedang 
+memperalat dirinya untuk mempermalukan Gao Zecheng dan Jiang Tao lebih jauh lagi, ia tetap tidak bisa memisahkan diri, dan 
+dengan sukarela meengikuti gadis itu pergi ke pantai.
+
+Yin Susu memandang ke arah laut, lalu tiba-tiba berkata, "Di bagian 'Air Di Musim Gugur' dalam buku Zhuang Zi, ada sebuah 
+kalimat yang mengatakan, 'Air di dunia ini, tak bisa dibandingkan dengan air di lautan, ribuan sungai mengalir ke situ,
+tanpa tahu kapan mereka bisa berhenti dan tidak meluap.' Tetapi lautan tidak bangga. Dia bilang, 'Aku adalah milik langit
+dan bumi, sama seperti kerikil dan tanaman kecil yang juga milik langit dan bumi.' Zhuang Zi sungguh buku yang luar biasa.
+Filsafatnya sangat dalam dan menghanyutkan."
+
+Zhang Cuishan sangat marah kepadanya karena sengaja mengadu domba Gao Zecheng dan Jiang Tao, tetapi mau tidak mau jadi
+terkesima mendengar kata-kata itu. Zhuang Zi adalah kitab yang _wajib dibaca_ oleh semua pengikut Taoisme. Ketika berada
+di Wudang Shan, Zhang Sanfeng sering menggunakannya untuk menerangkan filsafat kepada semua muridnya. Ia tak bisa membayangkan
+bahwa perempuan jahat ini bisa mengutip kalimat semacam itu. Setelah pulih dari rasa terkejut, Zhang Cuishan berkata, "Ya,
+'Berjalan ribuan mil tak bisa mengalahkan pengertiannya. Mendaki ribuan langkah tak bisa mengalahkan kedalamannya.'"
+
+Ketika mendengar penjelasannya mengenai kutipan itu, Yin Susu melihat kekaguman di wajah Zhang Cuishan. Ia berkata, "Kau
+sedang memikirkan gurumu?"
+
+Saking kagetnya, tanpa sadar Zhang Cuishan memegang tangannya dengan tangan kanannya. Ia bertanya, "Dari mana kau tahu?"
+Bertahun-tahun sebelumnya, ketika ia sedang membaca kitab itu bersama saudara-saudaranya, Yu Daiyan mengomentari isi
+yang tepat sama, dan berkata. "Semakin kita pelajari, kelihatannya kita seolah-olah sedang bergerak mundur. Makin banyak
+kita belajar, tampaknya kita makin jauh terpisah dari Shifu. Kata-kata ini menggambarkan kungfu Shifu yang tak terbatas,
+dan tak tertandingi." Saat itu Song Yuanqiao dan Zhang Cuishan mengangguk setuju. Karena itulah, ketika ia barusan mengutip
+kalimat itu, Zhang Cuishan segera berpikir tentang gurunya, Zhang Sanfeng.
+
+Yin Susu berkata, "Dari air mukamu, kau pasti sedang memikirkan orang tuamu atau salah satu senior Wudang. Tapi selain 
+Zhang Sanfeng Daozhang[^daozhang], di dunia ini siapa lagi yang bisa digambarkan sebagai 'Berjalan ribuan mil tak bisa 
+mengalahkan luasnya. Mendaki ribuan langkah tak bisa mengalahkan kedalamannya.'?"
+
+[^daozhang]: Dao Zhang (道长) = 'Pendeta Tao' atau Taois
+
+Zhang Cuishan berkata dengan gembira, "Kau sungguh pintar." Tapi kemudian ia segera sadar bahwa sangat tidak sopan memegang
+tangan gadis itu begitu saja.
+
+Yin Susu berkata, "Sebagus apa sih kungfu gurumu? Bisa kau ceritakan?"
+
+Zhang Cuishan menarik nafas dan berkata, "Bukan hanya soal kungfu. Pengetahuannya sangat luas dan dalam, aku bahkan tak tahu
+harus mulai cerita dari mana."
+
+Yin Susu tersenyum sambil berkata, "Orang pintar berjalan, orang pintar bergerak cepat, orang pintar melaju, orang pintar
+seperti roh yang terbang menuju kejauhan, menghilang sementara aku mencarinya.'" Kutipan itu diambil dari Yan Hui di dalam
+Zhuang Zi, yang sedang memuji gurunya, Konfusius. Setelah mendengar Yin Susu menggambarkan gurunya dengan cara seperti itu,
+dan terutama karena Zhang Cuishan sendiri juga merasakan hal yang sama, ia berkata, "Guruku tidak perlu terbang, hanya perlu
+berjalan, dan aku pasti akan ketinggalan."
+
+Dengan kepandaian Yin Susu, ditambah dengan niatnya untuk mendekati Zhang Cuishan, mereka tak punya kesulitan untuk terlibat
+dalam pembicaraan yang bermutu. Duduk berdampingan di sebuah batu besar, keduanya melupakan waktu dan segala hal lain di
+sekitar mereka sementara sedang bercakap-cakap.
+
+Setelah beberapa saat, suara langkah kaki yang cukup keras terdengar di kejauhan, diikuti oleh suara berdehem, dan berkata,
+"Zhang Gongzi, Yin Guniang, ini sudah tengah hari. Harap ikuti aku ke tempat acara." Zhang Cuishan berpaling dan melihat
+Chang Jinpeng sedang berdiri sekitar sepuluh langkah di belakang mereka. Meskipun air mukanya sangat sopan, tetapi senyum
+tipis tampak di sudut bibirnya, seolah gembira melihat sepasang muda-mudi itu sedang bersama. Meskipun Yin Susu selalu
+memandang orang itu sebagai anak buahnya, tapi saat itu tetap saja ia tersipu, dan memalingkan mukanya. Pipi Zhang Cuishan
+memerah setelah melihatnya, meskipun ia yakin bahwa ia tidak sedang melakukan hal yang salah.
+
+Chang Jinpeng berbalik untuk mendahului mereka. Yin Susu berbisik, "Biar aku jalan dulu, supaya mereka tidak melihat 
+kita sedang berduaan."
+
+Zhang Cuishan berpikir, "Sejak kapan gadis muda ini jadi pemalu?" Tetapi ia menganggukkan kepalanya.
+
+Yin Susu menghampiri Chang Jinpeng sambil bertanya, "Bagaimana dengan dua orang dungu dari Kunlun Pai itu?"
+
+Pikiran Zhang Cuishan campur aduk ketika memandang mereka berdua menghilang di antara pepohonan. Lalu ia mengikuti jejak
+mereka menuju ke lembah pegunungan itu.
+
+Setelah memasuki lembah, ia melihat lapangan rumput terbuka dengan beberapa meja. Selain sebuah meja yang tampak elegan di
+sebelah timur, meja lainnya sudah terisi. Ketika Chang Jinpeng melihatnya datang, ia berseru, "Inilah Zhang Wuxia dari 
+Wudang Pai!" Ia mengatakan hal itu dengan jelas dan lantang, suaranya bergema di antara pegunungan. Setelah itu Chang Jinpeng
+dan Bai Guishou mendekat untuk menyambutnya.
+
+Bai Guishou berkata, "Pemimpin Cabang Bai Guishou dan Chang Jinpeng, di bawah pimpinan Yin Jiaozhu, menyambut kedatangan
+Zhang Wuxia dalam acara kita."
+
+Zhang Cuishan berpikir, "Ah, jadi ketua mereka sungguh bermarga Yin!" Ia menjawab, "Terima kasih atas sambutannya."
+
+Sementara berjalan melewati meja-meja lain, Zhang Cuishan melihat semua orang sedang memandanginya dengan cara aneh, tapi
+ia tidak terlalu memikirkan hal ini. Ia tidak tahu bahwa tak seorang pun dari para tamu itu disambut dengan cara yang
+sama seperti dirinya, dengan kedua pemimpin cabang dan pemimpin yang menjadi anak buah mereka ikut menyambutnya secara
+pribadi. Untuk semua tamu lain, hanya satu atau dua orang anak buah pemimpin cabang itu yang mmenyambut mereka.
+
+Bai Guishou mengantarnya ke meja di sebelah timur yang masih kosong. Meja ini hanya berisi sebuah kursi, namun begitu,
+adalah meja yang paling elegan. Zhang Cuishan memandang ke sekelilingnya, dan melihat di meja lain ada sekitar tujuh atau
+delapan orang duduk bersama. Gao Zecheng duduk di meja yang keenam. Zhang Cuishan berkata, "Aku sungguh tidak layak
+duduk di meja ini. Bai Xiong, harap pindahkan aku ke meja lain."
+
+Bai Guishou berkata, "Wudang adalah salah satu perguruan yang paling dihormati di Wulin. Ditambah lagi, Zhang Wuxia sangat
+terkenal, karena itu sangat layak duduk di sini."
+
+Zhang Cuishan teringat pelajaran dari gurunya tentang kerendahan hati, dan berpikir, "Seandainya Dage atau Shifu yang
+datang ke sini, maka mereka pasti layak duduk di situ. Tapi aku sudah jelas tidak pantas." Karena itu ia sekali lagi
+menolak untuk duduk.
+
+Gao Zecheng melirik ke arah Jiang Tao. Lalu Jiang Tao mengambil kursinya sendiri, dan melemparkannya ke arah meja Zhang
+Cuishan, melewati lima meja lain. Kursi itu mendarat tepat di sasaran, memamerkan kemampuan tangan dan tenaga dalamnya.
+Gao Zecheng berseru, "Hm, perguruan yang paling dihormati? Entah Wudang pantas atau tidak disebut begitu. Kalau kau,
+Zhang Gongzi, menolak duduk di situ, maka biarkan kami berdua yang mengambil tempatmu." Lalu keduanya melaju seperti
+angin ke arah meja Zhang Cuishan, mendekati kursi.
+
+Sebelumnya Yin Susu mengatakan kepada mereka berdua bahwa ia ingin belajar ilmu pedang Kunlun Pai, karena itu keduanya segera
+menghunus pedang mereka dan mulai memamerkan teknik pedang kepada gadis itu. Awalnya mereka hanya ingin unggul untuk menarik
+perhatian Yin Susu, tetapi kemudian Yin Susu sengaja menyiram bensin ke dalam api dengan kata-katanya, dan duel itu dengan
+cepat menjadi tak terkendali. Baru setelah Yin Susu pergi bersama Zhang Cuishan, mereka akhirnya sadar bahwa mereka telah
+diakali. Sudah jelas keduanya sangat marah, tapi tak seorang pun dari mereka bisa berbuat apa-apa kepada Yin Susu. Karena
+itulah mereka sengaja mengambil kursi Zhang Cuishan untuk memancingnya bertarung melawan mereka berdua, lalu mereka akan 
+mempermalukannya di depan umum.
+
+Chang Jinpeng mengangkat tangan untuk menghentikan mereka sambil berkata, "Tahan!"
+
+Gao Zecheng hendak membantah, ketika Zhang Cuishan berkata, "Kalau kedua tamu terhormat ingin duduk di situ, silakan saja.
+Aku akan bertukar tempat dengan kalian." Sambil bicara, ia mulai berjalan ke arah meja keenam, yang diduduki oleh para
+murid Kunlun Pai.
+
+Tetapi tiba-tiba Yin Susu melambaikan tangan ke arahnya dan berkata, "Zhang Wuge, ayo sini."
+
+Zhang Cuishan tidak yakin apa yang hendak dikatakannya, maka ia berjalan ke arahnya. Yin Susu menarik sebuah kursi, lalu
+meletakkannya di samping kursinya, dan berkata, "Bagaimana kalau kau duduk di sini?"
+
+Zhang Cuishan tak pernah membayangkan bahwa ia akan mengatakan hal seperti itu. Di bawah tatapan semua orang, ia tak bisa
+memutuskan harus berbuat apa. Jika ia setuju, maka hal itu sama saja dengan mengatakan bahwa hubungan mereka sangat intim,
+sedangkan jika menolak, maka akan membuat Yin Susu terlihat sangat buruk di mata semua orang. Yin Susu berbisik, "Aku ingin
+membicarakan beberapa persoalan."
+
+Zhang Cuishan melihat ada semacam permohonan dalam tatapannya, yang membuat hatinya melembut, lalu duduk di kursi itu. Yin Susu
+sangat gembira melihat keputusan itu, dan menuangkan secawan arak baginya.
+
+Meskipun berhasil merebut kursi utama, Gao Zecheng dan Jiang Tao sekarang jadi semakin marah, tapi tidak bisa berbuat apa-apa
+di depan umum. Bai Guishou menyapu debu di kursi mereka dengan tangannya, lalu berkata sambil tersenyum. "Jika para tamu
+dari Kunlun Pai ingin duduk di sini, silakan saja." Sementara ia bicara, para anggota Tian Yingjiao kembali ke tempat
+mereka masing-masing.
+
+Gao Zecheng dan Jiang Tao berpikir, "Sobat yang tak berarti itu terlalu takut untuk duduk di sini. Berarti Wudang sebetulnya
+lebih rendah dari Kunlun Pai kita." Keduanya saling berpandangan, lalu duduk.
+
+Tiba-tiba terdengar suara retakan keras, dan kursi-kursi yang mereka duduki patah, kedua orang itu pun jatuh terjengkang.
+Sungguh sangat memalukan. Tetapi dengan ilmu silat mereka, keduanya segera memulihkan diri, dan bangkit berdiri. Namun 
+demikian, semua yang hadir di situ mulai tertawa terbahak-bahak. Gao Zecheng dan Jiang Tao segera menyadari bahwa Bai Guishou
+telah melakukan sesuatu ketika membersiihkan kursi-kursi itu sebelumnya. Mereka jadi tahu sekuat apa tenaga dalam Bai Guishou
+sebenarnya, jauh lebih kuat dari apa yang mereka bayangkan sebelumnya.
+
+Bai Guishou berkata dengan dingin, "Kami sudah tahu bahwa kungfu Kunlun Pai sangat hebat. Kalian tidak perlu memukuli kursi
+untuk membuktikannya. Lagipula, semua orang juga bisa mematahkan kursi, kan?" Ia lalu melambaikan tangan kanannya ke arah
+sepuluh orang pemimpin yang berada di bawah komandonya. "Kenapa kalian tidak mencobanya?"
+
+Terdengar suara-suara retakan ketika sepuluh kursi mendadak patah. Kesepuluh orang pemimpin itu tetap tinggal di tempat mereka,
+sama sekali tidak bergerak sejengkal pun ketika kursi-kursi itu patah. Hal ini membuat mereka tampak jauh lebih baik ketimbang
+Gao Zecheng dan Jiang Tao. Semua orang langsung sadar bahwa Bai Guishou dengan sengaja ingin mempermalukan Gao Zecheng
+dan Jiang Tao, tetapi pemandangan itu sungguh sangat menghibur, karena itu mereka tak bisa menahan tawa.
+
+Di tengah suara tawa para penonton, dua orang pemimpin yang menjadi bawahan Bai Guishou masing-masing mengangkat sebuah
+batu besar ke arah meja utama, menendangi bekas patahan kursi. Yang seorang berkata, "Sayang sekali kursi kami tidak
+mampu menopang kedua tamu yang terhormat. Bagaimana kalau duduk di atas batu ini saja?" Kedua orang itu dikenal sebagai
+orang-orang kuat di Tian Yingjiao. Oleh karenanya, meskipun kungfu mereka biasa saja, tapi mereka tetap mampu mengangkat
+kedua batu besar itu, yang masing-masing tidak kurang dari dua ratus kilo. Mereka berjalan ke arah dua orang pendekar
+Kunlun itu, ingin menyerahkan batu-batu itu kepada mereka.
+
+Sayangnya ilmu pedang Kunlun Pai yang indah itu sama sekali tidak mampu menolong Gao Zecheng dan Jiang Tao jika masalahnya
+adalah menangkap lemparan batu. Gao Zecheng berteriak, "Letakkan batu itu!" Tetapi kedua orang kuat itu sama sekali tidak
+menggubrisnya, sebaliknya mereka mengangkat baty-batu itu di atas kepala dan berteriak, "Terimalah!"
+
+Ketika mendengar seruan itu, Gao Zecheng dan Jiang Tao mundur beberapa langkah. Mereka takut kedua orang itu tidak cukup
+kuat, dan mungkin secara tidak sengaja akan menjatuhkan batu-batu itu ke atas mereka. Meskipun sangat marah, tetapi keduanya
+tidak berani menyerang orang-oran kuat itu.
+
+Bai Guishou berkata, "Kalau kedua tamu dari Kunlun tidak mau duduk, mungkin harus kita berikan kepada Zhang Gongzi!"
+
+Zhang Cuishan sejak tadi duduk di sebelah Yin Susu, mencium aroma parfumnya, hatinya sedang terbuai, dan tidak mempedulikan
+masalah lain. Kerika mendengar Bai Guishou menyerukan namanya, ia segera kembali ke dunia nyata, dan berpikir, "Aku tidak
+boleh terjebak oleh perangkap iblis ini, dan terlalu dekat dengan perempuan jahat dari sekte sesat ini." Karena itu ia segera
+bangkit berdiri dan melangkah mendekat.
+
+Meskipun sudah mendengar Chang Jinpeng memuji kemampuan Zhang Cuishan sebelumnya, tetapi Bai Guishou tak pernah melihat
+sendiri Zhang Cuishan beraksi. Saat itu ia ingin menguji kemampuan Zhang Cuishan, jadi ia melirik kepada kedua orang kuat
+itu dengan penuh arti.
+
+Kedua orang itu memahami maksudnya. Mereka berjalan ke arah Zhang Cuishan dan berseru serempak, "Hati-hati, Zhang Gongzi,
+terimalah!" Mereka menekuk lutut, dan menggunakan tenaga kaki untuk mendukung lemparan batu ke arah Zhang Cuishan.
+
+Ketika melihat hal itu, para penonton tanpa sadar bangkit berdiri untuk menyaksikannya.
+
+Semula Bai Guishou hanya ingin menguji kungfu Zhang Cuishan, dan bukan berniat jahat. Alasan pertama adalah karena rasa
+penasaran, karena Tujuh Pendekar Wudang terlalu terkenal saat itu. Alasan selanjutnya adalah karena ia tidak bisa mempercayai
+fakta bahwa seorang Zhang Cuishan yang terkenal itu ternyata berpenampilan seperti seorang sastrawan. Dan yang terakhir,
+ia melihat bahwa Yin Susu yang sedingin es, dan sejauh ini tampaknya tak pernah mempedulikan orang lain, sekarang ternyata
+bersikap sangat lembut dan penuh perhatian kepada Zhang Wuxia ini. Hal itu berarti kemungkinan besar Zhang Cuishan nantinya
+akan menjadi orang penting di dalam Tian Yingjiao. Akan tetapi sekarang, setelah ia melihat kedua batu itu melesat ke arah
+Zhang Cuishan, Bai Guishou mulai menyesali keputusannya. Sebagai murid Wudang yang terkenal, Zhang Cuishan pasti bisa mengelak,
+tetapi hal itu akna membuatnya tampak buruk di mata orang lain. Zhang Cuishan, dan yang pasti, Yin Susu, akan marah kepadanya.
+Ia dengan segera bertekad, jika sampai terjadi sesuatu yang salah, ia langsung akan menyalahkan kedua anak buahnya. Lebih baik
+mengeksekusi mereka ketimbang menghadapi murka Nona Yin.
+
+Zhang Cuishan sangat terkejut melihat dua buah batu besar seolah ambruk ke atas kepalanya. Ia tidak bisa sekedar mengelak,
+karena itu akan membuatnya tampak tidak lebih baik ketimbang Gao Zecheng dan Jiang Tao, dan membuat Wudang tampak buruk.
+Oleh karena itu tanpa berpikir terlalu banyak, ia lalu mengerahkan seluruh tenaganya dalam situasi kritis. Tangan kirinya
+menulis bagian kanan dari karakter Wu (武), mengalihkan laju dari batu sebelah kiri. Tangan kanannya menulis goresan miring
+karakter Dao (刀), membawa serta batu sebelah kanan. Tenaga yang timbul dari kedua batu jatuh itu sangat besar. Kekuatan
+terbesar dari Zhang Cuishan tentu saja bukan otot lengannya, karena itu sangat mustahil baginya untuk menangkap salah satu
+dari kedua batu itu. Untung baginya, ia telah menyerap intisari dari teknik yang diciptakan Zhang Sanfeng untuk menulis
+karakter di udara, yang adalah bagian dari prinsip utama ilmu silat di Jianghu. Dasar-dasar ilmu silat Wudang Pai bukanlah pada
+kecepatan maupun kekuatan, melainkan pada rangkaian teknik penggunaan tenaga. Jika seseorang bisa mengerahkan tenaga yang pas
+di saat yang tepat, maka ia akan bisa _memindahkan tenaga ribuan kilo dengan menggunakan tenaga beberapa ons_. Melalui 
+pengalaman dan berlatih selama bertahun-tahun, Zhang Cuishan telah menguasai konsep utama dari teknik ini. Meminjam tenaga
+lontaran batu itu, ia dengan mudah mampu mengalihkan arah batu-batu itu ke atas.
+
+Saat kedua lengan jubahnya menari-nari, tangannya tersembunyi di balik lengan jubah panjang itu. Dari sudut pandang para
+penonton ia seolah-olah telah menangkap batu itu, lalu melemparkan keduanya kembali ke atas. Kedua batu itu melayang ke
+atas susul-menyusul, lalu mulai turun lagi. Zhang Cuishan melayang ke atas hingga ia duduk di atas batu yang lebih tinggi.
+
+Suara menggelegar terdengar ketika kedua batu itu menghantam tanah, dan sebagian terbenam di atasnya, menimbulkan cekungan
+besar. Segera setelah itu batu yang di atas jatuh di atas batu pertama, bersama dengan Zhang Cuishan yang sedang duduk tenang
+di atasnya. Ia berkata sambil tersenyum, "Kekuatan kedua pemimpin sungguh luar biasa. Aku kagum."
+
+Kedua pemimpin itu hanya bisa menatapnya dalam diam, mereka tidak mampu mengusir rasa kaget melihat apa yang baru terjadi.
+
+Selama beberapa saat tempat itu menjadi hening. Lalu semua orang mulai bertepuk tangan, yang berkepanjangan sampai sangat
+lama.
+
+Yin Susu melirik ke arah Bai Guishou, tatapannya tampak sangat senang. Bai Guishou sendiri sangat kegirangan ketika melihat
+'kesalahan' yang dilakukannya telah berubah menjadi sebuah keuntungan bagi Nona Yin. Ia mengambil cawan arak, berjalan ke arah
+meja Zhang Cuishan sambil berkata, "Sudah lama aku mendengar tentang Zhang Wuxia dari Wudang, tapi baru hari ini aku bisa
+melihat sendiri kungfumu yang menakjubkan. Aku ingin bersulang untukmu." Ia menenggak araknya. Zhang Cuishan berkata, 
+"Bai Tanzhu memuji berlebihan." sambil menenggak araknya sendiri.
+
+Bai Guishou berjalan ke tengah pertemuan itu dan berseru, "Perguruanku baru-baru ini endapatkan sebuah golok, yang disebut
+Golok Pembunuh Naga. Ada syair terkenal mengatakan, 'Raja Dunia Persilatan, _Golok Pembunuh Naga_. Menguasai dunia di bawah
+kolong langit, _tak seorang pun berani membantah_!'" Ia berhenti sejenak, matanya menyapu ke segala arah, membiarkan kalimat
+itu dicerna baik-baik. Lalu ia menambahkan, "Semula Yin Jiaozhu bermaksud megadakan pertemuan di Tian Yingshan, supaya semua
+orang bisa melihat Golok Pembunuh Naga itu. Tetapi rencana itu perlu waktu sangat lama untuk dipersiapkan. Kami ingin beberapa
+teman dekat melihat golok itu dulu, dan menyebarkan berita ini untuk kami." Ia melambaikan tangannya, dan delapan orang murid
+segera berjalan memasuki sebuah gua terdekat.
+
+Semua orang memandang kedelapan murid itu, mereka mengira bahwa para murid itu sedang mengambil golok. Sebaliknya, mereka
+ternyata keluat membawa sebuah tungku besi berukuran besar. Mereka menggunakan tiang untuk menggotong tungku itu, untuk
+menghindari panasnya api dari dalam tungku. Kedelapan mrid itu meletakkan tungku tepat di tengah lapangan acara pertemuan. 
+Semua orang yang sedang duduk dengan segera merasakan hangatnya api. Setelah delapan murid itu pergi, empat orang murid lain
+datang, membawa sebuah tatakan besi besar, sementara dua orang lainnya membawa dua buah palu besi yang berat.
+
+Bai Guishou berkata, "Chang Tanzhu, harap tunjukkan Tulong Dao!"
+
+Chang Jinpeng berkata, "Sesuai perintah!" Ia berpaling dan berseru, "Ambil golok itu!"
+
+Kedua orang kuat berjalan memasuki gua. Ketika muncul kembali, mereka membawa sebuah bungkusan kuning, sementara yang lain
+mengawal mereka. Bungkusan itu diberikan kepada Chang Jinpeng, lalu pembawanya mengundurkan diri. Chang Jinpeng membuka 
+bungkusan itu dan menunjukkan sebuah golok. Di bawah tatapan para penonton, ia menghunus golok sambil berkata, "Inilah
+Tulong Dao yag terkenal itu. Perhatikan baik-baik!" Ia mengangkat golok itu tinggi-tinggi di atas kepalanya, seolah-olah 
+sedang menunjukkan rasa hormat yang tinggi kepada sebuah barang pusaka.
+
+Semua orang di situ telah lama mendengar cerita yang beredar tentang Tulong dao, tetapi golok hitam yang mereka lihat itu
+ternyata tampak biasa saja. Semua orang bertanya-tanya apakah golok itu memang asli. Chang Jinpeng menyerahkan golok itu
+kepada salah seorang kuat di sebelah kirinya dan berkata, "Uji golok ini!"
 
 
-**Last Page 16**
+That strongman grabbed the saber and put it on the anvil, the sharp edge facing up.
+The other strongman raised the iron hammer, brought it down upon the saber. Only to
+hear a soft scratching sound, the hammer split in half, one side stuck to the anvil, the
+other fell to the ground. Everyone gasped, stood up, and thought, “It’s not incredibly
+rare to see precious swords cut through gold or jade. But to cut through an iron ham-
+mer like tofu, without making much of a sound, is simply unheard of.
 
-***
+Two people from the Huge Whale Clan and the Divine Fist Sect went up to examine the
+broken hammer, saw that the cut was clean and shiny, meaning that it was recently
+made.
 
-[Reference video from YTTLJ 1994 Ep 06](https://www.youtube.com/watch?v=yntXxSiVERw&list=PLgS92HVmelKTK5rXTPlNbKHJMKfkjUXKy&index=6).
+That strongman grabbed another large hammer, and once again brought it down up
+the saber, with the same result.
 
-[Episode 19](https://www.youtube.com/watch?v=EQI6zbC4IXk&list=PLgS92HVmelKTK5rXTPlNbKHJMKfkjUXKy&index=19)
+Zhang CuiShan thought, “I can’t believe there exist a saber as sharp as this one.”
 
-[Episode 23](https://www.youtube.com/watch?v=S1ufAz3ikmk&list=PLgS92HVmelKTK5rXTPlNbKHJMKfkjUXKy&index=23)
+Chang JinPeng grabbed the saber and with a seemingly light stroke cut the anvil in half.
+He then went to the nearby forest, and in a single swoop, used the saber to cut through
+eighteen trees. But oddly enough, none of the trees even moved. Just as the crowd was
+wondering, Chang JinPeng pushed one of the trees slightly, and the top part came
+down. The saber did indeed sliced through all the trees. But since it was so sharp, and
 
-[Episode 45](https://www.youtube.com/watch?v=o6hvernTqQI)
+Chang JinPeng’s slice was horizontal, the trunks did not fall down upon cut. Heavy
+wind came at this moment, the rest of the trees fell.
+Chang JinPeng let out a hearty laugh, waved his hand, and threw the Dragon Saber into
+the iron pot.
 
-[Episode 46](https://www.youtube.com/watch?v=7pw0NGSsL84)
+Suddenly, loud cracking noises came from afar, as if someone else is also cutting down
+trees. Bai GuiShou and Chang JinPeng looked at each other, then stared into the dis-
+tance, only to see the ships’ masts all falling down one after another. Not knowing
+what’s going on, each sect sent some people to the dock to see what’s going on.
 
-[Episode 47](https://www.youtube.com/watch?v=U4dsYc8prOw&list=PLgS92HVmelKTK5rXTPlNbKHJMKfkjUXKy&index=47)
+Only to hear loud noises continue, as if the boats were all sailing within a thunder-
+storm. One after the other, the boats sank. Everyone gathered froze, not knowing what
+to say. At first, they thought it was some trick by the Heavenly Eagle Sect. But once they
+saw the Heavenly Eagle Sect ships sinking, they felt something else is going on.
 
-[Episode 3 versi 1986](https://www.youtube.com/watch?v=tIaaxYOyPMk&list=PL4lu3cWsxT5As_Sisz36uYw04oq5WaIkw&index=4)
+The sects sent a second group of people to check on things. Again, no one came back.
+
+Bai GuiShou said to one of the sub-leader, “Go check it out.” That sub-leader did as told.
+Bai GuiShou then turned to the audience, said with a smile, “Looks like there’s some-
+thing odd going on at the beach. Don’t worry. Even if the boats are ruined, we can al-
+ways make more. Come, let’s drink!” Although everyone’s uneasy about the situation,
+none wants to show weakness in front of others. So they all picked up their cups for a
+drink. Suddenly a loud scream came from afar.
+
+Chang JinPeng and Bai GuiShou both realize that this was the scream of the sub-leader
+they sent out. Then, heavy footsteps could be heard, followed by the appearance of a
+heavily wounded man, indeed the sub-leader they sent out.
+
+He held his hand over his eyes, as blood poured out the numerous heavy scratchs on
+his body. He yelled, “Golden-Haired Lion King! Golden-Haired Lion King!” Bai GuiShou
+asked, “Did you say it’s a lion?” He calmed down a bit hearing it was just an animal.
+That sub-leader said, “No! No! He was a person. He clawed to death all the people. He
+sank all the boats!” At this moment, his body fell to the ground, dead.
+
+Bai GuiShou said, “Let me go see what happened.” Chang JinPeng said, “I’ll go with
+you.” Bai GuiShou said, “You should stay and protect Miss Yin.” He knew that the dead
+sub-leader’s kung fu is quite formidable. Anyone capable of decapitating him like that
+must be very powerful. Chang JinPeng nodded and said, “Yes!”
+
+Suddenly they heard a voice, “Golden-Haired Lion King is already here!” Everyone
+gasped, only to see a man appear from behind the trees. He was tall and massive, with
+yellow hair over his head, his eyes shined, in his hand is a three-meter long mace. The
+way he stood and looked gave off the aura of a war god from Heaven.
+
+Zhang CuiShan thought, “Golden-Haired Lion King? He must’ve gotten the nickname
+from his yellow hair. But who is he? Master never mentioned someone like him.”
+
+Bai GuiShou went up to him and asked, “May I have your name?” That person said, “My
+surname is ‘Xie’, given name is ‘Xun’. I also have a nickname called ‘Golden-Haired
+Lion King’.” Zhang CuiShan and Yin SuSu looked at each other, thought, “This person
+looks very coarse, but his name is quite elegant. His nickname is much more fitting.”
+Hearing him very mannerly, Bai GuiShou said, “So it is Mr. Xie. I do not believe that we
+have met. So why did you come to this island and start killing people?”
+
+Xie Xun smiled, showing bright white teeth. He looked around and said, “Why did ev-
+eryone else come here?”
+
+Bai GuiShou thought, “There’s no reason to hide the truth from him. Although his kung
+fu is formidable, he still can’t possibly defeat Chang JinPeng and myself combined, with
+the help of Fifth Hero Zhang and Miss Yin.” He said, “The Heavenly Eagle Sect recently
+acquired a precious saber. We simply asked our friends to come take a look.”
+
+Xie Xun examined the saber currently lying inside the huge iron pot. Its ability to keep
+its natural color under so much heat certainly demonstrated the saber’s value. He be-
+gan to walk towards the pot.
+
+Chang JinPeng saw his intentions, blocked the way, yelled, “Stop!” Xie Xun chuckled,
+said, “What do you want?” Chang JinPeng said, “This saber belongs to the Heavenly
+Eagle Sect. You can certainly examine it, but you cannot take it.” Xie Xun said, “Did you
+make the sword? Or bought it?” Chang JinPeng could not respond. Xie Xun continued,
+“You also took it from someone else. So if I take it from you, it’s hardly unfair. So why
+can’t I do it?” As he spoke he went to grab the saber.
+
+Chang JinPeng took out the watermelons from his waist, yelled, “Mr. Xie, if you don’t
+stop right now, I shall be obligated to use force.” Even as he spoke his warning, his wa-
+termelon had shot out. Xie Xun did not even turn around. He simply waved his mace
+
+behind him, blocked the watermelon and redirected it back towards Chang JinPeng.
+Chang JinPeng gasped, quickly threw out his other watermelon to block the one headed
+towards him. Unfortunately, Xie Xun’s power is just too strong. Upon impact, the second
+watermelons changed its directions too, and both now came back towards him. In an
+instant, they hit Chang JinPeng directly on the chest, killing him instantly.
+
+This sudden change of events shocked Chang JinPeng’s five sub-leaders. They immedi-
+ately attacked Xie Xun. Xie Xun’s left hand grabbed the Dragon Saber, and then tipped
+over the iron pot with his mace. The fallen pot immediately hit three sub-leaders. Then
+it began to roll on the ground, hitting the other two. Four sub-leaders died immediately,
+while the fifth caught fire, and rolled on the ground in extreme pain.
+
+Everyone’s gasped at what has happened. Zhang CuiShan had seen many powerful
+fighters in the martial world, but never someone of Xie Xun’s caliber. He knew that he
+has no chance against Xie Xun. Even his big brother and second brother would not
+likely defeat him either. Other than his master, Zhang CuiShan could not think of a sec-
+ond person that is this man’s match.
+
+Only to see Xie Xun examine the saber, lightly flicked it with his fingers. He nodded,
+said, “Amazing, amazing saber!” He raised his head, looked at sheath besides Bai
+GuiShou, said, “Is this the Dragon Saber’s sheath? Give it to me.”
+
+Bai GuiShou realized that in this situation, he’s pretty much likely to be dead no matter
+what. If he handed Xie Xun the sheath, his fame would go down the drain, and will
+likely die a terrible death when the sect leader finds out. But of course, to disobey this
+man would mean certain death right now. So he said, “If want to kill me, just go ahead.
+Do you think I am afraid of death?”
+
+Xie Xun let out a smile, said, “Oh, a tough guy! Looks like there are some characters in
+the Heavenly Eagle Sect.” Suddenly he threw the Dragon Saber towards Bai GuiShou.
+With the Dragon Saber coming at him, Bai GuiShou wouldn’t dare block it with a
+weapon, nor try to catch it. He quickly evaded to the side. In a flash, ‘swoosh’, the saber
+entered the sheath on the table. It continued to fly forward with the momentum, until
+Xie Xun grabbed the saber with one of the spikes on his mace, causing it to fly back-
+ward, until it entered his hand again. Everyone was astonished by this strange way of
+sheathing a saber.
+
+Xie Xun looked left and right, said, “Is there anyone else who object to me taking this
+saber?” He asked this question twice, without getting a single response.
+
+Suddenly, a person from the Sea Sand Sect table rose, said, “Elder Xie is famous
+throughout the world. Of course, this saber should belong to Elder Xie. None of us
+would dare object.” Xie Xun said, “You are the chief helmsman of the Sea Sand Sect
+Yuan ChangBuo, right?” That person said, “Yes.” He was both happy and terrified that
+Xie Xun knew his name.
+
+Xie Xun said, “Do you know who my teacher was? Which sect I belong to?” Yuan
+ChangBuo stuttered, “Well... Elder Xie...” Actually, he knows nothing about Xie Xun. Xie
+Xun said coldly, “If you don’t know anything about me, then why do you say that I am
+famous throughout the world? I absolutely abhor people like you. Get out here!” His
+last sentence roared like thunder in everyone’s ears. Yuan ChangBuo, scared of his
+power, obediently got up and stepped forward with his head down.
+
+Xie Xun said, “The martial arts of the Sea Sand Sect is mediocre, but specializes in
+harming people using poisonous salt. Last year you killed Zhang DengYun’s family in
+the town of Yu Tao. Just this last month you killed Sea Gate Sect’s OYang Qin. Am I cor-
+rect?” Yuan ChangBuo gasped, thought that considering how secretive these two cases
+were, how could Xie Xun have known about them? Xie Xun said, “Get your subordinate
+to bring out two large bowls of your salt. I want to see what it is.” Everyone in the Sea
+Sand Sect carries poisonous salts with him. Yuan ChangBuo wouldn’t dare disobey, so
+he could only ask his subordinates to bring out the salts, filling two large bowls.
+
+Xie Xun picked up one bowl and smelled it, then said, “We’ll each eat a bowl.” He put
+the mace on the ground, picked up Yuan ChangBuo, held down his chin, and stuffed an
+entire bowl of the salt down his throat.
+
+The deaths of the Zhang DengYuan family and OYang Qin were two unsolvable cases of
+the martial world in recent years. Both Zhang and OYang’s reputations were quite good.
+No one knew that the Sea Sand Sect’s Yuan ChangBuo killed them. Zhang CuiShan was
+actually happy to see him being force-fed poisonous salt.
+
+Xie Xun picked up the other bowl, said, “I’ve always been a fair person. If you eat bowl,
+so will I.” He opened his mouth and poured the whole bowl into his mouth.
+
+No one expected this turn of events. Zhang CuiShan saw that although he’s quite vi-
+cious, Xie Xun had quite a bit of righteousness in him. Besides, the people he’s been
+killing were all terrible people anyway. Overall, Xie Xun left a favorable impression in
+Zhang CuiShan’s mind. At this moment, Zhang CuiShan couldn’t help but yell, “Elder
+Xie, this person deserves to die. You don’t need to be fair with him.” Xie Xun turned to
+look at him, asked, “Who are you?” Zhang CuiShan said, “I am Wu Dang’s Zhang
+CuiShan.” Xie Xun said, “Oh, Fifth Hero Zhang of Wu Dang. Are you also here to take
+the Dragon Saber?” Zhang CuiShan shook his head, said, “I came to look for more infor-
+mation regarding my third brother’s injury. If you know something about this, please
+tell me.”
+
+Before Xie Xun could respond, Yuan ChangBuo screamed in pain, held his stomach
+tightly while rolling back and forth on the ground. After a while, he stopped struggling,
+and died. Zhang CuiShan quickly said, “Elder Xie. Hurry up and take an antidote.”
+
+Xie Xun said, “What’s the need? Give me some wine!” The Heavenly Eagle Sect member
+responsible for taking care of guests quickly brought a bottle of wine over. Xie Xun
+said, “Is the Heavenly Eagle Sect this stingy? Give me a big bowl!” That person then
+brought a big bowl and courteously put it in front of Xie Xun, but thought, “Drinking
+wine right after being poisoned, are you afraid that you won’t die quickly enough?”
+
+Only to see Xie Xun chug the whole bowl down his throat. This bowl held at least
+twenty-some pounds of wine, yet he managed to drink it all up in one gulp. He patted
+his stomach, opened his mouth, and a streak of liquid came out, hitting Bai GuiShou’s
+chest. Bai GuiShou felt like being hit by continuous streaks of iron pellets. Despite his
+high inner power, Bai GuiShou eventually began to falter, and then fell to the ground,
+unconscious.
+
+Xie Xun then turned upward, as the wine shot up and came down like rain over the
+Huge Whale Clan’s people. They all felt an unbearable odor coming from the water.
+Those without good inner power fainted. When the wine had entered Xie Xun’s stom-
+ach, it cleansed the stomach of the poisonous salt, turning the wine into poisonous
+wine. Then Xie Xun released it back out using his inner power, leaving very little in his
+stomach. Considering his inner power, this amount of poison could not hurt him at all.
+
+The leader of the Huge Whale Clan, upon seeing Xie Xun mock his clan this way, stood
+up in anger. But then thought better of it, and sat back down.
+
+Xie Xun said, “Clan Leader Mai, you plundered a seagoing ship this May, didn’t you?”
+Mai Jing’s face turned pale, said, “That’s correct.” Xie Xun said, “I know you are pirates.
+If you don’t plunder ships, then there’s no way for you to make a living. I don’t blame
+you for that. But to throw tens of innocent passengers overboard, raping and killing
+seven women aboard the ship... don’t you think that is way too cruel?” Mai Jing said,
+“Well... well... these are done by my subordinates. I... I didn’t participate.” Xie Xun said,
+“Your subordinates are a vicious lot, yet you do not discipline them. Isn’t that just as
+bad as you yourself doing these deeds?”
+
+Mai Jing thought of his situation, wished only for his own survival, took out his saber,
+said, “Cai Si, Hua QingShan, HaiMa HuLiu, I remembered that you three participated in
+that day’s events!” In three flashes, he cut down three people. These blows came so
+quick those three people had no chance to retaliate, all died immediately.
+
+Xie Xun said, “Good! Except it came too late, and against your own will. Had you killed
+these people at the time, I wouldn’t be here to duel with you today. Leader Mai, what is
+your most accomplished martial art?”
+
+Mai Jing thought, “I probably can’t last even three exchanges if I fight him on land. But
+on water, he’s no match against me. Even if I can’t beat him, at least I can swim away.
+Or could he swim faster than me too?” He said, “I want to see the elder’s underwater
+kung fu.”
+
+Xie Xun said, “Fine, let’s duel underwater.” He walked a few steps, suddenly stopped,
+said, “Hold on. If I leave, these people here might escape!”
+
+Everyone quivered, thought, “He’s afraid that we’ll escape? Does that mean he wants to
+kill us all?”
+
+Mai Jing said in a hurry, “Actually, I’m no match for Elder Xie underwater either. I’ll ad-
+mit defeat.” Xie Xun said, “Really? Well, that saves me some time. Go ahead and kill
+yourself and be done with all this.” Mai Jing was taken aback, said, “But... but it’s just a
+duel. There’s no reason for the loser to commit suicide upon defeat...”
+
+Xie Xun yelled, “Don’t give me that crap! You think you’re worthy of dueling me? I’m
+here to take your life. For people like us who practice martial arts, it’s not a big deal for
+us to shed some blood. But I only kill people who knows kung fu, and despise those
+who oppress the weak, kill innocent civilians. I will not let anyone who have done these
+things get away.”
+
+When Zhang CuiShan heard this, he couldn’t help but glance at Yin SuSu, thought that
+she did indeed kill many innocents at the Dragon Gate Escort Agency. If Xie Xun knew
+about that, he would have to kill her too. Only to see Yin SuSu’s face pure white, her lips
+shivering. Zhang CuiShan thought again, “If Xie Xun really tried to take her life, would I
+protect her? If I did, then I would surely die. Besides, she would deserve it, but... but...
+can I really stand and watch him kill everyone like this?”
+
+Only to hear Xie Xun said, “Except I want you to die without regret, which is why I chal-
+lenge you to your best martial arts skills. If you know of any skill you can best me at, I’ll
+let you go.”
+
+As he spoke, he grabbed two piles of dirt from the ground and mixed them with some
+wine, making two piles of mud. He said to Mai Jing, “Let’s see how long you can last
+without breathing. Let both of us cover our noses and mouths with these mud.
+Whoever couldn’t stand the lack of air first kills himself.” Without even asking for Mai
+Jing’s approval, he put one pile of mud over his nose and mouth, while slapping the
+other pile over Mai Jing’s.
+
+Although everyone thought this scene is pretty funny, no one could laugh out loud.
+
+Mai Jing took a deep breath right before the mud covered him. Then he sat down in a
+meditating position, motionless. He’s been catching fish under water since he was
+seven, and has amazing marine skills. Therefore, he was quite certain that there’s no
+way he could lose this duel, waited peacefully on the ground.
+
+Xie Xun, though, could not sit peacefully. He walked in front of the Divine Fist Sect’s ta-
+ble, stared at its leader Guo SanQuan.
+Guo SanQuan* felt very uneasy under Xie Xun’s gaze. He stood up and said, “How are
+you, Elder Xie. I am Guo SanQuan.”
+
+*Note:* ‘San’ means ‘three’ and ‘Quan’ means ‘fist’.
+
+Xie Xun could not speak, but held out his right hand, dipped it into some wine, then
+wrote three characters on the table.” Guo SanQuan’s face turned gray immediately,
+looking like he just saw a ghost. His disciples all looked at the words, saw them to be
+‘Cui Fei Yan’. His disciples thought, “ ‘Cui FeiYan’ is a woman’s name. Why would the
+master be so afraid of these characters?”
+
+Guo SanQuan himself obviously knew, for Cui FeiYan was the wife of a relative. He
+wasn’t able to rape her, and killed her instead. He thought, “Looks like he’s going to kill
+me too. I really should attack right now, while he couldn’t breathe. This way, he’s bound
+to lose to Mai Jing.” He yelled, “I would like to challenge you to a duel.” Before Xie Xun
+could respond, his fist shot up, aimed at Xie Xun’s lower abdomen. The second fist im-
+mediately followed the first one. His ‘three fist’ name came from his amazing power in
+the fist. One fist can knock down a bull. Most martial artists could last at most three
+fists from him. He knew at the moment that he better hurry, for once Mai Jing could no
+longer hold out, Xie Xun would take off his pile of mud and be able to breath again.
+Anyone who can’t breathe while fighting would be at a severe disadvantage.
+
+When he attacked twice, Xie Xun could block them, but with much less power than
+when he had fought Chang JinPeng. Guo SanQuan yelled, “The third fist is coming!”
+This third fist has a name, called ‘One Sweep Across Thousands of Soldiers, One Blow to
+Knock Down Ten Thousand Horses’. It’s his best technique. He had won many fights us-
+ing this move.
+
+By this time, Mai Jing’s face had turned red, with sweat pouring down his head, obvi-
+ously unable to hold out much longer. Young Leader Mai, seeing his father in such a
+critical condition and Xie Xun fighting elsewhere, came up with an idea. He grabbed a
+hairpin from a lady sect member, and tried to stick it into his father’s mouth. Although
+it might hurt his father’s lips, at least the hole made by the hairpin would ensure air go-
+ing in.
+
+At this moment, a pebble came in his direction, breaking the hairpin into two pieces.
+The tip flew up, Young Leader Mai let out a loud scream, clutched his right eye, only to
+see blood coming down from his right eye, pierced by the hairpin tip.
+
+Mai Jing raised his hands to wipe the mud off, but Xie Xun threw out two more pebbles,
+breaking the joints on his shoulders, preventing his arms to move.
+
+At this exact moment, Guo SanQuan’s third fist came directly at Xie Xun’s lower ab-
+domen. He thought Xie Xun would obviously try to evade, but for some reason Xie Xun
+did not move at all. The punch landed perfectly. But upon impact, Guo SanQuan real-
+ized that something was wrong, for that part of the body should’ve been very soft,
+while his fist felt like it hit a stone wall. But it was too late, as the impact reverberated
+back into his body, and he fell back, dead.
+
+Xie Xun turned around, only to see Mai Jing now lay on the ground dead. He first wiped
+away the mud on Mai Jing’s face, checked his breath, then wiped the mud off his own
+face. He faced the sky and yelled, “These two people had been terrorizing society for
+too long now. Considering that they were able to live till today, the punishment came
+too late.” Then he quickly turned towards the two Kun Lun swordsmen, first at Gao
+ZeCheng, then at Jiang Tao, but did not speak for a long time.
+
+Gao and Jiang’s faces turned white, put their hands on their swords, stared back at Xie
+Xun. Zhang CuiShan knew that they are Xie Xun’s next targets, stood up, and said,
+“Elder Xie, the people you had killed all deserved to die. But if you kill without justifica-
+tion, then what makes you so different from them?”
+
+Xie Xun smirked, said, “What’s the difference? My kung fu is excellent, their’s are medi-
+ocre. The strong prevails over the weak. That is the difference.” Zhang CuiShan said,
+“The difference between humans and animals is that we can tell the difference be-
+tween right and wrong. If the strong always oppress the weak, then how are we differ-
+ent from animals?”
+
+Xie Xun laughed out loud, said, “Do you think humans really knows right from wrong?
+Today, our Emperor is Mongolian. He can kill as many Hans as he wished. Are you go-
+ing to discuss right and wrong with him? If the Mongolians want Han people’s children
+and property, they simply take them. If anyone resists, the Mongols kill him. Are you
+going to discuss right and wrong with them?”
+
+Zhang CuiShan pondered for a moment, then said, “The Mongolians’ actions are no bet-
+ter than animals. That’s why all proud Hans detestat them, hoping that one day we shall
+drive them off our lands.”
+
+Xie Xun said, “Before the Mongols came, we had Han emperors. Do you think they care
+about right and wrong? Yue Fei was a loyal court official, yet Sun GaoZong executed
+him. Qin Gui was a treacherous court official, yet he lived a prosperous life, enjoying
+unlimited riches.” Zhang CuiShan said, “The Southern Song’s emperor was indeed a ter-
+rible one, making use of wrong court officials, finally gave our land over to the
+Mongolians. His wrongdoings had terrible consequences. That’s why we must be right-
+eous, to avoid regretful consequences.” Xie Xun said, “You’re right, the emperor was in-
+deed terrible. However, most of the people these Mongolians killed were civilians. Tell
+me, what evils have these innocent civilians done to deserve such fate?” Zhang CuiShan
+paused.
+
+Yin SuSu suddenly answered, “The civilians have no power to retaliate. So it’s quite
+normal that they’d be slaughtered.”
+
+Zhang CuiShan said, “The reason we practice martial arts is to help those in need, de-
+fend the weak who can’t protect themselves. Elder Xie’s martial arts is unparalleled. If
+you use your skills for the good of the people, many will benefit.”
+
+Xie Xun said, “What’s so good about being righteous? What’s my benefit for doing right-
+eous things?”
+
+Zhang CuiShan paused. Since he was a child, Zhang CuiShan had been taught that one
+learns martial arts for righteousness. Yet he never really thought of the benefits of be-
+ing righteous, only felt like it’s just simply the right thing to do. After a while, he said,
+
+“Well, if you do good deeds, then you’re on the side of justice. Doing good deeds will
+lead to good fortune. Doing bad deeds leads to bad fortune.”
+
+Xie Xun laughed wildly, said, “What a load of crap! Do you really believe that?”
+
+Zhang CuiShan thought of Yu DaiYan. His third brother had only done righteous things
+in his life, yet for no reason at all, he was gravely injured. Even he himself now isn’t so
+sure he believed these words. Zhang CuiShan sighed, said, “Sometimes its hard to un-
+derstand the workings of Heaven. We can only try to be true to our hearts. Whether
+this results in good fortune or bad fortune, is not something we can control.”
+
+Xie Xun looked at him, said, “I’ve long heard that your teacher Zhang SanFeng’s martial
+arts is unmatched in the world, but unfortunately never had the chance to meet him.
+You are one of his top disciples, yet you are so mediocre. Guess there’s no reason to visit
+him after all.”
+
+Zhang CuiShan, fuming at these words that belittled his master, said angrily, “Do you
+think you’re worthy to judge my master’s abilities? Your kung fu is extremely high, but
+still nowhere near my master’s level.”
+
+Yin SuSu hurriedly pulled on the back of Zhang CuiShan’s robe, telling him to bear with
+Xie Xun for the moment. Zhang CuiShan thought, “Life and death is not big of a deal,
+but I can’t let down the Wu Dang name.”
+
+Oddly enough, Xie Xun did not become angry. He said calmly, “Zhang SanFeng started
+the Wu Dang Sect. So there must be something extraordinary about him. The philoso-
+phy of martial arts is unlimited and boundless. I wouldn’t be surprised if he’s much su-
+perior to myself. Perhaps one day I will visit Wu Dang just to meet him. Fifth Hero
+Zhang, what is your best kung fu? I’m quite interested to see.”
 
 ***
 
